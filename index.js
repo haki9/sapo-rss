@@ -39,7 +39,7 @@ function createTwitterRss(data){
     var feed = new RSS({
         title: 'Công thức nấu ăn - Tinh hoa quê nhà',
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
-        pubDate: data[0].modified_on,
+        pubDate: new Date(),
     });
     for (let i = 0; i < 2; i++) {
         var article = data[i];
@@ -48,7 +48,7 @@ function createTwitterRss(data){
             description: article.meta_description,
             url: 'https://tinhhoaquenha.vn/' + article.alias,
             guid: 'https://tinhhoaquenha.vn/' + article.alias,
-            date: article.published_on
+            date: new Date()
         };
         feed.item(itemOptions);
     }
