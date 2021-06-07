@@ -4,7 +4,7 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jun 2021 11:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jun 2021 12:02:33 GMT</lastBuildDate>
         <pubDate>Mon, 07 Jun 2021 07:33:41 GMT</pubDate>
         <item>
             <title><![CDATA[Hướng dẫn cách làm bánh nướng tết Trung thu thơm ngon hấp dẫn]]></title>
@@ -12,6 +12,13 @@
             <link>https://tinhhoaquenha.vn/cach-lam-banh-nuong</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-banh-nuong</guid>
             <pubDate>Mon, 07 Jun 2021 02:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hướng dẫn 3 cách hầm gà cách thuỷ thơm ngon bổ dưỡng]]></title>
+            <description><![CDATA[Gà hầm là một món ăn, nó không chỉ là món ăn thông thường mà gà hầm còn được coi như là vị thuốc dùng để bồi bổ cho cơ thể với những người vừa mới ốm dậy, mất sức, phụ nữ sau sinh. Cùng THQN vào bếp với 3 món Gà hầm hạt sen, Gà hầm ngải cứu, Gà hầm thuốc bắc thơm ngon, bổ dưỡng tại nhà.]]></description>
+            <link>https://tinhhoaquenha.vn/cach-ham-ga-cach-thuy</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-ham-ga-cach-thuy</guid>
+            <pubDate>Mon, 07 Jun 2021 02:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

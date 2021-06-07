@@ -1,7 +1,7 @@
 const axios = require('axios');
 var RSS = require('rss');
 var fs = require('fs');
-var fs = require('fs');
+
 var sapo = require('./sapo.js')
 
 axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
@@ -41,7 +41,7 @@ function createTwitterRss(data){
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: data[0].modified_on,
     });
-    for (let i = 0; i < 1; i++) {
+    for (let i = 0; i < 2; i++) {
         var article = data[i];
         const itemOptions = {
             title: article.meta_title,
