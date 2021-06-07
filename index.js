@@ -41,7 +41,7 @@ function createTwitterRss(data){
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: data[0].modified_on,
     });
-    for (let i = 0; i < data.length; i++) {
+    for (let i = 0; i < 1; i++) {
         var article = data[i];
         const itemOptions = {
             title: article.meta_title,
