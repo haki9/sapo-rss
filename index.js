@@ -41,7 +41,7 @@ function createTwitterRss(data){
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: data[data.length-1].published_on,
     });
-    for (let i = 0; i < 2; i++) {
+    for (let i = 0; i < 3; i++) {
         var article = data[i];
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`

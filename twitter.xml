@@ -4,7 +4,7 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jun 2021 02:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 02:07:55 GMT</lastBuildDate>
         <pubDate>Sat, 15 May 2021 13:17:00 GMT</pubDate>
         <item>
             <title><![CDATA[Hướng dẫn 3 cách hầm gà cách thuỷ thơm ngon bổ dưỡng]]></title>
@@ -19,6 +19,13 @@
             <link>https://tinhhoaquenha.vn/cach-lam-banh-nuong</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-banh-nuong</guid>
             <pubDate>Mon, 07 Jun 2021 02:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mách bạn cách làm củ cải khô để lâu không lo bị mốc]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-cu-cai-kho"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-lam-cu-cai-kho-8.jpg?v=1622557218597"></a></br>Từ xưa đến nay củ cải trắng luôn là món ăn quen thuộc của mọi gia đình, củ cải trắng có rất nhiều trên thị trường giá thành vừa rẻ và có giá trị dinh dưỡng cao. Để có thể lưu trữ củ cải ăn quanh năm, hôm nay Tinh Hoa Quê Nhà sẽ hướng dẫn các bạn cách muối củ cải khô đơn giản tại nhà.]]></description>
+            <link>https://tinhhoaquenha.vn/cach-lam-cu-cai-kho</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-cu-cai-kho</guid>
+            <pubDate>Mon, 07 Jun 2021 02:10:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
