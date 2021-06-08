@@ -9,10 +9,10 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
         'X-Sapo-Access-Token': sapo.token
     }
 }).then((res) => {
-    var data = res.data.articles.sort(function (a, b) {
-        return new Date(b.modified_on) - new Date(a.modified_on);
-    }).filter((article)=>{
+    var data = res.data.articles.filter((article) => {
         return article.published_on != null;
+    }).sort(function (a, b) {
+        return new Date(b.published_on) - new Date(a.published_on);
     });
     console.log(data.length);
     createTwitterRss(data)
@@ -39,15 +39,17 @@ function createTwitterRss(data){
     var feed = new RSS({
         title: 'Công thức nấu ăn - Tinh hoa quê nhà',
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
-        pubDate: new Date(),
+        pubDate: data[0].published_on,
     });
     for (let i = 0; i < 2; i++) {
         var article = data[i];
+        var url = 'https://tinhhoaquenha.vn/' + article.alias;
+        var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
         const itemOptions = {
             title: article.meta_title,
-            description: article.meta_description,
-            url: 'https://tinhhoaquenha.vn/' + article.alias,
-            guid: 'https://tinhhoaquenha.vn/' + article.alias,
+            description: img + article.meta_description,
+            url: url,
+            guid: url,
             date: new Date()
         };
         feed.item(itemOptions);
