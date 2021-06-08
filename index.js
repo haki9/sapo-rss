@@ -39,7 +39,7 @@ function createTwitterRss(data){
     var feed = new RSS({
         title: 'Công thức nấu ăn - Tinh hoa quê nhà',
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
-        pubDate: data[0].published_on,
+        pubDate: data[data.length-1].published_on,
     });
     for (let i = 0; i < 2; i++) {
         var article = data[i];
@@ -50,7 +50,7 @@ function createTwitterRss(data){
             description: img + article.meta_description,
             url: url,
             guid: url,
-            date: new Date()
+            date: article.published_on
         };
         feed.item(itemOptions);
     }
