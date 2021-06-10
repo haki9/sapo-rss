@@ -16,6 +16,7 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     });
     console.log(data.length);
     createTwitterRss(data)
+    createBloggerRss(data)
 }).catch((error) => {
     console.error(error)
 })
@@ -58,3 +59,24 @@ function createTwitterRss(data){
     saveXMLFile("twitter.xml", xml);
 }
 
+function createBloggerRss(data) {
+    var feed = new RSS({
+        title: 'Công thức nấu ăn - Tinh hoa quê nhà',
+        description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
+        pubDate: new Date()
+    });
+    for (let i = 0; i < data.length; i++) {
+        var article = data[i];
+        var url = 'https://tinhhoaquenha.vn/' + article.alias;
+        const itemOptions = {
+            title: article.meta_title,
+            description: article.content,
+            url: url,
+            guid: url,
+            date: article.published_on
+        };
+        feed.item(itemOptions);
+    }
+    var xml = feed.xml({ indent: true });
+    saveXMLFile("blogger.xml", xml);
+}
