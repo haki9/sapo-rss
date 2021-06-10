@@ -17,6 +17,7 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     console.log(data.length);
     createTwitterRss(data)
     createBloggerRss(data)
+    createTumblrRss(data)
 }).catch((error) => {
     console.error(error)
 })
@@ -36,7 +37,7 @@ function saveXMLFile(path, xml) {
 }
 
 // -------------------- twitter ----------------------------
-function createTwitterRss(data){
+function createTumblrRss(data){
     var feed = new RSS({
         title: 'Công thức nấu ăn - Tinh hoa quê nhà',
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
@@ -48,6 +49,29 @@ function createTwitterRss(data){
         var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
         const itemOptions = {
             title: article.meta_title,
+            description: img + article.meta_description,
+            url: url,
+            guid: url,
+            date: article.published_on
+        };
+        feed.item(itemOptions);
+    }
+    var xml = feed.xml({ indent: true });
+    saveXMLFile("tumblr.xml", xml);
+}
+
+function createTwitterRss(data) {
+    var feed = new RSS({
+        title: 'Công thức nấu ăn - Tinh hoa quê nhà',
+        description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
+        pubDate: new Date()
+    });
+    for (let i = 0; i < 10; i++) {
+        var article = data[i];
+        var url = 'https://tinhhoaquenha.vn/' + article.alias;
+        var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
+        const itemOptions = {
+            title: article.meta_title + url,
             description: img + article.meta_description,
             url: url,
             guid: url,
@@ -70,7 +94,7 @@ function createBloggerRss(data) {
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         const itemOptions = {
             title: article.meta_title,
-            description: article.content,
+            description: article.content + '<br>Xem chi tiết tại: ' + url,
             url: url,
             guid: url,
             date: article.published_on
