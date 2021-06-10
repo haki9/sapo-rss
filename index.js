@@ -65,7 +65,7 @@ function createBloggerRss(data) {
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: new Date()
     });
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 5; i++) {
         var article = data[i];
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         const itemOptions = {
