@@ -4,8 +4,15 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 04:20:41 GMT</lastBuildDate>
-        <pubDate>Thu, 10 Jun 2021 04:20:41 GMT</pubDate>
+        <lastBuildDate>Thu, 10 Jun 2021 04:41:04 GMT</lastBuildDate>
+        <pubDate>Thu, 10 Jun 2021 04:41:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[Bật mí cách chiên gà KFC giòn tan chuẩn vị, làm ngay tại nhà]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-chien-ga-kfc"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-chien-ga-kfc-5.jpg?v=1623232115350"></a></br>Gà rán KFC là món ăn được nhiều người yêu thích, đặc biệt là giới trẻ. Tuy nhiên, đối với nhiều gia đình, một phần gà rán KFC mua ở cửa hàng hay siêu thị không phải là rẻ. Vì vậy, Tinh Hoa Quê Nhà sẽ bật mí cho bạn cách chiên gà KFC giòn tan chuẩn vị làm ngay tại nhà, giúp bạn tiết kiệm chi phí và không cần phải đi đâu]]></description>
+            <link>https://tinhhoaquenha.vn/cach-chien-ga-kfc</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-chien-ga-kfc</guid>
+            <pubDate>Thu, 10 Jun 2021 04:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hướng dẫn 3 cách hầm gà cách thuỷ thơm ngon bổ dưỡng]]></title>
             <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-ham-ga-cach-thuy"><img src="https://bizweb.dktcdn.net/100/420/256/articles/ga-ham-cach-thuy-5.jpg?v=1622737854547"></a></br>Gà hầm là một món ăn, nó không chỉ là món ăn thông thường mà gà hầm còn được coi như là vị thuốc dùng để bồi bổ cho cơ thể với những người vừa mới ốm dậy, mất sức, phụ nữ sau sinh. Cùng THQN vào bếp với 3 món Gà hầm hạt sen, Gà hầm ngải cứu, Gà hầm thuốc bắc thơm ngon, bổ dưỡng tại nhà.]]></description>
@@ -33,13 +40,6 @@
             <link>https://tinhhoaquenha.vn/cach-lam-bap-bo-muoi-ngon-an-hoai-khong-chan</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-bap-bo-muoi-ngon-an-hoai-khong-chan</guid>
             <pubDate>Tue, 01 Jun 2021 09:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mách bạn cách làm củ cải muối Hàn Quốc chua ngọt giòn chuẩn vị]]></title>
-            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-lam-cu-cai-muoi-han-quoc-1.jpg?v=1622481478797"></a></br>Ẩm thực Hàn Quốc đã trở nên phổ biến và quen thuộc với nhiều người dân Việt Nam, không chỉ nổi tiếng với kim chi, củ cải vàng muối cũng là một món ngon được nhiều người yêu thích. Bởi vị ngọt thanh của củ cải muối vàng, giòn sần sật, ăn kèm với mì, cơm hoặc cuộn kimbap đều rất tuyệt.]]></description>
-            <link>https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc</guid>
-            <pubDate>Tue, 01 Jun 2021 09:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
