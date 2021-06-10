@@ -4,8 +4,15 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 05:56:05 GMT</lastBuildDate>
-        <pubDate>Thu, 10 Jun 2021 05:56:05 GMT</pubDate>
+        <lastBuildDate>Thu, 10 Jun 2021 06:31:11 GMT</lastBuildDate>
+        <pubDate>Thu, 10 Jun 2021 06:31:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mách bạn cách làm sữa tươi chiên giòn thơm ngon béo ngậy]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-sua-tuoi-chien-gion"><img src="https://bizweb.dktcdn.net/100/420/256/articles/banh-sua-chien-1.jpg?v=1623079077817"></a></br>Bánh sữa tươi chiên không chỉ là món ăn yêu thích của giới trẻ mà còn là sở thích của các em bé, bên ngoài giòn tan của bột chiên xù, bên trong thơm ngon béo ngậy của sữa. Cách làm bánh sữa tươi chiên giòn thì không cầu kì, nguyên liệu và cách làm thì cực kì đơn giản.]]></description>
+            <link>https://tinhhoaquenha.vn/cach-lam-sua-tuoi-chien-gion</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-sua-tuoi-chien-gion</guid>
+            <pubDate>Thu, 10 Jun 2021 06:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bật mí cách chiên gà KFC giòn tan chuẩn vị, làm ngay tại nhà]]></title>
             <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-chien-ga-kfc"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-chien-ga-kfc-5.jpg?v=1623232115350"></a></br>Gà rán KFC là món ăn được nhiều người yêu thích, đặc biệt là giới trẻ. Tuy nhiên, đối với nhiều gia đình, một phần gà rán KFC mua ở cửa hàng hay siêu thị không phải là rẻ. Vì vậy, Tinh Hoa Quê Nhà sẽ bật mí cho bạn cách chiên gà KFC giòn tan chuẩn vị làm ngay tại nhà, giúp bạn tiết kiệm chi phí và không cần phải đi đâu]]></description>
@@ -68,13 +75,6 @@
             <link>https://tinhhoaquenha.vn/cac-mon-ga</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cac-mon-ga</guid>
             <pubDate>Wed, 26 May 2021 09:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hướng dẫn cách làm ba ba rang muối thơm ngon]]></title>
-            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-ba-ba-rang-muoi"><img src="https://bizweb.dktcdn.net/100/420/256/articles/ba-ba-rang-muoi.jpeg?v=1621791945930"></a></br>Ba ba không chỉ là một nguyên liệu thực phẩm mà theo y học cổ truyền ba ba còn được sử dụng như một vị thuốc quý. Chính vì vậy ba ba rang muối không chỉ thơm ngon mà còn rất bổ dưỡng. Hôm nay Tinh Hoa Quê Nhà sẽ hướng dẫn các bạn cách làm món đặc sản ba ba rang muối ngon chuẩn đúng vị.]]></description>
-            <link>https://tinhhoaquenha.vn/cach-lam-ba-ba-rang-muoi</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-ba-ba-rang-muoi</guid>
-            <pubDate>Wed, 26 May 2021 04:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
