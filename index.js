@@ -71,7 +71,7 @@ function createTwitterRss(data) {
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
         const itemOptions = {
-            title: article.meta_title + url,
+            title: article.meta_title + " "+ url,
             description: img + article.meta_description,
             url: url,
             guid: url,

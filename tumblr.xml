@@ -4,8 +4,15 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jun 2021 07:45:06 GMT</lastBuildDate>
-        <pubDate>Thu, 10 Jun 2021 07:45:06 GMT</pubDate>
+        <lastBuildDate>Fri, 18 Jun 2021 01:45:57 GMT</lastBuildDate>
+        <pubDate>Fri, 18 Jun 2021 01:45:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Cách kho cá bống trứng cay cay thơm nồng ngon hết cơm hết gạo]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-kho-ca-bong-trung"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-kho-ca-bong-trung.jpg?v=1623924765747"></a></br>Cá bống trứng kho tiêu cay nồng là một món ăn cực kỳ tốn cơm được rất nhiều người Việt yêu thích. Đặc biệt, món ngon này lại khá dễ làm, không tốn nhiều công sức như nhiều người vẫn tưởng. Trong bài viết này, Tinh Hoa Quê Nhà sẽ hướng dẫn bạn cách kho cá bống trứng ngon “hết cơm hết gạo” để bạn có thể tự tin trổ tài]]></description>
+            <link>https://tinhhoaquenha.vn/cach-kho-ca-bong-trung</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-kho-ca-bong-trung</guid>
+            <pubDate>Fri, 18 Jun 2021 01:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mách bạn cách làm sữa tươi chiên giòn thơm ngon béo ngậy]]></title>
             <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-sua-tuoi-chien-gion"><img src="https://bizweb.dktcdn.net/100/420/256/articles/banh-sua-chien-1.jpg?v=1623079077817"></a></br>Bánh sữa tươi chiên không chỉ là món ăn yêu thích của giới trẻ mà còn là sở thích của các em bé, bên ngoài giòn tan của bột chiên xù, bên trong thơm ngon béo ngậy của sữa. Cách làm bánh sữa tươi chiên giòn thì không cầu kì, nguyên liệu và cách làm thì cực kì đơn giản.]]></description>
@@ -68,13 +75,6 @@
             <link>https://tinhhoaquenha.vn/cach-kho-do-chay-thap-cam</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-kho-do-chay-thap-cam</guid>
             <pubDate>Tue, 01 Jun 2021 09:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gợi ý các món gà ngon hấp dẫn cho gia đình]]></title>
-            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cac-mon-ga"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cac-mon-ga.jpg?v=1622023742257"></a></br>Thịt gà là một trong những thực phẩm phổ biến trong bữa cơm người Việt. Có rất nhiều cách để chế biến thịt gà như nướng, quay, chiên hoặc luộc. Hãy cùng Tinh Hoa Quê nhà vào bếp với các món gà ngon, dễ chế biến cho bữa cơm gia đình.]]></description>
-            <link>https://tinhhoaquenha.vn/cac-mon-ga</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cac-mon-ga</guid>
-            <pubDate>Wed, 26 May 2021 09:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
