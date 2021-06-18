@@ -91,7 +91,7 @@ function createBloggerRss(data) {
     });
     for (let i = 0; i < 5; i++) {
         var article = data[i];
-        var url = 'https://tinhhoaquenha.vn/' + article.alias;
+        var url = `<a href="https://tinhhoaquenha.vn/${article.alias}" title="${article.meta_title}">${article.meta_title}</a>`;
         const itemOptions = {
             title: article.meta_title,
             description: article.content + '<br>Xem chi tiết tại: ' + url,

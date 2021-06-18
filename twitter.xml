@@ -4,8 +4,15 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jun 2021 04:23:34 GMT</lastBuildDate>
-        <pubDate>Fri, 18 Jun 2021 04:23:34 GMT</pubDate>
+        <lastBuildDate>Fri, 18 Jun 2021 07:47:05 GMT</lastBuildDate>
+        <pubDate>Fri, 18 Jun 2021 07:47:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mách bạn cách muối cà pháo chua ngọt trắng giòn ngon miệng https://tinhhoaquenha.vn/cach-muoi-ca-phao-chua-ngot]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-muoi-ca-phao-chua-ngot"><img src="https://bizweb.dktcdn.net/100/420/256/articles/ca-phao-ngam-chua-ngot-1.jpg?v=1623996473383"></a></br>Khi bạn đã quá chán với cách cà pháo muối xổi hay cà pháo muối chua giòn thì các bạn hãy nghĩ tới món cà pháo muối chua ngọt đi cho lạ miệng và cách làm cũng đơn giản nữa. Hôm nay Tinh Hoa Quê Nhà sẽ cho bạn một công thức chuẩn nhất để các bạn làm được món cà pháo muối chua ngọt chuẩn vị]]></description>
+            <link>https://tinhhoaquenha.vn/cach-muoi-ca-phao-chua-ngot</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-muoi-ca-phao-chua-ngot</guid>
+            <pubDate>Fri, 18 Jun 2021 07:42:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hướng dẫn cách làm tắc muối thơm ngon vàng bóng không lo bị đắng https://tinhhoaquenha.vn/cach-lam-tac-muoi]]></title>
             <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-tac-muoi"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-lam-tac-muoi-9.jpg?v=1623734585087"></a></br>Hướng dẫn làm tắc ngâm đường thơm ngon, không bị đắng và bảo quản được lâu. Tắc  muối đường vừa có tác dụng giải khát ngày nắng nóng, vừa tốt cho những người bị ho.]]></description>
@@ -68,13 +75,6 @@
             <link>https://tinhhoaquenha.vn/cach-lam-bap-bo-muoi-ngon-an-hoai-khong-chan</link>
             <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-bap-bo-muoi-ngon-an-hoai-khong-chan</guid>
             <pubDate>Tue, 01 Jun 2021 09:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mách bạn cách làm củ cải muối Hàn Quốc chua ngọt giòn chuẩn vị https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc]]></title>
-            <description><![CDATA[<a href="https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc"><img src="https://bizweb.dktcdn.net/100/420/256/articles/cach-lam-cu-cai-muoi-han-quoc-1.jpg?v=1622481478797"></a></br>Ẩm thực Hàn Quốc đã trở nên phổ biến và quen thuộc với nhiều người dân Việt Nam, không chỉ nổi tiếng với kim chi, củ cải vàng muối cũng là một món ngon được nhiều người yêu thích. Bởi vị ngọt thanh của củ cải muối vàng, giòn sần sật, ăn kèm với mì, cơm hoặc cuộn kimbap đều rất tuyệt.]]></description>
-            <link>https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-lam-cu-cai-muoi-han-quoc</guid>
-            <pubDate>Tue, 01 Jun 2021 09:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
