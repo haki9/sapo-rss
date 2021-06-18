@@ -91,10 +91,10 @@ function createBloggerRss(data) {
     });
     for (let i = 0; i < 5; i++) {
         var article = data[i];
-        var url = `<a href="https://tinhhoaquenha.vn/${article.alias}" title="${article.meta_title}">${article.meta_title}</a>`;
+        var url = `https://tinhhoaquenha.vn/${article.alias}`;
         const itemOptions = {
             title: article.meta_title,
-            description: article.content + '<br>Xem chi tiết tại: ' + url,
+            description: article.content + '<br>Xem chi tiết tại: ' + `<a href="https://tinhhoaquenha.vn/${article.alias}" title="${article.meta_title}">${article.meta_title}</a>`,
             url: url,
             guid: url,
             date: article.published_on
