@@ -4,17 +4,42 @@ var fs = require('fs');
 
 var sapo = require('./sapo.js')
 
+function updateAndSaveLastPostId(id){
+    let post = {
+        "id": id
+    };
+    let data = JSON.stringify(post);
+    fs.writeFileSync('data.json', data);
+}
+
+function getLastPostId(){
+    let data = fs.readFileSync('data.json');
+    var post = JSON.parse(data);
+    return post ?  post.id : 0; 
+}
+
 axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     headers: {
         'X-Sapo-Access-Token': sapo.token
     }
 }).then((res) => {
+
+    var lastPostId = getLastPostId();
+    console.log(`LastId: ${lastPostId}`);
+
     var data = res.data.articles.filter((article) => {
-        return article.published_on != null;
+        return article.published_on != null && article.id > lastPostId;
     }).sort(function (a, b) {
-        return new Date(b.published_on) - new Date(a.published_on);
+        return new Date(b.id) - new Date(a.id);
     });
-    console.log(data.length);
+
+    console.log("New Posts: " + data.length);
+    if (!data || data.length <= 0) return;
+    lastPostId = data[0].id;
+    updateAndSaveLastPostId(lastPostId);
+    console.log(`NewLastId: ${lastPostId}`);
+
+  
     createTwitterRss(data)
     createBloggerRss(data)
     createTumblrRss(data)
