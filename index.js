@@ -4,18 +4,18 @@ var fs = require('fs');
 
 var sapo = require('./sapo.js')
 
-function updateAndSaveLastPostId(id){
+function updateAndSaveLastPost(published_on){
     let post = {
-        "id": id
+        "published_on": published_on
     };
     let data = JSON.stringify(post);
     fs.writeFileSync('data.json', data);
 }
 
-function getLastPostId(){
+function getLastPost(){
     let data = fs.readFileSync('data.json');
     var post = JSON.parse(data);
-    return post ?  post.id : 0; 
+    return post ? post.published_on : 0;
 }
 
 axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
@@ -24,20 +24,20 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     }
 }).then((res) => {
 
-    var lastPostId = getLastPostId();
-    console.log(`LastId: ${lastPostId}`);
-
+    var lastPost = getLastPost();
     var data = res.data.articles.filter((article) => {
-        return article.published_on != null && article.id > lastPostId;
+        return article.published_on != null && new Date(article.published_on) > new Date(lastPost);
     }).sort(function (a, b) {
-        return new Date(b.id) - new Date(a.id);
+        return new Date(b.published_on) - new Date(a.published_on);
     });
 
     console.log("New Posts: " + data.length);
+    console.log(JSON.stringify(data));
+
     if (!data || data.length <= 0) return;
-    lastPostId = data[0].id;
-    updateAndSaveLastPostId(lastPostId);
-    console.log(`NewLastId: ${lastPostId}`);
+    lastPost = data[0].published_on;
+    updateAndSaveLastPost(lastPost);
+    console.log(`NewLastPost: ${lastPost}`);
 
   
     createTwitterRss(data)
@@ -68,7 +68,7 @@ function createTumblrRss(data){
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: new Date()
     });
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < data.length; i++) {
         var article = data[i];
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
@@ -91,7 +91,7 @@ function createTwitterRss(data) {
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: new Date()
     });
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < data.length; i++) {
         var article = data[i];
         var url = 'https://tinhhoaquenha.vn/' + article.alias;
         var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
@@ -114,7 +114,7 @@ function createBloggerRss(data) {
         description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
         pubDate: new Date()
     });
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < data.length; i++) {
         var article = data[i];
         var url = `https://tinhhoaquenha.vn/${article.alias}`;
         const itemOptions = {
