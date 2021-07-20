@@ -25,6 +25,7 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
 }).then((res) => {
 
     var lastPost = getLastPost();
+    // console.log(res.data);
     var data = res.data.articles.filter((article) => {
         return article.published_on != null && new Date(article.published_on) > new Date(lastPost);
     }).sort(function (a, b) {
@@ -32,7 +33,7 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     });
 
     console.log("New Posts: " + data.length);
-    console.log(JSON.stringify(data));
+    // console.log(JSON.stringify(data));
 
     if (!data || data.length <= 0) return;
     lastPost = data[0].published_on;
