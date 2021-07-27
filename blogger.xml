@@ -4,304 +4,640 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 03:09:30 GMT</lastBuildDate>
-        <pubDate>Sat, 24 Jul 2021 03:09:30 GMT</pubDate>
+        <lastBuildDate>Tue, 27 Jul 2021 11:20:22 GMT</lastBuildDate>
+        <pubDate>Tue, 27 Jul 2021 11:20:22 GMT</pubDate>
         <item>
-            <title><![CDATA[3 cách nấu canh kim chi thơm ngon chuẩn vị Hàn Quốc]]></title>
-            <description><![CDATA[<p><meta charset="utf-8" /></p>
-<p dir="ltr"><strong>Kim chi có nguồn gốc từ Hàn Quốc, kim chi sau khi muối được 2-3 ngày có thể dùng ăn được luôn cùng với bữa ăn hàng ngày. Ngoài ra kim chi còn dùng để làm các món khác như cơm rang kim chi, lẩu kim chi, canh kim chi.</strong></p>
-<p dir="ltr">Hôm nay Tinh Hoa Quê Nhà sẽ hướng dẫn các bạn bỏ túi 3 cách nấu canh kim chi thơm ngon chuẩn vị Hàn Quốc với vị chua&nbsp;cay, mặn, ngọt vừa ăn.</p>
-<div class="box-title"><label>1</label>
-<h2 id="dau-phu" style="text-align: justify;">Canh kim chi cải thảo, thịt heo đậu phụ đơn giản</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu canh kim chi cải thảo, thịt heo, đậu phụ</strong></h3>
+            <title><![CDATA[3 cách nấu món chay thông dụng được nhiều người yêu thích]]></title>
+            <description><![CDATA[<p><strong>Các món chay thường được sử dụng vào ngày rằm hoặc mùng một hàng tháng, mọi người thường sử dụng 1 ngày ăn chay để giữ cho tâm được thanh tịnh. Tinh Hoa Quê Nhà sẽ giới thiệu đến bạn 3 cách nấu món chay thông dụng ngon và dễ làm giúp đổi khẩu vị vừa bảo vệ sức khoẻ rất tốt phòng chống 1 số căn bệnh nguy hiểm.</strong></p>
+<div class="box-title">
+    <label>1</label>
+    <h2 id="ca-chua" style="text-align: justify;">Đậu hũ sốt cà chua</h2>
+</div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu đậu sốt cà chua</strong></h3>
 <ul class="staplesrecipe">
-<li>Kim chi cải thảo: 200g</li>
-<li>Thịt ba chỉ: 100g</li>
-<li>Đậu phụ: 1 miếng</li>
-<li>Trứng gà: 1 quả</li>
-<li>Hành lá: 3 cây</li>
-<li>Tỏi: 3 tép</li>
-<li><strong>Gia vị</strong>: Nước mắm, đường, bột ngọt, hạt nêm</li></ul>
-<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh kim chi, thịt ba chỉ, đậu hũ" data-thumb="original" original-height="583" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-66573c03-8182-4a7c-90c5-be656fedc2e4.jpg?v=1626802820485" /><em>Nguyên liệu nấu canh kim chi, thịt ba chỉ, đậu hũ</em></p>
-<h3 dir="ltr"><strong>Các bước nấu canh kim chi cải thảo, thịt heo đậu phụ</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh kim chi cải thảo, thịt ba chỉ đậu phụ</strong></p>
-<p dir="ltr">Kim chi cải thảo vắt sạch nước thái miếng vừa ăn,&nbsp;</p>
-<p dir="ltr">Thịt ba chỉ rửa sạch thái miếng mỏng.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Thịt ba chỉ thái miếng mỏng vừa ăn" data-thumb="original" original-height="583" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-20bb52c5-87a6-4fe3-b63a-343de3f45b86.jpg?v=1626802940114" /><em>Thịt ba chỉ thái miếng mỏng vừa ăn</em></p>
-<p dir="ltr">Đậu phụ cắt miếng vuông</p>
-<p dir="ltr">Trứng gà đem luộc, bóc vỏ cắt đôi.&nbsp;</p>
-<p dir="ltr">Hành lá rửa sạch khúc chéo 2 phân</p>
-<p dir="ltr">Tỏi bóc vỏ đập dập băm nhuyễn</p>
-<p dir="ltr"><strong>Bước 2: Ướp thịt ba chỉ</strong></p>
-<p dir="ltr">Cho thịt vào bát, cho ½ thìa cà phê đường, ½ thìa cà phê hạt nêm, ½ thìa cà phê bột ngọt trộn đều lên, ướp 15 phút.&nbsp;</p>
-<p dir="ltr"><strong>Bước 3: Nấu canh kim chi cải thảo, thịt ba chỉ đậu phụ</strong></p>
-<p dir="ltr">Các bạn phi tỏi cho vàng thơm, cho thịt vào đảo đều lên cho săn lại.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Xào thịt ba chỉ cho săn lại" data-thumb="original" original-height="583" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-5a1767b5-3e71-4af6-8db6-b165b2ab1056.jpg?v=1626803117914" /><em>Xào thịt ba chỉ cho săn lại</em></p>
-<p dir="ltr">Cho kim chi vào xào cùng với thịt khoảng 2 phút sau đó đó 300ml nước vào đun sôi, cho nước mắm vào khuấy đều.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Cho thêm bột ớt Hàn Quốc vào nồi canh cho màu canh đẹp" data-thumb="original" original-height="583" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-40e5f47b-59e5-41bf-a9df-00d2859a3e35.jpg?v=1626803012551" /><em>Cho thêm bột ớt Hàn Quốc vào nồi canh cho màu canh đẹp</em></p>
-<p dir="ltr"><em><strong>Lưu ý:</strong> để canh kim chi chuẩn vị Hàn Quốc các bạn&nbsp;cho thêm 1 thìa canh ớt bột Hàn Quốc vào khuấy đều lên để nồi canh có màu đẹp và ngon.</em></p>
-<p dir="ltr">Sau khi nồi canh kim chi sôi các bạn cho đậu phụ vào, cho thêm chút hành lá rồi tắt bếp, cho 2 nửa trứng gà đặt lên trên. Nhìn hấp dẫn quá đúng không các bạn, món canh kim chi cải thảo chuẩn vị Hàn Quốc đã thực hiện xong giờ thì thưởng thức thôi các bạn.&nbsp;</p>
-<div class="box-title"><label>2</label>
-<h2 id="bo-nam" style="text-align: justify;">Canh kim chi thịt bò nấm</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu canh kim chi thịt bò nấm</strong></h3>
-<ul class="staplesrecipe">
-<li>Kim chi: 250g</li>
-<li>Thịt bò:400g</li>
-<li>Nấm: 100g</li>
-<li>Đậu phụ: 1 bìa</li>
-<li>Tỏi: 1 củ</li>
-<li>Hành tây: 30g</li>
+<li>Đậu hũ: 3 bìa</li>
+<li>Cà chua: 4 quả</li>
 <li>Hành lá</li>
-<li><strong>Gia vị</strong>: Rượu trắng, tiêu xay, bột ớt Hàn Quốc, tương ớt Hàn Quốc, nước tương</li></ul>
-<h3 dir="ltr"><strong>Các bước nấu canh kim chi thịt bò nấm</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh kim chi thịt bò nấm</strong></p>
-<p dir="ltr">Kim chi cắt miếng vừa ăn.&nbsp;</p>
-<p dir="ltr">Nấm rửa sạch với nước, cắt bỏ chân, thái miếng 1 phân.&nbsp;</p>
-<p dir="ltr">Thịt bò thái miếng khoảng 5&nbsp;phân</p>
-<p dir="ltr" style="text-align: center;"><img alt="Thịt bò thái miếng khoảng 5 phân" data-thumb="original" original-height="627" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-fa1f5963-ba49-47be-bee9-0d8f5dbb8550.jpg?v=1626803959780" /><em>Thịt bò thái miếng khoảng 5&nbsp;phân</em></p>
-<p dir="ltr">Đậu phụ cắt miếng vuông.&nbsp;</p>
-<p dir="ltr">Tỏi bóc vỏ băm nhuyễn</p>
-<p dir="ltr">Hành tây băm nhuyễn</p>
+<li>Hành tím, tỏi</li>
+<li><strong>Gia vị</strong>: Muối, hạt nêm, đường, bột ngọt, tương ớt, tương cà, dầu ăn</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu đậu sốt cà chua</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu đậu sốt cà chua</strong></p>
+<p dir="ltr">Cà chua rửa sạch, thái hạt lựu.</p>
 <p dir="ltr">Hành lá rửa sạch thái nhỏ</p>
-<p dir="ltr"><strong>Bước 2: Ướp thịt bò</strong></p>
-<p dir="ltr">Cho thịt bò vào bát cho 1 chút rượu trắng, 1 chút tỏi băm, 1 chút tiêu xay trộn đều lên ướp 10 phút.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt bò cùng với gia vị" data-thumb="original" original-height="627" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-41338a84-ac84-4f06-82b9-f445160158ba.jpg?v=1626804088981" /><em>Ướp thịt bò cùng với gia vị</em></p>
-<p dir="ltr"><strong>Bước 3: Nấu canh kim chi</strong></p>
-<p dir="ltr">Cho dầu vào nồi, cho hành tây vào đảo lên cho thơm, cho thịt bò và nấm vào đảo đều cho thịt bò săn lại, tiếp theo cho kim chi vào nêm 1 thìa canh tương ớt Hàn Quốc, 1 thìa canh bột ớt Hàn Quốc, 1 thìa canh nước tương, 1 chút tỏi băm, hạt tiêu trộn đều lên cho gia vị tan ra ngấm vào thịt bò và nấm.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Canh kim chi thịt bò, nấm" data-thumb="original" original-height="627" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-054c0981-24f1-43ca-82e4-74c13ce13317.jpg?v=1626804162808" /><em>Canh kim chi thịt bò, nấm</em></p>
-<p dir="ltr">Cho 1 lít nước vào nồi khuấy đều lên đun sôi sau đó cho đậu hũ vào nồi cho thêm chút hành lá sau đó tắt bếp và thưởng thức ngay món canh kim chi thịt bò nấm thôi các bạn.&nbsp;</p>
-<div class="box-title"><label>3</label>
-<h2 id="hai-san" style="text-align: justify;">Canh kim chi hải sản</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu canh kim chi hải sản</strong></h3>
+<p dir="ltr">Hành tím, tỏi bóc vỏ. Đập dập băm nhuyễn</p>
+<p dir="ltr"><strong>Bước 2: Chiên đậu hũ</strong></p>
+<p dir="ltr">Các bạn cho dầu vào chảo, cho đậu hũ vào chiên. Lật 2 mặt cho đậu hũ vàng đều là được. Các bạn dùng dao cắt đậu hũ làm 4 miếng vuông vừa ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chiên sơ đậu hũ" data-thumb="original" original-height="751" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-ed29a3c8-ad08-469d-9769-f37f886e7cfc.jpg?v=1627055335316" /><em>Chiên sơ&nbsp;đậu hũ</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu đậu hũ sốt cà chua</strong></p>
+<p dir="ltr">Để có được một món chay thông dụng mà lại vừa thơm ngon trong gia đình của mình thì đối với món đậu hũ sốt cà chua các bạn phải phi hành tỏi cùng dầu ăn cho thơm.</p>
+<p dir="ltr">Sau đó cho cà chua vào đảo đều nêm ⅓ thìa cà phê muối, hạt nêm, bột ngọt và 1 thìa cà phê đường.</p>
+<p dir="ltr">Đảo đều lên cho gia vị tan ra cùng với cà chua và đun thêm 3 phút với mức lửa nhỏ cho cà chua nhừ.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo cà chua cùng gia vị cho nhừ" data-thumb="original" original-height="751" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-b1a00c87-3a97-4336-a191-0d8fa72dcabc.jpg?v=1627055423082" /><em>Đảo cà chua cùng gia vị cho nhừ</em></p>
+<p dir="ltr">Cà chua nhừ các bạn cho 50ml nước vào đun cho cà chua nhừ hết ra, có độ sệt.&nbsp;</p>
+<p dir="ltr">Khi cà chua đã có độ sệt và nhừ hết ra các bạn cho thêm ½ thìa cà phê tương ớt và tương cà khuấy đều lên tạo màu cho đẹp.&nbsp;</p>
+<p dir="ltr">Các bạn cho đậu hũ vào đun thêm 5 phút, để đậu hũ ngấm đều khi đun các lật qua lật lại cho ngấm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho đậu hũ vào sốt với cà chua" data-thumb="original" original-height="751" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-ddd0f78a-f046-452d-8987-b4f1aa7cb51e.jpg?v=1627055497729" /><em>Cho đậu hũ vào sốt với cà chua</em></p>
+<p dir="ltr">Thấy đậu hũ đã ngấm lên màu đẹp các bạn cho hành lá rắc lên, trang trí thêm vào vài nhánh mùi. Chỉ với 15 phút bạn đã có 1 món chay thơm ngon cho gia đình.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Món chay thông dụng đậu hũ sốt cà chua" data-thumb="original" original-height="751" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-8ba410fd-2a66-4b26-9e0e-7e52eed62e28.jpg?v=1627055561004" /><em>Món chay thông dụng đậu hũ sốt cà chua</em></p>
+<div class="box-title">
+    <label>2</label>
+    <h2 id="canh-nam" style="text-align: justify;">Canh nấm chay</h2>
+</div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh nấm chay</strong></h3>
 <ul class="staplesrecipe">
-<li>Bạch tuộc: 250g</li>
-<li>Tôm: 200g</li>
-<li>Thịt bò: 150g</li>
-<li>Ngao: 300g</li>
-<li>Nấm đùi gà, nấm kim châm: 400g</li>
-<li>Kim chi: 250g</li>
-<li>Bánh gạo Hàn Quốc, mì tôm Hàn Quốc.</li>
-<li>¼ củ hành tây, 2 củ hành tím, 1 củ gừng.&nbsp;</li>
-<li>Bột gia vị nấu lẩu cay</li></ul>
-<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh kim chi hải sản" data-thumb="original" original-height="955" original-width="1145" src="//bizweb.dktcdn.net/100/420/256/files/1-bb54ae15-5a27-434c-aefb-59c77babeb28.jpg?v=1626805519616" /><em>Nguyên liệu nấu canh kim chi hải sản</em></p>
-<h3 dir="ltr"><strong>Các bước nấu canh kim chi hải sản</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh kim chi hải sản&nbsp;</strong></p>
-<p dir="ltr">Tôm các bạn cắt bỏ phần chân và râu, rút sợi đen ở sống lưng tôm sau đó rửa lại với nước để ráo.&nbsp;</p>
-<p dir="ltr">Bạch tuộc các bạn cắt bỏ phần răng và mắt và phần ruột bên trong, sau đó bóp với muối và nước cho sạch hết nhớt. Rửa sạch lại với nước để ráo.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Sơ chế bạch tuộc" data-thumb="original" original-height="667" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/6-1-a5606a39-8e54-4488-ae47-d1862ae851f2.jpg?v=1626805763514" /><em>Sơ chế bạch tuộc</em></p>
-<p dir="ltr">Ngao ngâm trong nước có cắt thêm vài trái ớt cho ngao nhả hết cát, sau đó rửa sạch lại với nước để ráo.</p>
-<p dir="ltr">Nấm kim châm và nấm đùi gà cắt bỏ phần gốc ngâm trong nước lạnh, sau đó rửa lại với nước để ráo.&nbsp;</p>
-<p dir="ltr">Thịt bò thái lát miếng vừa ăn.&nbsp;</p>
-<p dir="ltr">Hành tím bóc vỏ đập dập băm nhuyễn</p>
-<p dir="ltr">Gừng rửa sạch cắt lát mỏng.&nbsp;</p>
-<p dir="ltr">Hành tây thái hạt lựu</p>
-<p dir="ltr"><strong>Bước 2: Nấu canh kim chi hải sản</strong></p>
-<p dir="ltr">Cho dầu ăn vào nồi đun nóng. Cho hỗn hợp hành tím, gừng và hành tây vào đảo đều lên cho thơm. Cho kim chi vào đảo đều cùng hỗn hợp, sau đó cho nước vào nồi đun sôi các bạn nêm gia vị theo khẩu vị gia đình nhà mình nhé.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Xào kim chi" data-thumb="original" original-height="667" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-0eabd1ac-e8ca-4577-9cf4-9cb6c9ab2aec.jpg?v=1626805880297" /><em>Xào kim chi</em></p>
-<p dir="ltr">Tiếp theo các bạn cho gói sốt lẩu theo từng cấp độ, với 1 nồi canh cho gia đình ăn các bạn sử dụng hết 1 hộp sốt nhé. Lần lượt cho vào khuấy đều lên nước canh sẽ ra màu rất đẹp chuẩn vị canh kim chi Hàn Quốc luôn đấy.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Cho gói sốt lẩu theo từng cấp độ cay vào nồi canh" data-thumb="original" original-height="955" original-width="1145" src="//bizweb.dktcdn.net/100/420/256/files/4-1437f070-af6f-4f2b-a190-3ed367a7a770.jpg?v=1626806024472" /><em>Cho gói sốt lẩu theo từng cấp độ cay vào nồi canh</em></p>
-<p dir="ltr">Các bạn đun sôi nồi canh lần lượt cho bạch tuộc, tôm, ngao vào nồi cho chín trước, khi nào ăn các bạn lần lượt cho thịt bò, mì tôm Hàn Quốc và bánh gạo Hàn Quốc vào nhé.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Canh kim chi hải sản chuẩn vị Hàn Quốc" data-thumb="original" original-height="667" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-e18392f3-18ec-40fa-bac8-ce59a8157f52.jpg?v=1626806148720" /><em>Canh kim chi hải sản chuẩn vị Hàn Quốc</em></p>
-<p dir="ltr">Với 3 công thức nấu canh kim chi chuẩn vị Hàn Quốc trên, chúc các bạn có những món canh kim chi chuẩn vị Hàn Quốc đổi món cho gia đình nhà mình nhé.</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-kim-chi" title="3 cách nấu canh kim chi thơm ngon chuẩn vị Hàn Quốc">3 cách nấu canh kim chi thơm ngon chuẩn vị Hàn Quốc</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-canh-kim-chi</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-kim-chi</guid>
-            <pubDate>Sat, 24 Jul 2021 03:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 cách nấu canh khoai tây sườn heo và canh khoai tây thịt bò thơm ngon]]></title>
-            <description><![CDATA[<p><meta charset="utf-8" /><strong>Khoai tây là một thực phẩm phổ biến, giá thành rẻ nhưng lại có giá trị dinh dưỡng cao. Canh xương nấu khoai tây, cà rốt là món canh rất ngon và bổ dưỡng mà lại dễ làm. Cùng Tinh Hoa chế biến món ăn hấp dẫn này cho gia đình nhé.</strong></p>
-<div class="box-title"><label>1</label>
-<h2 id="ca-rot" style="text-align: justify;">Canh xương sườn, khoai tây cà rốt</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu canh xương sườn khoai tây cà rốt</strong></h3>
-<ul class="staplesrecipe">
-<li>Xương sườn: 500g</li>
-<li>Khoai tây: 700g</li>
-<li>Cà rốt: 200g</li>
-<li>Cà chua: 2 quả</li>
-<li>Hành tím: 2 củ</li>
-<li>Hành lá, rau mùi</li></ul>
-<h3 dir="ltr"><strong>Các bước nấu canh xương sườn, khoai tây, cà rốt.&nbsp;</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
-<p dir="ltr">Xương sườn các bạn mua về rửa sạch với nước để ráo, sau đó dùng dao chặt thành từng miếng vừa ăn.&nbsp;</p>
-<p dir="ltr">Khoai tây, cà rốt nạo bỏ phần vỏ, ngâm trong nước 5 phút, dùng dao răng cưa cắt khoai tây và cà rốt thành miếng vừa ăn ngâm vào nước thêm 5 phút sau đó vớt lên để ráo.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Thái khoai tây miếng vừa ăn bằng dao hình răng cưa cho đẹp" data-thumb="original" original-height="715" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-cf3cd5f4-ca55-45fb-97b6-a3cdc404985a.jpg?v=1626720427238" /><em>Thái khoai tây miếng vừa ăn&nbsp;bằng dao hình răng cưa cho đẹp</em></p>
-<p dir="ltr">Cà chua rửa sạch, thái múi cau.&nbsp;Hành tím bóc vỏ đập dập băm nhuyễn. Hành lá, rau mùi rửa sạch để ráo. Đầu hành lá thái nhỏ. Lá hành và rau mùi cắt khúc 1-2 phân.</p>
-<p dir="ltr"><strong>Bước 2: Ướp xương sườn</strong></p>
-<p dir="ltr">Cho sườn vào bát, cho 1 thìa cà phê bột canh, 1 chút nước mắm, 1 chút hạt tiêu sau đó đảo đều lên ướp 15 phút cho sườn ngấm gia vị.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Ướp sườn cùng với gia vị 15 phút cho ngấm" data-thumb="original" original-height="715" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-8df45c21-04e3-4ba3-8316-5501d5de0b89.jpg?v=1626720543973" /><em>Ướp sườn cùng với gia vị 15 phút cho ngấm</em></p>
-<p dir="ltr"><strong>Bước 3: Nấu canh xương sườn, khoai tây, cà rốt</strong></p>
-<p dir="ltr">Các bạn phi đầu hành và hành tím sau đó cho xương sườn đã ướp vào đảo đều cho xương sườn săn lại không còn đỏ nữa các bạn cho khoảng 1,5 lít nước vào đun sôi.</p>
-<p dir="ltr"><em>Nước canh sôi có bọt các bạn vớt bọt cho nước canh được trong nhé.</em></p>
-<p dir="ltr">Các bạn tiếp tục hầm xương sườn thêm 15 phút với lửa nhỏ.</p>
-<p dir="ltr">Sau đó các bạn lần lượt cho cà chua, khoai tây, cà rốt vào đun thêm 10 phút nữa cho khoai tây và cà rốt chín.</p>
-<p dir="ltr">Khi khoai đã chín các bạn nêm canh xem đã vừa chưa rồi các bạn nêm theo khẩu vị của gia đình nhé.</p>
-<p dir="ltr">Các bạn cho hành lá và rau mùi vào nồi và tắt bếp, cho thêm 1 chút xíu nước mắm để canh được thơm.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Canh khoai tây nấu xương sườn, cà rốt" data-thumb="original" original-height="715" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-4f34d502-f41a-49b7-9367-a5134667fedf.jpg?v=1626720704340" /><em>Canh khoai tây nấu xương&nbsp;sườn, cà rốt</em></p>
-<p dir="ltr">Vậy là các bạn đã&nbsp;có thể thưởng thức canh xương sườn, khoai tây, cà rốt.&nbsp;</p>
-<div class="box-title"><label>2</label>
-<h2 id="thit-bo" style="text-align: justify;">Canh khoai tây, cà rốt thịt bò</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu canh khoai tây, cà rốt thịt bò</strong></h3>
-<ul class="staplesrecipe">
-<li>Thịt bò: 400g</li>
-<li>Khoai tây: 3 củ</li>
+<li>Nấm bạch tuyết: 300g</li>
+<li>Nấm rơm: 100g</li>
+<li>Nấm hương tươi: 50g</li>
+<li>Hạt sen: 50g</li>
+<li>Súp lơ: 50g</li>
 <li>Cà rốt: 1 củ</li>
-<li>Cà chua: 2 quả</li>
-<li>Hành tây: 1 củ</li>
-<li>Hành tím: 1 củ</li>
-<li>Gừng: 1 củ</li>
-<li>Hành lá</li></ul>
-<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh khoai tây, cà rốt, thịt bò" data-thumb="original" original-height="443" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-fe834411-d154-4916-b56a-68568eb442bb.jpg?v=1626721224118" /><em>Nguyên liệu nấu canh khoai tây, cà rốt, thịt bò</em></p>
-<h3 dir="ltr"><strong>Cách nấu canh khoai tây thịt bò</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh khoai tây</strong></p>
-<p dir="ltr">Thịt bò các bạn rắc thêm chút muối và vai lát gừng vào bóp nhẹ nhàng sau đó rửa lại thật sạch với nước. Thái miếng vừa ăn.&nbsp;</p>
-<p dir="ltr">Khoai tây, cà rốt gọt bỏ phần vỏ bên ngoài, ngâm nước sau đó thái miếng vừa ăn.</p>
-<p dir="ltr">Hành tây bóc bỏ phần vỏ bên ngoài rửa sạch thái miếng vuông</p>
-<p dir="ltr">Cà chua rửa sạch thái múi cau.&nbsp;</p>
-<p dir="ltr">Hành tím bóc vỏ thái lát.&nbsp;</p>
-<p dir="ltr">Gừng cạo bỏ phần vỏ, rửa sạch, thái chỉ</p>
-<p dir="ltr"><strong>Bước 2: Nấu canh khoai tây, cà rốt thịt bò</strong></p>
-<p dir="ltr">Các bạn phi thơm hành và gừng cho thơm, cho thịt bò vào xào nêm 1 thìa cà phê muối, 1 thìa canh hạt nêm, 1 thìa canh nước tương, đảo đều lên cho thịt bò ngấm gia vị và săn lại.</p>
-<p dir="ltr">Các bạn cho nước ngập thịt bò đun lửa mạnh cho sôi, khi nồi sôi vớt bọt hạ nhỏ lửa hầm thịt bò trong 1 tiếng đồng hồ cho thịt bò mềm.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt bò cùng với gia vị cho ngấm" data-thumb="original" original-height="632" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-e8824fb7-1418-45ed-8789-9e1cec5c0fc4.jpg?v=1626721316310" /><em>Đảo thịt bò cùng với gia vị cho ngấm</em></p>
-<p dir="ltr">Hầm thịt bò đã mềm các bạn cho khoai tây cà rốt và hành tây vào hầm tiếp 10 phút cho khoai tây chín,&nbsp; khoai chín các bạn cho cà chua và đun chín nêm nếm gia vị, cho thêm 1 thìa cà phê bột ngọt, và rắc thêm 1 chút tiêu xay.</p>
-<p dir="ltr">Cho thêm hành lá các bạn tắt bếp.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Canh khoai tây, cà rốt, thịt bò thơm ngon" data-thumb="original" original-height="632" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-abd6f137-a455-4439-b698-d0c75a832c51.jpg?v=1626721373257" /><em>Canh khoai tây, cà rốt, thịt bò thơm ngon</em></p>
-<p dir="ltr">Vậy là sau 1 tiếng đồng hồ&nbsp;các bạn đã có 1 nồi canh khoai tây, cà rốt thịt bò rất là ngon. Các bạn có thể ăn với cơm hoặc bún hoặc bánh mì rất là hợp các bạn nhé.&nbsp;</p>
-<p>* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=7Lr1t9TmOeY" rel="nofollow" target="_blank" title="cách nấu canh khoai tây">Ẩm Thực Việt</a>&nbsp;và <a href="https://www.youtube.com/watch?v=14-LjJ2EQe8" rel="nofollow" target="_blank" title="cách nấu canh khoai tây">Ẩm Thực Miền Quê</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-khoai-tay" title="2 cách nấu canh khoai tây sườn heo và canh khoai tây thịt bò thơm ngon">2 cách nấu canh khoai tây sườn heo và canh khoai tây thịt bò thơm ngon</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-canh-khoai-tay</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-khoai-tay</guid>
-            <pubDate>Sat, 24 Jul 2021 02:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cách nấu canh gà ngon ngọt thịt, giải cảm với gừng]]></title>
-            <description><![CDATA[<p><meta charset="utf-8" /></p>
-<p dir="ltr"><strong>Canh gà là món ăn cực kì bổ dưỡng cho&nbsp;người mới ốm dậy. Hãy cùng Tinh Hoa Quê Nhà vào bếp nấu canh gà ngon, đổi vị cuối tuần cho gia đình nhé.</strong></p>
-<div class="box-title"><label>1</label>
-<h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu canh gà</h2></div>
+<li>Bí đỏ: 1 khoanh 100g</li>
+<li>Mùi ta, mùi tàu</li>
+<li>Hành boa rô</li>
+<li><strong>Gia vị</strong>: Hạt nêm chay, nước mắm chay</li></ul>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh nấm chay" data-thumb="original" original-height="626" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/11-ed35a1d9-869b-41a3-a9cf-22d6d3f2832b.jpg?v=1627056599853" /><em>Nguyên liệu nấu canh nấm chay</em></p>
+<h3 dir="ltr"><strong>Cách nấu canh nấm chay</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu canh nấm chay</strong></p>
+<p dir="ltr">Nấm bạch tuyết cắt chân nấm rửa sạch với nước để ráo</p>
+<p dir="ltr">Nấm hương tươi rửa sạch bổ đôi nấm, nếu cây bé có thể để nguyên.&nbsp;</p>
+<p dir="ltr">Nấm rơm rửa sạch bổ đôi.&nbsp;</p>
+<p dir="ltr">Cà rốt gọt vỏ rửa sạch, thái khoanh vừa ăn.</p>
+<p dir="ltr">Bí đỏ gọt vỏ, bỏ phần ruột rửa sạch thái miếng vừa ăn.&nbsp;</p>
+<p dir="ltr">Hạt sen các bạn dùng hạt sen tươi, bóc phần tâm sen bỏ đi cho đỡ đắng.&nbsp;</p>
+<p dir="ltr">Súp lơ chỉ lấy phần ngọn, không lấy phần cuống. Bông to bổ đôi, bông nhỏ để nguyên</p>
+<p dir="ltr">Hành boa rô rửa sạch thái lát mỏng.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh nấm chay</strong></p>
+<p dir="ltr">Các bạn phi thơm hành boa rô, sau đó lần lượt cho cà rốt và bí đỏ vào đảo đều lên. Cho nấm rơm và nấm hương tươi vào đảo đều, cho tiếp hạt sen vào đảo sau đó nêm 1 thìa cà phê hạt nêm, 1 thìa cà phê nước mắm đảo đều lên cho ngấm gia vị trong 2 phút.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo hỗn hợp nấm, cà rốt, bí đỏ cùng gia vị cho ngấm" data-thumb="original" original-height="626" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/22-2808648e-de98-45fe-a455-945be77a7c76.jpg?v=1627090220657" /><em>Đảo hỗn hợp nấm, cà rốt, bí đỏ cùng gia vị cho ngấm</em></p>
+<p dir="ltr">Sau đó cho vào nồi 500ml nước đun sôi.&nbsp;Nồi canh sôi các bạn hạ nhỏ lửa đun thêm 10 phút cho bí đỏ và cà rốt chín hẳn. Các bạn nêm gia vị theo khẩu vị gia đình mình nhé.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho nước vào nồi đun sôi canh" data-thumb="original" original-height="626" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/33.png?v=1627090293729" /><em>Cho nước vào nồi đun sôi canh</em></p>
+<p dir="ltr">Khi nồi canh chín các bạn cho mùi tàu thái nhỏ vào và tắt bếp.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh nấm chay thơm ngon, lạ miệng" data-thumb="original" original-height="626" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/55-daefdfc1-0305-4e41-804d-11319b2596d2.jpg?v=1627090368444" /><em>Canh nấm chay thơm ngon, lạ miệng</em></p>
+<p dir="ltr">Múc canh ra bát trang trí thêm vài nhánh rau mùi cho đẹp, vậy là có ngay bát canh chay cho gia đình với đủ màu sắc. Cùng gia đình thưởng thức thôi nào các bạn.</p>
+<div class="box-title">
+    <label>3</label>
+    <h2 id="nam-rom" style="text-align: justify;">Đậu hũ kho nấm rơm chay</h2>
+</div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu đậu hũ kho nấm rơm</strong></h3>
 <ul class="staplesrecipe">
-<li>Gà ta thịt sẵn: 1kg</li>
-<li>Gừng: 2 củ</li>
-<li>Hành tím: 3-4 củ</li>
-<li>Bột nghệ</li>
-<li>Rau mùi tàu, mùi ta</li></ul>
-<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh gà" data-thumb="original" original-height="509" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-cf710076-f906-4fe2-8464-f6f720b3c040.jpg?v=1626513932527" /><em>Nguyên liệu nấu canh gà</em></p>
-<div class="box-title"><label>2</label>
-<h2 id="cach-buoc" style="text-align: justify;">Các bước nấu canh gà ngon</h2></div>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
-<p dir="ltr">Để nấu được món canh gà ngon các bạn nên chọn loại gà hơi già một chút, đặc biệt là gà chạy bộ, hoặc là gà mái đẻ. Thịt gà chắc không bị nát khi nấu canh. Gà đã làm lông sạch các bạn dùng muối hạt và rượu để chà xát lên bề mặt dạ của gà cho sạch và loại bỏ mùi tanh của gà, sau đó đem gà rửa sạch dưới vòi nước sạch và để ráo. Tiếp theo các bạn chặt thịt gà miếng vừa ăn</p>
-<p dir="ltr">Gừng các bạn cạo bỏ phần vỏ, rửa sạch để ráo. Băm nhỏ</p>
-<p dir="ltr">Hành tím bóc bỏ vỏ, đập dập băm nhuyễn.&nbsp;</p>
-<p dir="ltr">Mùi tàu, mùi ta rửa sạch để ráo thái nhỏ.&nbsp;</p>
-<p dir="ltr"><strong>Bước 2: Ướp thịt&nbsp;gà</strong></p>
-<p dir="ltr">Để thịt gà khi ăn sẽ đậm vị hơn thì các bạn sẽ ướp thịt gà, để gà vào bát. Nêm 1 thìa cà phê hạt nêm, 1 thìa muối, ⅓ thìa cà phê bột nghệ, gừng băm nhỏ. Đảo đều lên ướp 20 phút cho thịt gà ngấm gia vị.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt gà 20 phút cho ngấm gia vị" data-thumb="original" original-height="608" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-2f76a7ad-c820-4563-9555-40e4dec63196.jpg?v=1626518821740" /><em>Ướp thịt gà 20 phút cho ngấm gia vị</em></p>
-<p dir="ltr"><strong>Bước 3: Nấu canh gà thơm ngon</strong></p>
-<p dir="ltr">Các bạn cho 1,5 lít nước vào nồi, đun cho nồi nước sôi.</p>
-<p dir="ltr">Để canh gà được thơm ngon các bạn sẽ đảo&nbsp;qua thịt gà nhé. Các bạn bắc chảo lên bếp đun nóng 2 thìa canh dầu ăn cho hành tím vào phi thơm, cho thịt gà vào đảo qua đảo lại cho thịt gà săn lại, các bạn đảo thịt gà trong 10 phút để thịt gà khi nấu canh không bị đỏ nhé.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt gà 10 phút cho săn lại" data-thumb="original" original-height="608" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-85bf6519-8fe3-450d-911c-9f1eedc2ee35.jpg?v=1626518939164" /><em>Đảo thịt gà 10 phút cho săn lại</em></p>
-<p dir="ltr">Xào được 10 phút các bạn cho thịt gà vào nồi nước đã đun sôi hầm gà khoảng 20 phút cho gà chín và nước canh gà ngon. Sau đó các bạn tắt bếp.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Hầm canh gà trong 20 phút" data-thumb="original" original-height="608" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-49875d02-7074-4d3d-9942-f8a07ac2cb35.jpg?v=1626519089053" /><em>Hầm canh gà trong 20 phút</em></p>
-<div class="box-title"><label>3</label>
-<h2 id="thuong-thuc" style="text-align: justify;">Thưởng thức canh gà ngon</h2></div>
-<p dir="ltr">Các bạn múc canh gà ra bát, rắc thêm 1 chút rau mùi tàu mùi ta. Bạn đã có ngay một bát canh gà thơm ngon đổi khẩu vị cho gia đình rồi. Chúc các bạn thành công nhé.&nbsp;</p>
-<p>* Hình ảnh và nội dung bài viết tham khảo youtube <a href="https://www.youtube.com/watch?v=Cmfn2OfQ0kU" rel="nofollow" target="_blank" titl="cách nấu canh gà ngon">Ẩm Thực Việt</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-ga-ngon" title="Cách nấu canh gà ngon ngọt thịt, giải cảm với gừng">Cách nấu canh gà ngon ngọt thịt, giải cảm với gừng</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-canh-ga-ngon</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-ga-ngon</guid>
-            <pubDate>Sat, 24 Jul 2021 02:45:00 GMT</pubDate>
+<li>Đậu hũ: 3 miếng</li>
+<li>Nấm rơm: 300g</li>
+<li>Hành tím: 3 củ</li>
+<li>Hành lá: 3-4 cây</li>
+<li><strong>Gia vị:</strong> Nước tương, 2,5 thìa canh đường, 2 thìa cà phê muối, 1,5 thìa cà phê bột ngọt. 1 chút tiêu.&nbsp;</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu đậu hũ kho nấm rơm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu đậu hũ kho nấm rơm</strong></p>
+<p dir="ltr">Đậu các bạn cắt làm 4 miếng hình chữ nhật</p>
+<p dir="ltr">Nấm rơm các bạn cắt đôi ngâm vào chậu nước muối trong , nấm nào bé các bạn có thể để nguyên.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ngâm nấm rơm với nước muối " data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/222chuan.jpg?v=1627091028067" /><em>Ngâm nấm rơm với nước muối&nbsp;</em></p>
+<p dir="ltr">Hành lá rửa sạch, thái nhỏ. Thái phần đầu hành để riêng, phần hành lá để riêng</p>
+<p dir="ltr">Hành tím bóc vỏ đập dập băm nhuyễn.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Ướp nấm rơm</strong></p>
+<p dir="ltr">Để khi ăn món chay đậu hũ kho nấm được đậm đà các bạn ướp nấm trước khi nấu nhé. Cho nấm vào bát cho 1 nửa hành tím vào nấm và 1 thìa hành lá, ½ thìa cà phê muối, 1 chút tiêu, 1,5 thìa cà phê bột ngọt, 2 thìa canh nước tương, ½ thìa canh dầu ăn. Sau đó trộn đều lên ướp khoảng 10&nbsp;phút.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp nấm rơm với gia vị 10 phút cho ngấm" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/444.jpg?v=1627091123390" /><em>Ướp nấm rơm với gia vị 10 phút cho ngấm</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu đậu hũ kho rơm</strong></p>
+<p dir="ltr">Bắc chảo lên bếp, cho dầu ăn vào chảo cho nóng, cho đầu hành lá và hành tím băm nhuyễn vào đảo đều phi thơm. Hành thơm các bạn&nbsp;cho nấm&nbsp;vào xào cho săn lại.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Xào nấm rơm cho săn lại" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/555.jpg?v=1627091223233" /><em>Xào nấm rơm cho săn lại</em></p>
+<p dir="ltr">Tiếp theo cho đậu hũ vào đảo nhẹ tay đun thêm 2 phút các bạn cho phần nước tương, bột ngọt, đường còn lại vào.</p>
+<p dir="ltr">Sau đó cho vào nồi 250ml nước lọc đun sôi, nồi sôi các bạn hạ nhỏ lửa đun cho phần nấm và đậu ngũ ngấm gia vị, để nấm và đậu hũ ngấm đều gia vị.&nbsp;</p>
+<p dir="ltr">Thỉnh thoảng các bạn đảo nhẹ và lật lật lại miếng đậu hũ.</p>
+<p dir="ltr" style="text-align: center;"><em><img alt="Cho đậu hũ vào kho với nấm" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/666.jpg?v=1627091344204" />Cho đậu hũ vào kho với nấm</em></p>
+<p dir="ltr">Đun khi nào phần nước cạn và có độ sệt lại thì các bạn tắt bếp, rắc thêm chút hành lá. Vậy là món đậu hũ kho nấm chay đã hoàn thành rồi.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Món chay thông dụng đậu hũ kho nấm rơm" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/777.jpg?v=1627091426731" /><em>Món chay thông dụng đậu hũ kho nấm rơm</em></p>
+<p dir="ltr">Chúc các bạn thành công với những công thức trên!&nbsp;</p>
+<p dir="ltr">*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=2ymm-MDKV24" rel="nofollow" target="_blank" title="cách nấu món chay thông dụng">Hữu Quốc Món Ngon Dễ Làm&nbsp;</a>, <a href="https://www.youtube.com/watch?v=VWo5seI7I-8" rel="nofollow" target="_blank" title="cách nấu món chay thông dụng">Hồn Việt Food</a>&nbsp;và <a href="https://www.youtube.com/watch?v=m1NMP_mo-9c" rel="nofollow" target="_blank" title="cách nấu món chay thông dụng">Lê Tú Miền Tây.</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-mon-chay-thong-dung" title="3 cách nấu món chay thông dụng được nhiều người yêu thích">3 cách nấu món chay thông dụng được nhiều người yêu thích</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-mon-chay-thong-dung</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-mon-chay-thong-dung</guid>
+            <pubDate>Tue, 27 Jul 2021 11:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2 cách nấu canh đậu phụ đơn giản mà ngon ngọt thanh mát]]></title>
-            <description><![CDATA[<p><strong>Cùng vào bếp với <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> và thực hiện 2 cách nấu canh cà chua đơn&nbsp;giản mà ngon ngọt thanh mát đổi món cho gia đình.&nbsp;Canh đậu phụ nấu cùng cà chua, thịt băm vừa giàu dinh dưỡng lại dễ ăn, dễ nấu.</strong></p>
+            <title><![CDATA[Gợi ý 4 cách nấu canh rong biển thanh mát chuẩn vị Hàn Quốc không tanh]]></title>
+            <description><![CDATA[<p class="product-bottom"><strong>Canh rong biển&nbsp;là món ăn truyền thống của người Hàn Quốc, thường được ăn trong ngày sinh nhật vì đây là món ăn mà người mẹ thường ăn đầu tiên sau khi sinh con để cơ thể khỏe lại</strong>.&nbsp;</p>
+<p>Vì là món ăn rất bổ dưỡng nên ai cũng muốn thưởng thức, nhưng rong biển có mùi vị hơi tanh, để nấu được bát canh rong biển vừa ý thật không dễ dàng.</p>
+<p>Hôm nay Tinh Hoa Quê Nhà&nbsp;sẽ cùng bạn tìm hiểu&nbsp;4&nbsp;cách nấu&nbsp;canh rong biển thanh mát chuẩn vị Hàn Quốc&nbsp;không tanh&nbsp;tại nhà để mọi người trong gia đình đều được thưởng thức nhé.</p>
+<div class="box-title"><label>1</label>
+<h2 id="tom-kho" style="text-align: justify;">Canh rong biển khô nấu đậu hũ, tôm khô</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh rong biển khô, đậu hũ, tôm khô</strong></h3>
+<ul class="staplesrecipe">
+<li>Rong biển khô: 50g</li>
+<li>Đậu hũ non: 1 gói 300g</li>
+<li>Tôm khô: 10g</li>
+<li>Cà rốt: 1 củ 100g</li>
+<li>Hành lá</li>
+<li><strong>Gia vị</strong>: Nước mắm, đường, hạt nêm, hạt tiêu.&nbsp;</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh rong biển khô, đậu hũ, tôm khô</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh rong biển khô, đậu hũ, tôm khô</strong></p>
+<p dir="ltr">Rong biển cắt đôi ngâm nước ấm 30 phút cho nở ra các bạn cắt khúc ngắn vừa ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ngâm rong biển khô vào nước cho nở" data-thumb="original" original-height="599" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-aa189797-4495-4cd1-ac03-39735a7f16a1.jpg?v=1626888052639" /><em>Ngâm rong biển khô vào nước cho nở</em></p>
+<p dir="ltr">Đậu hũ non cắt miếng vuông vừa ăn</p>
+<p dir="ltr">Tôm khô rửa qua nước cho sạch bụi sau đó ngâm với nước ấm cho mềm.&nbsp;</p>
+<p dir="ltr">Cà rốt gọt vỏ rửa sạch thái hạt lựu</p>
+<p dir="ltr">Hành lá rửa sạch, đầu hành đập dập cắt nhỏ để riêng, hành lá cắt nhỏ để riêng.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh rong biển khô, đậu hũ, tôm khô</strong></p>
+<p dir="ltr">Các bạn cho dầu ăn vào nồi, cho phần đầu hành vào phi thơm sau đó cho tôm vào đảo đều cho thấm dầu, các bạn cho 1,5 lít nước vào nồi đun sôi sau đó cho cà rốt vào đun 5 phút cho nồi sôi và cà rốt chín.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo tôm cùng với hành phi thơm cho ngấm gia vị" data-thumb="original" original-height="599" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-bde53726-ea3e-44f9-9319-8fd63035b814.jpg?v=1626888210190" /><em>Đảo tôm cùng với hành phi thơm cho ngấm gia vị</em></p>
+<p dir="ltr">Tiếp tục cho đậu hũ non vào đun tiếp 2 phút các bạn cho rong biển vào nêm 1 thìa canh đường, ½ thìa canh hạt nêm, ½ thìa canh nước mắm khuấy đều các bạn tắt bếp và cho hành lá vào.</p>
+<p dir="ltr">Thế là món canh rong biển đậu hũ, tôm khô đơn giản đã được hoàn thành các bạn nhé.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rong biển khô nấu đậu hũ, tôm khô" data-thumb="original" original-height="716" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-fb770287-67f6-4f71-ac7a-ea2a5edb3629.jpg?v=1626888302011" /><em>Canh rong biển khô nấu đậu hũ, tôm khô</em></p>
+<div class="box-title"><label>2</label>
+<h2 id="thit-bam" style="text-align: justify;">Canh rong biển khô nấu thịt bằm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu làm canh rong biển khô nấu thịt băm</strong></h3>
+<ul class="staplesrecipe">
+<li>Rong biển khô: 1 gói 350g</li>
+<li>Thịt băm: 100g</li>
+<li>Hành tím: 5 củ</li>
+<li>Hành lá, rau mùi.</li>
+<li><strong>Gia vị</strong>: Đường, muối, hạt nêm, bột ngọt, tiêu.&nbsp;</li></ul>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh rong biển khô với thịt băm" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/22-26c3a546-c941-4834-be62-ff693c8c47a3.jpg?v=1626888442754" /><em>Nguyên liệu nấu canh rong biển khô với thịt băm</em></p>
+<h3 dir="ltr"><strong>Các bước nấu canh rong biển khô thịt băm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh rong biển khô thịt băm</strong></p>
+<p dir="ltr">Rong biển khô ngâm với nước ấm trong 30 phút cho nở, sau đó cắt miếng vừa ăn.&nbsp;</p>
+<p dir="ltr">Hành tím bóc vỏ thái lát mỏng</p>
+<p dir="ltr">Hành lá, rau mùi rửa sạch thái khúc 1-2 phân.</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh rong biển thịt băm</strong></p>
+<p dir="ltr">Cho dầu ăn vào nồi, phi thơm hành tím, cho thịt vào xào cho săn lại, nêm 1 thìa cà phê hạt nêm 1 chút tiêu đảo đều lên.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt cho săn" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/11-4116c5b6-2780-4fa5-ad36-dee6415e0022.jpg?v=1626888619184" /><em>Đảo thịt cho săn</em></p>
+<p dir="ltr">Cho 1,5 lít nước sôi vào đun sôi. Sau đó cho rong biển vào nồi đun sôi nêm thêm ½ thìa cà phê muối, 1 thìa cà phê hạt nêm, 1 thìa cà phê bột ngọt khuấy đều cho gia vị tan.</p>
+<p dir="ltr" style="text-align: center;"><em><img alt="Nấu canh rong biển khô với thịt băm" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/33-d267d95b-5b1d-408f-95f2-af23754d807b.jpg?v=1626888675533" />Nấu canh rong biển khô với thịt băm</em></p>
+<p dir="ltr">Các bạn tắt bếp. Múc canh ra bát cho thêm chút hành lá và rau mùi là có thể thưởng thức thôi các bạn</p>
+<p dir="ltr" style="text-align: center;"><img alt="Thành phẩm canh rong biển khô nấu thịt băm" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/44-eb448f52-a9b8-46cd-b328-57f12e5068cc.jpg?v=1626888748707" /><em>Thành phẩm canh rong biển khô nấu thịt băm</em></p>
+<div class="box-title"><label>3</label>
+<h2 id="thit-bo" style="text-align: justify;">Canh rong biển khô nấu thịt bò</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh rong biển khô thịt bò</strong></h3>
+<ul class="staplesrecipe">
+<li>Rong biển khô: 1 gói</li>
+<li>Thịt bò: 300g</li>
+<li>Xương gà: 500g</li>
+<li>Đậu hũ non: 1 hộp</li>
+<li>Mì u đông: 1 gói</li>
+<li>Tỏi: 1 củ</li>
+<li>Hành lá</li>
+<li><strong>Gia vị</strong>: Hạt nêm, dầu ăn, nước tương</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh rong biển khô thịt bò</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh rong biển thịt bò</strong></p>
+<p dir="ltr">Rong biển khô ngâm nước ấm 30 phút cho nở hết các bạn rửa sạch với nước lạnh, sau đó cắt khúc vừa ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ngâm rong biển khô vào nước " data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-d90ac4b5-21b9-42e3-8d51-f89393a06c64.jpg?v=1626890998382" /><em>Ngâm rong biển khô vào nước&nbsp;</em></p>
+<p dir="ltr">Thịt bò các bạn chọn bắp bò, bắp bò có gân ăn sật sật rất ngon các bạn nhé. Thịt bò thái miếng mỏng vừa ăn, ướp với 1 thìa canh nước tương và hạt tiêu trộn đều cho ngấm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt bò cùng gia vị cho ngấm" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-fb49771b-6aa2-4d90-bb02-eda7118bbf5a.jpg?v=1626891066671" /><em>Ướp thịt bò cùng gia vị cho ngấm</em></p>
+<p dir="ltr">Mì u đông ngâm nước lạnh cho nở vớt để ráo.&nbsp;</p>
+<p dir="ltr">Đậu hũ non các bạn thái miếng vuông vừa ăn.&nbsp;</p>
+<p dir="ltr">Hành lá rửa sạch thái nhỏ</p>
+<p dir="ltr">Tỏi bóc vỏ đập dập băm nhuyễn.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Hầm nước xương gà</strong></p>
+<p dir="ltr">Để nước canh được ngọt hơn các bạn dùng xương gà để hầm lấy nước, xương gà các bạn rửa sạch cho vào nồi, cho 1,5 lít nước hầm 20 phút.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hầm xương gà 20 phút để lấy nước dùng" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-87c223f9-84ea-48e4-9d54-0f4181ee14cd.jpg?v=1626891170014" /><em>Hầm xương gà 20 phút để lấy nước dùng</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh rong biển thịt bò</strong></p>
+<p dir="ltr">Canh rong biển chuẩn vị Hàn Quốc thường dùng tỏi băm, các bạn cho tỏi băm vào dầu ăn phi thơm cho thịt bò và rong biển vào đảo đều.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Xào thịt bò cùng với rong biển" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-47d35d07-9b4c-450b-988a-187ded7d1cb4.jpg?v=1626891415800" /><em>Xào thịt bò cùng với rong biển</em></p>
+<p dir="ltr">Các bạn đổ nước hầm xương gà vào đun sôi 10 phút, tiếp theo các bạn cho đậu hũ non và mì u đông vào đun thêm 5 phút.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rong biển khô nấu thịt bò" data-thumb="original" original-height="730" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/6-5adf237e-86c7-41b3-b2c9-9c408587ad0b.jpg?v=1626891581157" /><em>Canh rong biển khô nấu thịt bò</em>&nbsp;</p>
+<p dir="ltr">Nêm 1 thìa cà phê hạt nêm, 1 thìa cà phê nước tương khuấy đều lên cho hành lá các bạn tắt bếp và múc canh ra bát thưởng thức thôi các bạn nhé</p>
+<div class="box-title"><label>4</label>
+<h2 id="nau-tom" style="text-align: justify;">Canh rong biển nấu tôm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu canh rong biển nấu tôm</strong></h3>
+<ul class="staplesrecipe">
+<li>Rong biển khô: 1 túi 350g</li>
+<li>Tôm tươi: 100g</li>
+<li>Đậu hũ: 1 bìa</li>
+<li>Hành tím: 3 củ</li>
+<li><strong>Gia vị</strong>: Hạt nêm, muối</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh rong biển nấu tôm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu rong biển nấu tôm</strong></p>
+<p dir="ltr">Rong biển khô đem ngâm nước 30 phút cho nở, sau đó đem cắt miếng vừa ăn.</p>
+<p dir="ltr">Đậu hũ cắt miếng vuông vừa ăn</p>
+<p dir="ltr">Tôm tươi lột bỏ vỏ rửa sạch</p>
+<p dir="ltr" style="text-align: center;"><img alt="Tôm bóc vỏ, bỏ đầu, rửa sạch" data-thumb="original" original-height="656" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/55-dfceaecc-461b-418e-a833-954fd827afdf.jpg?v=1626891754071" /><em>Tôm bóc vỏ, bỏ đầu, rửa sạch</em></p>
+<p dir="ltr">Hành tím bóc vỏ thái lát mỏng</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh rong biển tôm tươi</strong></p>
+<p dir="ltr">Cho vào nồi 1 lít nước, đun sôi nồi nước. Nước sôi cho tôm và hành tím vào, nêm 1 thìa cà phê hạt nêm, ½ thìa cà phê muối, 1 thìa cà phê đường khuấy đều cho nước canh ngọt.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đun sôi tôm và hành tím" data-thumb="original" original-height="656" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/22-819cabbb-a1fa-46dc-9fe9-f88ce5554f5a.jpg?v=1626891825890" /><em>Đun sôi tôm và hành tím</em></p>
+<p dir="ltr">Tiếp theo cho đậu hũ vào đun sôi sau đó cho rong biển vào đun thêm 2 phút nữa các bạn tắt bếp.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho rong biển và đậu phụ vào nấu cùng tôm" data-thumb="original" original-height="656" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/33-06e8bbc4-1f1e-4a31-9fa5-23cd348d4155.jpg?v=1626891891147" /><em>Cho rong biển và đậu phụ vào nấu cùng tôm</em></p>
+<p dir="ltr">Vậy là canh rong biển nấu tôm tươi đã xong bây giờ các bạn chỉ việc thưởng thức.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Thưởng thức canh rong biển khô nấu tôm tươi" data-thumb="original" original-height="656" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/11-093ed676-1c52-4a65-a9d9-f1579b15b7d2.jpg?v=1626891959061" /><em>Thưởng thức canh rong biển khô nấu tôm tươi</em></p>
+<p dir="ltr">Chúc các bạn thành công !</p>
+<p dir="ltr">*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=I5NMJo9GwOM" rel="nofollow" target="_blank" title="cách nấu canh rong biển">Ăn gì đây?</a>, <a href="https://www.youtube.com/watch?v=LPGO1IOc1YQ" rel="nofollow" target="_blank" title="cách nấu canh rong biển">Bếp của Vợ</a>, <a href="https://www.youtube.com/watch?v=SpvTpyJOBOQ" rel="nofollow" target="_blank" title="cách nấu canh rong biển">Nhà Ốc Lác</a>&nbsp;và <a href="https://www.youtube.com/watch?v=S0XuF3fCkA8" rel="nofollow" target="_blank" title="cách nấu canh rong biển">Mụ Thông Vlogs</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-rong-bien" title="Gợi ý 4 cách nấu canh rong biển thanh mát chuẩn vị Hàn Quốc không tanh">Gợi ý 4 cách nấu canh rong biển thanh mát chuẩn vị Hàn Quốc không tanh</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-rong-bien</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-rong-bien</guid>
+            <pubDate>Tue, 27 Jul 2021 06:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gợi ý 3 cách nấu canh rau ngót ngon ngọt mà đơn giản]]></title>
+            <description><![CDATA[<p><strong>Canh rau ngót là món ăn dân dã trong mỗi bữa ăn của gia đình người Việt. Có nhiều cách chế biến món canh rau ngót, mỗi cách&nbsp;lại mang một&nbsp;hương vị riêng biệt khác&nbsp;nhau. Tinh Hoa Quê Nhà sẽ giới thiệu đến các bạn 3 cách nấu canh rau ngót vừa ngon và vừa tốt cho sức khoẻ.</strong></p>
 <p><meta charset="utf-8" /></p>
 <div class="box-title"><label>1</label>
-<h2 id="ca-chua" style="text-align: justify;">Đậu hũ non, đậu phụ nấu cà chua</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu đậu hũ non cà chua</strong></h3>
+<h2 id="nau-tom" style="text-align: justify;">Rau ngót nấu tôm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu canh rau ngót nấu tôm</strong></h3>
 <ul class="staplesrecipe">
-<li>Đậu hũ non: 1 gói 350g</li>
-<li>Cà chua: 1 quả to</li>
-<li>Nấm kim châm: 200g</li>
-<li>Hành lá: 3 cọng</li>
-<li>Gia vị: Muối, hạt nêm, lẩu thái</li></ul>
-<h3 dir="ltr"><strong>Các bước nấu đậu hũ non cà chua</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu đậu hũ non</strong></p>
-<p dir="ltr">Nấm kim châm, cắt bỏ phần gốc, rửa sạch để ráo</p>
-<p dir="ltr">Cà chua rửa sạch thái múi cau</p>
-<p dir="ltr">Hành lá rửa sạch, dầu hành thái nhỏ, lá hành thái khúc 2 phân.&nbsp;</p>
-<p dir="ltr"><strong>Bước 2: Nấu canh đậu hũ non cà chua</strong></p>
-<p dir="ltr">Cho dầu vào nồi, cho phần đầu hành vào đảo cho thơm, cho cà chua vào đảo cho nhừ, nêm 2 thìa cà phê muối đảo đều.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Đảo cà chua cùng gia vị cho nhừ" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-250601ec-b2b7-477e-8653-0337e25f91e7.jpg?v=1626799228021" /><em>Đảo cà chua cùng gia vị cho nhừ</em></p>
-<p dir="ltr">Cà chua nhừ các bạn cho nước vào đun sôi, cho nấm kim châm vào, sau đó cho đậu hũ non vào đun sôi, nêm 1 thìa cà phê hạt nêm, và 1 chút gia vị lẩu thái cho ngon.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Cho nấm kim châm và đậu hũ non vào nồi canh" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-f04668b2-1903-4c20-b816-53fb03c9f288.jpg?v=1626799152688" /><em>Cho nấm kim châm và đậu hũ non vào nồi canh</em></p>
-<p dir="ltr">Tiếp tục đun sôi thêm 2 phút, các bạn cho hành lá thái khúc vào và tắt bếp. Vậy là món canh đã hoàn thành, múc ra bát và thưởng thức thôi các bạn</p>
+<li>Rau ngót: 1 mớ</li>
+<li>Tôm: 100g</li>
+<li><strong>Gia vị:</strong> Bột canh, hạt nêm, bột ngọt, nước mắm.&nbsp;</li></ul>
+<h3 dir="ltr"><strong>Các bước làm canh rau ngót nấu tôm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu canh rau ngót nấu tôm</strong></p>
+<p dir="ltr">Để bát canh rau ngót thơm ngon thì các bạn phải lựa chọn những con tôm tươi, còn sống, khoẻ. Các bạn bóc phần vỏ ngoài và phần đầu tôm, lấy phần thịt tôm sau đó rửa sạch cho vào máy xay, xay nhuyễn.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Xay nhuyễn thịt tôm" data-thumb="original" original-height="673" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/huong-dan-cach-lam-canh-rau-ngot-nau-tom-voi-feedy-0-7-screenshot-1.jpg?v=1626884730177" /><em>Xay nhuyễn thịt tôm</em></p>
+<p dir="ltr">Rau ngót các bạn tuốt bỏ phần cọng lấy phần lá, đem rửa sạch để ráo</p>
+<p dir="ltr"><strong>Bước 2: Canh rau ngót nấu tôm</strong></p>
+<p dir="ltr">Các bạn bắc nồi lên bếp cho 1 thìa dầu ăn vào nồi, sau đó cho thịt tôm đã xay vào xào lên cho săn nêm 1 thìa cà phê hạt nêm, 1 thìa cà phê bột canh, 1 thìa cà phê bột ngọt đảo đều cho tôm ngấm gia vị.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo tôm cùng với gia vị cho ngấm" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-2f3d90f9-9ec1-4d84-96b0-7186b660abab.jpg?v=1626884804302" /><em>Đảo tôm cùng với gia vị cho ngấm</em></p>
+<p dir="ltr">Các bạn cho 500ml nước vào nồi đun sôi, các bạn cho rau ngót vào nồi đun sôi 2 phút nêm thêm 1 thìa cà phê nước mắm, sau đó các bạn tắt bếp và có thể thưởng thức ngay bát canh rau ngot nấu tôm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rau ngót nấu tôm" data-thumb="original" original-height="621" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-698570b4-fde3-4edc-be8f-743f51fa6d87.jpg?v=1626885001446" /><em>Canh rau ngót nấu tôm</em></p>
 <div class="box-title"><label>2</label>
-<h2 id="nau-he" style="text-align: justify;">Đậu phụ nấu hẹ</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu đậu phụ nấu hẹ</strong></h3>
+<h2 id="thit-bam" style="text-align: justify;">Canh rau ngót thịt bằm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh rau ngót thịt bằm</strong></h3>
 <ul class="staplesrecipe">
-<li>Đậu phụ: 2 bìa</li>
-<li>Nấm rơm: 500g</li>
-<li>Lá hẹ: 300g</li>
-<li><strong>Gia vị</strong>: Muối, hạt nêm, bột ngọt.&nbsp;</li></ul>
-<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu cùng với đậu phụ" data-thumb="original" original-height="698" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2h.jpg?v=1626799603160" /><em>Nguyên liệu nấu cùng với đậu phụ</em></p>
-<h3 dir="ltr"><strong>Các bước nấu canh đậu phụ với hẹ</strong></h3>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu đậu phụ nấu hẹ</strong></p>
-<p dir="ltr">Đậu hũ cắt miếng vừa ăn, để đậu hũ không bị nát khi nấu canh các bạn ướp vào đậu hũ 1 chút muối, hạt nêm và bột ngọt.&nbsp;</p>
-<p dir="ltr">Nấm gọt vỏ, bổ đôi ngâm nước muối, sau đó chần qua nước sôi để ráo</p>
-<p dir="ltr" style="text-align: center;"><img alt="Chần nấm rơm với nước sôi" data-thumb="original" original-height="698" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1h.jpg?v=1626799678152" /><em>Chần nấm rơm với nước sôi</em></p>
-<p dir="ltr">Lá hẹ rửa sạch, cắt khúc</p>
-<p dir="ltr"><strong>Bước 2: Nấu canh đậu hũ lá hẹ</strong></p>
-<p dir="ltr">Cho nước vào nồi đun sôi, nêm ⅓ thìa cà phê muối, 1 thìa phê hạt nêm, ½ thìa cà phê đường. Nồi nước sôi các bạn cho nấm vào đun sôi cho chín.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Nước canh sôi cho nấm rơm vào nồi" data-thumb="original" original-height="698" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3h.jpg?v=1626799763180" /><em>Nước canh sôi cho nấm rơm vào nồi</em></p>
-<p dir="ltr">Khi nấm chín cho đậu hũ vào đun sôi khoảng 5 phút cho đậu hũ chín các bạn tắt bếp cho lá hẹ cắt khúc vào nêm thêm 1 thìa canh nước mắm. Vậy là đã xong nồi canh đậu hũ nấu hẹ rồi các bạn nhé, giờ múc ra bát và thưởng thức thôi.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Canh đậu hũ, nấm rơm, hẹ thơm ngon thanh mát" data-thumb="original" original-height="642" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-e121a037-8a44-47b9-96f4-40c7010b2536.jpg?v=1626800069592" /><em>Canh đậu hũ, nấm rơm, hẹ thơm ngon thanh mát</em></p>
-<p dir="ltr">*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=K4JIRPmZlYI" rel="nofollow" target="_blank" title="Cách nấu canh đậu phụ">Miu Miu Cooking</a>&nbsp;và <a href="https://www.youtube.com/watch?v=b0uhLa-t6j0" rel="nofollow" target="_blank" title="Cách nấu canh đậu phụ">Bếp Của Lệ Hằng</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-dau-phu" title="2 cách nấu canh đậu phụ đơn giản mà ngon ngọt thanh mát">2 cách nấu canh đậu phụ đơn giản mà ngon ngọt thanh mát</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-canh-dau-phu</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-dau-phu</guid>
-            <pubDate>Sat, 24 Jul 2021 02:38:00 GMT</pubDate>
+<li>Thịt nạc vai: 100g</li>
+<li>Rau ngót: 1 mớ</li>
+<li>Gia vị</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh rau ngót thịt bằm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
+<p dir="ltr">Thịt nạc vai các bạn đem rửa sạch, dùng dao băm nhuyễn</p>
+<p dir="ltr">Rau ngót tuốt lấy phần lá, bỏ phần cọng. Rửa sạch, để ráo sau đó vò nát.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Vò nát rau ngót" data-thumb="original" original-height="808" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/11-a0cf417b-b4e4-4717-9b46-a07d13a65b90.jpg?v=1626885142329" /><em>Vò nát rau ngót</em></p>
+<p dir="ltr"><strong>Bước 2: Nấu canh rau ngót thịt băm</strong></p>
+<p dir="ltr">Bắc nồi lên bếp, cho thịt vào xào với dầu ăn, xào cho thịt săn lại các bạn nêm 1 thìa bột canh và hạt nêm đảo đều lên cho thịt ngấm gia vị.</p>
+<p dir="ltr">Các bạn cho rau ngót vào đảo cho rau ngot ngấm gia vị sau đó đổ 500ml nước vào đun sôi lên cho thịt và rau ngót chín.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt cùng với rau ngót" data-thumb="original" original-height="808" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/22-dca74239-296b-40d1-b654-0530a21dc1ac.jpg?v=1626885239038" /><em>Đảo thịt cùng với&nbsp;rau ngót</em></p>
+<p dir="ltr">Các bạn nêm lại gia vị cho vừa khẩu vị với gia đình mình nhé.&nbsp; Vậy là món canh rau ngót thịt băm đã hoàn thành.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rau ngót thịt băm" data-thumb="original" original-height="808" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/44-d77872df-7e52-4089-a3eb-000f1de7706a.jpg?v=1626885352231" /><em>Canh rau ngót thịt băm</em></p>
+<div class="box-title"><label>3</label>
+<h2 id="nau-muop" style="text-align: justify;">Canh rau ngót nấu mướp</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu làm canh rau ngót nấu mướp</strong></h3>
+<ul class="staplesrecipe">
+<li>Rau ngót: 1 mớ</li>
+<li>Mướp: 1 quả</li>
+<li>Gia vị: Hạt nêm, bột ngọt, muối.</li></ul>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu làm canh rau ngót nấu mướp" data-thumb="original" original-height="641" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/111j.jpg?v=1626885455679" /><em>Nguyên liệu làm canh rau ngót nấu mướp</em></p>
+<h3 dir="ltr"><strong>Các bước nấu canh rau ngót nấu mướp</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu làm canh rau ngót nấu mướp</strong></p>
+<p dir="ltr">Rau ngót các bạn tuốt lấy phần lá, đem rửa sạch, để ráo, vo nát.</p>
+<p dir="ltr">Mướp các bạn gọt vỏ, rửa sạch thái miếng chéo.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh rau ngót với mướp.&nbsp;</strong></p>
+<p dir="ltr">Các bạn cho 5ml nước vào nồi, nêm ½ thìa cà phê muối, 1 thìa cà phê hạt nêm. Đậy nắp nồi đun sôi nước, nước sôi các bạn cho rau ngót và mướp vào nồi đun sôi khoảng 4 phút.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rau ngót nấu mướp" data-thumb="original" original-height="641" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/222j.jpg?v=1626885688521" /><em>Canh rau ngót nấu mướp</em></p>
+<p dir="ltr">Các bạn nêm xem canh đã vừa chưa, nếu chưa vừa các bạn nêm theo khẩu vị gia đình. Còn vừa rồi các bạn cho thêm ½ thìa bột ngọt khuấy đều nồi canh. Các bạn tắt bếp múc ra bát và thưởng thức cùng với cơm.&nbsp;</p>
+<div class="box-title"><label>4</label>
+<h2 id="luu-y" style="text-align: justify;">Lưu ý khi nấu canh rau ngót</h2></div>
+<p dir="ltr">Để canh được ngọt các bạn vò nát rau ngọt, càng nát càng tốt.&nbsp;</p>
+<p dir="ltr">Đối với canh rau ngọt rửa sạch rau mới được vò. Vò xong không được rửa qua nước sẽ làm mất hết chất ngọt.&nbsp;</p>
+<p dir="ltr">* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=xQzjcGgfEZg" rel="nofollow" target="_blank" title="cách nấu canh rau ngót">Feedy Món Ăn Ngon</a>, <a href="https://www.youtube.com/watch?v=5t_hYWGiVHA" rel="nofollow" target="_blank" title="cách nấu canh rau ngót">My Youth</a>&nbsp;và <a href="https://www.youtube.com/watch?v=6NizRtj62uE" rel="nofollow" target="_blank" title="cách nấu canh rau ngót">Quỳnh Anh Vlogs</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-rau-ngot" title="Gợi ý 3 cách nấu canh rau ngót ngon ngọt mà đơn giản">Gợi ý 3 cách nấu canh rau ngót ngon ngọt mà đơn giản</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-rau-ngot</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-rau-ngot</guid>
+            <pubDate>Tue, 27 Jul 2021 06:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cách nấu canh chua đầu cá hồi ngon, đơn giản mà không tanh]]></title>
-            <description><![CDATA[<p><meta charset="utf-8" /><strong>Canh chua đầu cá hồi không những là một món ăn ngon mà còn tốt cho sức khỏe. Cùng Tinh Hoa Quê Nhà vào bếp nấu món canh chua đầu cá hồi ngon với đậu bắp, thơm và dọc mùng nhé.</strong></p>
+            <title><![CDATA[Gợi ý 2 cách nấu canh rau cải ngọt mát ngày hè]]></title>
+            <description><![CDATA[<p><meta charset="utf-8" /><strong>Canh rau cải là món ăn dân giã, dễ nấu rất được ưa thích. Bát canh rau cải luôn là món ăn lý tưởng bởi cách nấu đơn giản, nhanh chóng. Tinh Hoa Quê Nhà sẽ mách bạn cách nấu&nbsp;canh cải ngọt ngọt thơm, thanh nhiệt. </strong></p>
 <div class="box-title"><label>1</label>
-<h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu canh chua đầu cá hồi</h2></div>
+<h2 id="ca-ro" style="text-align: justify;">Canh rau cải cá rô</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu</strong></h3>
 <ul class="staplesrecipe">
-<li>Đầu cá hồi: 1 cái 500g</li>
-<li>Tôm: 200g</li>
-<li>Cà chua: 150g</li>
-<li>Dứa: 1 quả</li>
-<li>Dọc mùng: 400g</li>
-<li>Đậu bắp: 200g</li>
-<li>Me</li>
-<li>Tỏi: 3 tép</li>
-<li>Rau mùi tàu, rau ngổ</li></ul>
+<li>Cá rô đồng: 3 con</li>
+<li>Cải bẹ xanh: 1 mớ</li>
+<li>Gừng: 1 củ</li>
+<li>Hành tím: 3 củ</li>
+<li><strong>Gia vị</strong>: Bột canh, nước mắm, hạt nêm, bột ngọt.&nbsp;</li></ul>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh rau cải cá rô đồng" data-thumb="original" original-height="626" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-7c4a9f12-2e8e-4ffd-bcd2-3ff90e1384b6.jpg?v=1626861178850" /><em>Nguyên liệu nấu canh rau cải cá rô đồng</em></p>
+<h3 dir="ltr"><strong>Các bước nấu canh rau cải cá rô</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh cải cá rô</strong></p>
+<p dir="ltr">Cá rô đánh vảy, cắt bỏ đầu, moi bỏ ruột. Cho muối và rượu vào chà phần thân cho cá hết tanh nhớt sau đó rửa sạch với nước để ráo.&nbsp;</p>
+<p dir="ltr">Rau cải ngắt từng bẹ cải riêng, rửa sạch với nước cho sạch phần bẹ cải.&nbsp;</p>
+<p dir="ltr">Gừng cạo vỏ rửa sạch thái sợi</p>
+<p dir="ltr">Hành tím bóc vỏ đập dập băm nhuyễn.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Luộc cá rô đồng</strong></p>
+<p dir="ltr">Các bạn cho nước vào nồi, cho thêm 1 chút bột canh và 1 chút gừng thái sợi đun sôi.</p>
+<p dir="ltr" style="text-align: center;"><img alt=" Luộc cá với gùng khử tanh" data-thumb="original" original-height="605" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-24c0b500-0864-43e0-8a67-47b7f86a68f2.jpg?v=1626861301579" /><em>Luộc cá với gùng khử tanh</em></p>
+<p dir="ltr">Nồi nước sôi các bạn cho cá vào luộc cho chín rồi các bạn vớt ra cho nguội và gỡ lấy phần thịt cá.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Gỡ lấy phần thịt cá" data-thumb="original" original-height="605" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-342d28bb-97eb-4944-b5e2-a542031d5397.jpg?v=1626861475201" /><em>Gỡ lấy phần thịt cá</em></p>
+<p dir="ltr">Để nước canh ngọt hơn các bạn giã phần xương cá và cho nồi đun sôi sau đó đem nước canh lọc qua rây để lấy nước canh.</p>
+<p dir="ltr"><strong>Bước 3: Xào thịt cá</strong></p>
+<p dir="ltr">Để nồi canh không bị tanh mùi cá các bạn đem thịt cá rô xào qua với hành tím cho thơm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo cá cùng hành phi cho thơm" data-thumb="original" original-height="739" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/111-1.jpg?v=1626861996763" /><em>Đảo cá cùng hành phi cho thơm</em></p>
+<p dir="ltr">Các bạn bắc chảo lên bếp phi thơm phần hành tím sau đó cho cá vào đảo đều lên cho thơm nêm 1 thìa cà canh nước mắm, 1 thìa cà phê hạt nêm, 1 thìa cà phê bột ngọt các bạn đảo đều cho cá ngấm gia vị.</p>
+<p dir="ltr">Khi cá có mùi thơm là các bạn tắt bếp nhé.&nbsp;</p>
+<p dir="ltr"><strong>Bước 4: Nấu canh cải cá rô</strong></p>
+<p dir="ltr">Các bạn bắc nồi nước luộc cá lên bếp, cho tiếp phần gừng thái sợi còn lại đun sôi nồi canh, sau đó các bạn cho rau cải vào đun sôi, nồi sôi các bạn cho cá đã xào vào nồi khuấy đều cho gia vị tan ra.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rau cải nấu cá rô đồng" data-thumb="original" original-height="605" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-1d48f78b-e68e-40f8-9760-9628b57ab89d.jpg?v=1626862099405" /><em>Nấu canh rau cải nấu cá rô đồng</em></p>
+<p dir="ltr">Các bạn nêm lại nồi canh, vì khi luộc đã cho bột canh nên nước canh đã ngọt rồi, các bạn nêm thêm theo khẩu vị từng gia đình nhé. Sau đó các bạn tắt bếp.</p>
+<h3 dir="ltr"><strong>Thưởng thức canh cải cá rô</strong></h3>
+<p dir="ltr">Các bạn múc canh ra bát và có thể thưởng thức thôi ạ. Canh cả có vị ngọt của cá nhưng lại không bị tanh, canh cải cá rô nấu không khó nhưng nấu làm sao để bát canh cá không bị tanh thì không hề dễ.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Thưởng thức canh rau cải nấu cá rô đồng" data-thumb="original" original-height="605" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-9b3a45d8-8d3b-408a-a11f-61282371393c.jpg?v=1626862219652" /><em>Thưởng thức canh rau cải nấu cá rô đồng</em></p>
+<p dir="ltr">Với công thức trên chúc các bạn có những bát canh cá ngon nhé.&nbsp;</p>
 <div class="box-title"><label>2</label>
-<h2 id="cac-buoc" style="text-align: justify;">Các bước nấu canh chua đầu cá hồi</h2></div>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh chua đầu cá hồi</strong></p>
-<p dir="ltr">Đầu cá hồi các bạn bỏ phần mang cá, cắt nhỏ ra rửa nhiều lần nước sạch trôi hết máu còn đọng lại trong đầu cá, sau đó rửa với muối cho bớt tanh rửa lại với nước sạch. Sau đó chần đầu cá hồi với nước sôi và rượu.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Rửa đầu cá hồi dưới vòi nước sạch" data-thumb="original" original-height="695" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-a38f3bba-5f28-42aa-a432-4d23c57cd56f.jpg?v=1626789635715" /><em>Rửa đầu cá hồi dưới vòi nước sạch</em></p>
-<p dir="ltr">Cà chua rửa sạch bổ múi cau</p>
-<p dir="ltr">Dọc mùng tước phần sơ bên ngoài rửa sạch thái chéo.&nbsp;</p>
-<p dir="ltr">Dứa các bạn thái miếng tam giác mỏng</p>
-<p dir="ltr">Đậu bắp rửa sạch bỏ phần cuống thái chéo.&nbsp;</p>
-<p dir="ltr">Tỏi bóc vỏ đập dập băm nhuyễn</p>
-<p dir="ltr">Me cho nước ấm vào dầm lấy phần nước chua.&nbsp;</p>
-<p dir="ltr">Rau thơm các bạn rửa sạch để ráo</p>
-<p dir="ltr"><strong>Bước 2: Ướp cá hồi</strong></p>
-<p dir="ltr">Để cho nước canh ngon và thơm các bạn cho thêm vài con tôm nhé, tôm rửa sạch cắt bỏ râu, chân cho chung vào cùng đầu cá hồi ướp cho ngấm gia vị. Các bạn cho ½ thìa canh muối, hạt nêm, 1 chút tiêu xay các bạn sóc đều lên cho gia vị ngấm vào cá tôm, ướp 15 phút các bạn nhé.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Ướp đầu cá hồi cho ngấm gia vị" data-thumb="original" original-height="695" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/7-1-44fe8621-b295-45f8-89b7-8444f282ec90.jpg?v=1626790086681" /><em>Ướp đầu cá hồi cho ngấm gia vị</em></p>
-<p dir="ltr"><strong>Bước 3: Nấu canh chua đầu cá hồi</strong></p>
-<p dir="ltr">Các bạn phi tỏi thơm, cho dứa và cà chua vào đảo đều 2 phút, cho thêm 1 thìa canh sa tế đảo đều cùng với cà chua, đảo khi nào cà chua mềm và có màu đỏ các bạn cho vào 1 lít nước vào nồi.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Đun cà chua và dứa để tạo màu và độ chua cho nồi canh đầu cá hồi" data-thumb="original" original-height="695" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-e2beff66-627b-4455-bda9-575b66c6d445.jpg?v=1626789720935" /><em>Đun cà&nbsp;chua và dứa để tạo màu và độ chua cho nồi canh đầu cá hồi</em></p>
-<p dir="ltr">Sau đó cho nước cốt me vào, nêm gia vị ½ thìa canh muối, 1 thìa cà phê hạt nêm, 2 thìa cà phê đường. Lần lượt cho đậu bắp, dọc mùng và đầu cá hồi tôm vào nồi đun sôi 5-7 phút cho cá chín là các bạn có thể tắt bếp. Múc canh vào bát và thưởng thức thôi, các&nbsp; bạn cho thêm 1 chút nước mắm vào bát canh, rắc thêm chút rau thơm.</p>
-<p dir="ltr" style="text-align: center;"><img alt="Thành phẩm canh chua đầu cá hồi" data-thumb="original" original-height="695" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-16a93549-268e-450d-8287-4b04ac30f3f4.jpg?v=1626790149793" /><em>Thành phẩm canh chua đầu cá hồi</em></p>
-<p dir="ltr">Với món canh này các bạn có thể ăn cùng cơm hoặc là với bún cũng rất là ngon đấy các bạn nhé. Chúc các bạn thành công.</p>
+<h2 id="thit-bam" style="text-align: justify;">Canh rau cải thịt băm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh rau cải thịt băm</strong></h3>
+<ul class="staplesrecipe">
+<li>Rau cải thìa: 300g (có thể sử dụng các loại rau cải khác như cải bẹ xanh, cải canh, cải xong…)</li>
+<li>Thịt heo xay: 200g</li>
+<li>Hành lá</li>
+<li>Gừng: 1 củ nhỏ</li>
+<li>Hành tím: 2 củ</li>
+<li><strong>Gia vị</strong>: Đường, hạt nêm, muối, nước mắm, tiêu xay.&nbsp;</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh rau cải thịt băm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh rau cải thịt băm</strong></p>
+<p dir="ltr">Cải thìa mua về rửa sạch và ngâm nước muối 5 phút sau đó rửa lại với nước sạch để ráo. Phần lá cắt thành từng khúc 5 phần. Phần cuống cắt khúc 2 phân.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Sơ chế rau cải, tách riêng phần cọng rau và lá rau" data-thumb="original" original-height="614" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/22-f0b7cbd0-b91e-4e45-976c-6c377372e6cd.jpg?v=1626881674702" /><em>Sơ chế rau cải, tách riêng phần cọng rau và lá rau</em></p>
+<p dir="ltr">Hành lá rửa sạch để ráo</p>
+<p dir="ltr">Gừng cạo vỏ rửa sạch băm nhuyễn</p>
+<p dir="ltr">Hành tím bỏ vỏ, đập dập băm nhuyễn.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Ướp thịt xay</strong></p>
+<p dir="ltr">Cho thịt xay vào bát, nêm 1 thìa cà phê hạt nêm, 1 chút tiêu xay, 1 chút hành tím trộn đều lên ướp 10 phút cho thịt ngấm gia vị. Sau 10 thịt đã ngấm gia vị các bạn dùng bao tay vo viên thịt lại cho tròn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt cùng gia vị cho ngấm" data-thumb="original" original-height="614" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/33-2658eaa7-b644-474c-8cf5-a0254c562783.jpg?v=1626881746660" /><em>Ướp thịt cùng gia vị cho ngấm</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh rau cải thịt băm</strong></p>
+<p dir="ltr">Các bạn bắc nồi lên bếp phi thơm hành tím, cho thịt vo viên vào chiên xơ qua, đổ 500ml nước lọc vào đun sôi, khi nồi sôi lên các bạn vớt bọt cho nồi nước canh không bị đục. Nêm 2 thìa canh đường, ½ thìa canh muối sau đó cho phần cuống rau cải vào trước đun sôi 2 phút.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho phần cọng lá vào nồi canh trước" data-thumb="original" original-height="614" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/44-c2f4392d-ed85-45b4-add2-d27037207053.jpg?v=1626881871768" /><em>Cho phần cọng lá vào nồi canh trước</em></p>
+<p dir="ltr">Tiếp theo cho phần lá cải vào đun sôi trở lại các bạn cho phần gừng còn lại và 1 thìa canh nước mắm cho canh được thơm và đậm đà.&nbsp;</p>
+<h3 dir="ltr"><strong>Thưởng thức canh cải thịt băm</strong></h3>
+<p dir="ltr">Các bạn múc canh rau cải thịt băm ra bát, nhìn bát canh rất là hấp dẫn, canh rau cải rất là thơm ngon lại thanh mát cơ thể.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh rau cải thịt băm, thanh mát, đậm đà" data-thumb="original" original-height="760" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/11-d07d99f1-d69b-4ae4-b925-014afc8cedb4.jpg?v=1626881955746" /><em>Canh rau cải thịt băm, thanh mát, đậm đà</em></p>
+<p dir="ltr">Rau cải có rất nhiều cách chế biến khác nhau, hi vọng với 2 các chế biến trên sẽ góp vào thực đơn cho gia đình bạn thêm phong phú.&nbsp;</p>
+<p dir="ltr">* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=E53tMLSWdFY" rel="nofollow" target="_blank" title="cách nấu canh rau cải">Thanh Tâm Food</a>&nbsp;và <a href="https://www.youtube.com/watch?v=J74jVSg4oYw" rel="nofollow" target="_blank" title="cách nấu canh rau cải">Ăn gi đây?</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-rau-cai" title="Gợi ý 2 cách nấu canh rau cải ngọt mát ngày hè">Gợi ý 2 cách nấu canh rau cải ngọt mát ngày hè</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-rau-cai</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-rau-cai</guid>
+            <pubDate>Tue, 27 Jul 2021 06:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gợi ý 2 cách nấu canh ngao chua ngon ngọt thanh mát]]></title>
+            <description><![CDATA[<p dir="ltr"><strong>Canh ngao nấu chua luôn được các bà nội trợ lựa chọn làm món canh cho gia đình trong những ngày hè oi ả. Với các nguyên liệu đơn giản nhưng canh lại rất ngon. Hãy cùng với Tinh Hoa Quê Nhà vào bếp chế biến món canh ngao chua với 2 công thức khác nhau cho gia đình nhé.&nbsp;</strong></p>
+<div class="box-title"><label>1</label>
+<h2 id="sau" style="text-align: justify;">Canh ngao chua nấu sấu</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh ngao chua</strong></h3>
+<ul class="staplesrecipe">
+<li>Ngao (nghêu): 600g</li>
+<li>Sấu: 5 quả 50g</li>
+<li>Cà chua: 1 quả</li>
+<li>Hành tím: 2 củ</li>
+<li>Rau răm, thì là, hành lá</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh ngao chua</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
+<p dir="ltr">Ngao mua về các bạn rửa sạch, ngâm ớt&nbsp;&nbsp;30 phút để loại bỏ bùn đất trong ngao. Sau đó vớt lên để ráo.&nbsp;</p>
+<p dir="ltr">Sấu chà vỏ rửa sạch để ráo</p>
+<p dir="ltr">Cà chua rửa sạch, thái múi cau</p>
+<p dir="ltr">Hành tím bỏ vỏ thái lát mỏng</p>
+<p dir="ltr">Rau răm, thì là, hành lá rửa sạch để ráo, cắt khúc 2 phân.</p>
+<p dir="ltr"><strong>Bước 2: Luộc ngao</strong></p>
+<p dir="ltr">Cho vào nồi 500ml nước đun sôi, nước sôi cho ngao vào luộc trong 5 phút, ngao chín các bạn tắt bếp vớt ngao ra nhặt lấy phần thịt và bỏ phần vỏ ngao.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><em><img alt="Cho ngao vào trong nồi luộc với nước  5 phút" data-thumb="original" original-height="764" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-dafa8aa6-b2c0-4aed-b5b9-6b7da1504900.jpg?v=1626851089763" />Cho ngao vào trong nồi luộc với nước&nbsp;5 phút</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh ngao</strong></p>
+<p dir="ltr">Để nồi canh ngao thơm ngon béo ngậy các bạn phi hành tím thơm cho thịt ngao vào đảo đều lên nêm 1 thìa canh nước mắm đảo lên cho thơm.</p>
+<p dir="ltr">Sau đó cho cà chua vào đảo đều 3 phút nêm 1 thìa canh hạt nêm, đun cho cà chua chín các bạn cho sấu vào đảo đều lên rồi đổ nước luộc ngao vào.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo ngao cùng với cà chua" data-thumb="original" original-height="764" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-7e10dcd3-a526-4fc7-94e2-c0d55e052421.jpg?v=1626851195942" /><em>Đảo ngao cùng với cà chua</em></p>
+<p dir="ltr">Đun sôi khoảng 3 phút cho sấu ra nước chua. Tiếp theo rau thơm vào và tắt bếp, vậy là canh ngao chua nấu sấu đã hoàn thành. Thật đơn giản phải không các bạn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh ngao chua nấu sáu" data-thumb="original" original-height="758" original-width="794" src="//bizweb.dktcdn.net/100/420/256/files/3-60fc0b0e-2184-40ad-81b7-a1d24ab64a95.jpg?v=1626851611804" /><em>Canh ngao chua nấu sáu</em></p>
+<div class="box-title"><label>2</label>
+<h2 id="dua" style="text-align: justify;">Canh ngao chua nấu dứa</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu canh ngao nấu dứa</strong></h3>
+<ul class="staplesrecipe">
+<li>Ngao: 2kg</li>
+<li>Cà chua: 2 quả</li>
+<li>Dứa: ½ quả</li>
+<li>Hành tím, tỏi, ớt</li>
+<li>Hành lá, rau răm, thì là.</li>
+<li>Giá đỗ</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh ngao dứa</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
+<p dir="ltr">Cho ngao ngâm với nước, cho vào vài lát ớt cay ngâm trong 30 phút. Sau đó rửa sạch lại với nước vớt lên để ráo.&nbsp;</p>
+<p dir="ltr">Cà chua rửa sạch thái múi cau.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cà chua rửa sạch thái múi cau" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-53c28fca-e0be-4629-bfb9-04536ecc65c5.jpg?v=1626857268356" /><em>Cà chua rửa sạch thái múi cau</em></p>
+<p dir="ltr">Dứa thái chéo miếng dầy khoảng 2cm</p>
+<p dir="ltr">Hành, tỏi bóc vỏ đập dập băm nhuyễn.&nbsp;</p>
+<p dir="ltr">Hành lá, rau răm, thì là rửa sạch để ráo thái nhỏ.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Luộc ngao</strong></p>
+<p dir="ltr">Cho nước vào nồi, cho thêm vài lát gừng thái mỏng, sau đó cho ngao vào đun lửa mạnh cho sôi, khi nào ngao há miệng ra là các bạn tắt bếp.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc ngao với nước và vài lát gừng cho ngao chín" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-2fa9489b-7dc4-430a-aad9-00ea0a2273e3.jpg?v=1626857325068" /><em>Luộc ngao với nước và vài lát gừng cho ngao chín</em></p>
+<p dir="ltr">Vớt ngao ra bát tách lấy phần thịt ngao. Bóp bỏ phân của ngao, rửa sạch lại với nước để ráo.&nbsp;</p>
+<p dir="ltr"><strong>Bước 3: Nấu canh ngao chua</strong></p>
+<p dir="ltr">Cho hành tỏi vào nồi phi thơm, cho 1 nửa cà chua và thịt ngao vào đảo đều, sau đó cho dứa vào đảo lên cho thơm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt ngao cùng với cà chua và dứa" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-cd34900d-592f-4d5c-bba9-0da0cf209197.jpg?v=1626857403684" /><em>Đảo thịt ngao cùng với cà chua và dứa</em></p>
+<p dir="ltr">Nêm 1 thìa cà phê nước mắm đảo đều lên sau đó cho nước luộc ngao vào nồi đun cho nồi canh ngao sôi, nêm thêm 1 thìa canh bột canh, ½ thìa canh hạt nêm khuấy đều.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh ngao nấu chua với dứa" data-thumb="original" original-height="657" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-c0ecf0c2-e614-44ab-acad-da483625b586.jpg?v=1626857468083" /><em>Canh ngao nấu chua với dứa</em></p>
+<p dir="ltr">Các bạn đổ phần cà chua còn lại vào nồi đun sôi, sau đó cho giá đỗ và rau thơm vào các bạn tắt bếp.&nbsp;</p>
+<p dir="ltr">Các bạn múc ra bát và thưởng thức canh ngao chua nấu dưỡng.</p>
+<h3 dir="ltr"><strong>Lưu ý khi nấu canh ngao chua</strong></h3>
+<p dir="ltr">Ngao là hải sản nước mặn, nước luộc canh đã có vị ngọt, nên khi nấu các bạn nêm nếm cẩn thận không canh sẽ bị mặn nhé.&nbsp;</p>
+<p dir="ltr">*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=1nMz1oHALNQ" rel="nofollow" target="_blank" title="cách nấu canh ngao chua">Feedy VN</a>&nbsp;và <a href="https://www.youtube.com/watch?v=14W2HhUaryY" rel="nofollow" target="_blank" title="cách nấu canh ngao chua">Thực Thần Việt Nam&nbsp;</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-ngao-chua" title="Gợi ý 2 cách nấu canh ngao chua ngon ngọt thanh mát">Gợi ý 2 cách nấu canh ngao chua ngon ngọt thanh mát</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-ngao-chua</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-ngao-chua</guid>
+            <pubDate>Tue, 27 Jul 2021 06:23:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 Cách nấu canh mồng tơi ngon ngọt bổ dưỡng ngày hè]]></title>
+            <description><![CDATA[<p><meta charset="utf-8" /></p>
+<p dir="ltr"><strong>Canh mồng tơi là một món canh&nbsp;đơn giản, dễ nấu đem lại vị ngọt ngon, thanh mát cho mâm cơm gia đình. Hôm nay, Tinh Hoa Quê Nhà&nbsp;sẽ cùng bạn vào bếp&nbsp;thực hiện ngay 3&nbsp;cách làm canh mồng tơi&nbsp;để bổ sung vào thực đơn, cho bữa cơm gia đình thêm phong phú nhé!</strong></p>
+<div class="box-title"><label>1</label>
+<h2 id="tom" style="text-align: justify;">Canh mồng tơi, mướp nấu tôm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh mồng tơi</strong></h3>
+<ul class="staplesrecipe">
+<li>Mồng tơi: 1 bó</li>
+<li>Mướp: 2 quả</li>
+<li>Tôm tươi: 200g</li>
+<li><strong>Gia vị</strong>: Muối, hạt nêm, tiêu</li></ul>
+<p><em>Xem thêm:&nbsp;<a href="https://tinhhoaquenha.vn/cach-nau-canh-cua-mong-toi" target="_blank" title="Cách nấu canh cua mồng tơi ngon ngọt, bổ dưỡng mà dễ làm">Cách nấu canh cua mồng tơi ngon ngọt, bổ dưỡng mà dễ làm</a></em></p>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh mồng tơi, mướp, tôm" data-thumb="original" original-height="620" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-8650ffb8-cedb-4b3a-a4a4-8d1af0cafad8.jpg?v=1626837052238" /><em>Nguyên liệu nấu canh mồng tơi, mướp, tôm</em></p>
+<h3 dir="ltr"><strong>Các bước làm canh mồng tơi, mướp nấu tôm</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh mồng tơi</strong></p>
+<p dir="ltr">Mồng tơi ngắt phần ngọn non, rửa sạch với nước thái dài khoảng 5 phân.</p>
+<p dir="ltr">Mướp gọt vỏ rửa sạch, thái chéo miếng vừa ăn.&nbsp;</p>
+<p dir="ltr">Tôm rửa sạch, lột vỏ, đầu để nguyên, thịt tôm thái hạt lựu.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Ướp tôm</strong></p>
+<p dir="ltr">Để nấu canh tôm ăn đậm đà hơn các bạn ướt tôm 10 phút, cho vào 1 thìa hạt nêm, ½ thìa muối, 1 chút tiêu xay trộn đều lên</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp tôm cùng với gia vị cho ngấm" data-thumb="original" original-height="965" original-width="1245" src="//bizweb.dktcdn.net/100/420/256/files/2-1478228d-dbc1-407c-bc71-c99a0b9a664d.jpg?v=1626837137738" /><em>Ướp tôm cùng với gia vị cho ngấm</em></p>
+<p dir="ltr"><strong>Bước 3: Làm canh mồng tơi, mướp nấu tôm.</strong></p>
+<p dir="ltr">Các bạn cho tôm vào nồi đảo cho săn, sau đó cho nước vào đun sôi, vớt bọt cho nước canh trong. Cho mướp vào trước đun sôi trong 2 phút,</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho mướp vào nấu cùng với canh tôm trước 2 phút" data-thumb="original" original-height="620" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-181f32f2-60ff-4645-9107-14cd052fc7e5.jpg?v=1626837246225" /><em>Cho mướp vào nấu cùng với canh tôm trước 2 phút</em></p>
+<p dir="ltr">Sau đó cho mồng tơi vào đun 2 phút nữa, các bạn nêm lại canh xem đã vừa chưa, nếu chưa vừa các bạn nêm theo khẩu vị gia đình mình nhé.</p>
+<p dir="ltr">Nồi sôi được 2 phút các bạn tắt bếp múc canh ra bát cho thêm vài cọng hành lá và rắc thêm chút tiêu cho thơm</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh mồng tơi, mướp, tôm đơn giản dễ nấu" data-thumb="original" original-height="628" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-d29ff4cf-bdb6-45e4-842b-2e89fc65f472.jpg?v=1626837314602" /><em>Canh mồng tơi, mướp, tôm đơn giản dễ nấu</em></p>
+<div class="tipsrecipe">
+<p dir="ltr"><strong>Lưu ý: </strong>Khi đảo tôm cho săn các bạn không cho dầu ăn nhé, vì cho dầu ăn vào canh sẽ ngấy và mất đi độ thanh mát của canh và độ ngọt của tôm.</p></div>
+<div class="box-title"><label>2</label>
+<h2 id="thit-bam" style="text-align: justify;">Canh mồng tơi nấu thịt bằm</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh mông tơi thịt băm&nbsp;</strong></h3>
+<ul class="staplesrecipe">
+<li>Mồng tơi: 1 bó</li>
+<li>Thịt bằm: 100g</li>
+<li>Hành tím: 2 nhánh</li>
+<li><strong>Gia vị</strong>: Bột canh, hạt nêm, nước mắm.&nbsp;</li></ul>
+<h3 dir="ltr"><strong>Các bước làm canh mồng tơi nấu thịt bằm.</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh mồng tơi thịt băm</strong></p>
+<p dir="ltr">Mồng tơi ngắt lấy phần ngọn và lá non, rửa sạch thái nhỏ</p>
+<p dir="ltr" style="text-align: center;"><img alt="Mồng tơi ngắt phần ngọn và lá non" data-thumb="original" original-height="720" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-697145f3-cd4b-43fd-8730-74312b5f08d7.jpg?v=1626840946691" /><em>Mồng tơi ngắt phần ngọn và lá non</em></p>
+<p dir="ltr">Hành tím bóc vỏ thái lát băm nhỏ.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Nấu canh mồng tơi thịt bằm</strong></p>
+<p dir="ltr">Để nồi canh được thơm ngon, các bạn phi hành thật thơm rồi cho thịt vào đảo đều cho tan thịt ra, để thịt không bị vón cục các bạn cho 1 chút nước vào đảo cùng thịt, nêm 1 thìa cà phê hạt nêm, 1 thìa cà phê bột canh, 1 chút tiêu đảo cho thịt ngấm gia vị.</p>
+<p dir="ltr">Khi thịt đã săn lại các bạn cho nước vào nấu canh, đun sôi nước rồi cho rau mồng tơi vào đun sôi 2 phút, sau đó nêm thêm 1 thìa canh nước mắm là các bạn có thể tắt bếp và múc canh ra bát để thưởng thức.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh mồng tơi nấu thịt băm, ngọt từ thịt, mát từ rau" data-thumb="original" original-height="720" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-3ace3a7b-80be-4391-adf3-f4efddaa61db.jpg?v=1626841142279" /><em>Canh mồng tơi nấu thịt băm, ngọt từ thịt, mát từ rau</em></p>
 <div class="box-title"><label>3</label>
-<h2 id="luu-y" style="text-align: justify;">Lưu ý khi nấu canh đầu cá hồi</h2></div>
-<p dir="ltr">Để cá hồi không bị bở khi ướp các bạn nên để vào ngăn mát tủ lạnh 15 phút.&nbsp;</p>
-<p dir="ltr">Bạn chỉ nêm nước mắm khi đã tắt bếp, nước canh đang sôi các bạn nêm nước mắm canh dễ bị nồng không thơm.&nbsp;</p>
-<p>*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=6RJlkxWduWo" rel="nofollow" target="_blank" title="cách nấu canh chua đầu cá hồi">Cười Khúc Khích</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-chua-dau-ca-hoi" title="Cách nấu canh chua đầu cá hồi ngon, đơn giản mà không tanh">Cách nấu canh chua đầu cá hồi ngon, đơn giản mà không tanh</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-canh-chua-dau-ca-hoi</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-chua-dau-ca-hoi</guid>
-            <pubDate>Sat, 24 Jul 2021 02:26:00 GMT</pubDate>
+<h2 id="trai" style="text-align: justify;">Canh mồng tơi nấu trai</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh mồng tơi trai</strong></h3>
+<ul class="staplesrecipe">
+<li>Mồng tơi: 1 bó</li>
+<li>Trai: 2,5kg</li>
+<li>Cà chua: 3 quả</li>
+<li>Hành tím: 3 củ</li>
+<li><strong>Gia vị</strong>: Hạt nêm, muối, bột ngọt</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh mồng tơi trai</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh mồng tơi trai.&nbsp;</strong></p>
+<p dir="ltr">Mồng tơi ngắt ngọn và lá non đem rửa sạch, để ráo thái khúc 5 phân.</p>
+<p dir="ltr">Trai ngâm nước vo gạo 2 tiếng, rửa sạch với nước, chà sạch phần vỏ trai.&nbsp;</p>
+<p dir="ltr">Cà chua rửa sạch bổ múi cau</p>
+<p dir="ltr">Hành tím bóc vỏ thái lát mỏng</p>
+<p dir="ltr"><strong>Bước 2: Luộc trai</strong></p>
+<p dir="ltr">Cho trai vào nồi, cho thêm 1 thìa canh muối, cho 1 lượng nước vừa đủ. Đun sôi cho trai há miệng ra, các bạn vớt trai ra lọc lấy thịt trai bỏ phần vỏ.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc trai với nước để trai há miệng sau đóc tách lấy thịt trai" data-thumb="original" original-height="649" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-955ed532-cf86-422f-9bf5-5159c336472d.jpg?v=1626849454716" /><em>Luộc trai với nước để trai há miệng sau đóc tách lấy thịt trai</em></p>
+<p dir="ltr">Các bạn cho thịt trai vào chậu, cho nước vào chậu các bạn cạo hết phần đen và bóp hết phần chất thải của con trai, sau đó rửa sạch lại với nước. Các bạn cắt phần thân của trai ra thành miếng vừa ăn,&nbsp;</p>
+<p dir="ltr"><strong>Bước 3: Nấu canh mồng tơi trai</strong></p>
+<p dir="ltr">Các bạn phi hành tím vàng thơm lên cho trai vào đảo, nêm ½ thìa cà phê muối, 1 thìa cà phê hạt nêm, 1 chút tiêu xay đảo đều lên, cho thêm vào 1 chút nước tương bần cho thơm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Xào trai với cà chua cho mềm" data-thumb="original" original-height="649" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-06ca839d-f997-4d5d-b722-c4381d3fccb1.jpg?v=1626849593731" /><em>Xào trai với cà chua cho mềm</em></p>
+<p dir="ltr">Sau đó các bạn cho cà chua vào đảo cho cà&nbsp;chua mềm thì các bạn đổ nước luộc trai vào đun sôi. Nồi sôi các bạn cho rau vào đun 3 phút là có thể tắt bếp, múc canh ra bát và thưởng thức cùng với cơm.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh mồng tơi nấu trai" data-thumb="original" original-height="649" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-e5aef3e4-6362-4548-a972-0b677976b8ab.jpg?v=1626849710178" /><em>Canh mồng tơi nấu trai</em></p>
+<h3 dir="ltr"><strong>Lưu ý khi nấu canh mồng tơi trai</strong></h3>
+<p dir="ltr">Trai các bạn chọn con nhỏ vừa, không to quá thịt trai sẽ bị dai.</p>
+<p dir="ltr">Khi luộc trai các bạn cho vừa nước không sẽ bị nhạt, vì trong thân trai&nbsp; chứa rất&nbsp;nhiều nước.&nbsp;</p>
+<p dir="ltr">* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=k97W4V8gHwc" rel="nofollow" target="_blank" title="cách nấu canh mồng tơi">Cười Khúc Khích</a>, <a href="https://www.youtube.com/watch?v=-96LONea6Zo" rel="nofollow" target="_blank" title="cách nấu canh mồng tơi">Bà Nội Trợ Việt</a>&nbsp;và <a href="https://www.youtube.com/watch?v=Vz0nqJ9uFlU" rel="nofollow" target="_blank" title="cách nấu canh mồng tơi">Ẩm Thực Việt</a>.</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-mong-toi" title="3 Cách nấu canh mồng tơi ngon ngọt bổ dưỡng ngày hè">3 Cách nấu canh mồng tơi ngon ngọt bổ dưỡng ngày hè</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-mong-toi</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-mong-toi</guid>
+            <pubDate>Tue, 27 Jul 2021 06:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gợi ý 2 cách nấu canh mọc thập cẩm ngũ sắc và canh mọc hạt sen ngon bổ]]></title>
+            <description><![CDATA[<p><meta charset="utf-8" /></p>
+<p><strong>Canh mọc là món canh nổi tiếng của miền Bắc. Với sự hòa quyện của giò nhồi nấm hương, rau củ, trứng cút cùng phần nước hầm xương ngọt ngào vừa miệng khiến bạn ăn hoài cũng không thấy chán.&nbsp;</strong></p>
+<p>Hãy cùng Tinh Hoa Quê Nhà vào bếp&nbsp;nấu canh mọc siêu ngon để chiêu đãi cả gia đình trong bữa ăn hằng ngày&nbsp;nhé!</p>
+<div class="box-title"><label>1</label>
+<h2 id="ngu-sac" style="text-align: justify;">Canh mọc thập cẩm ngũ sắc.</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh mọc thập cẩm ngũ sắc</strong></h3>
+<ul class="staplesrecipe">
+<li>Giò sống: 150g</li>
+<li>Nấm hương 200g</li>
+<li>Cà rốt: 1 củ</li>
+<li>Su hào: 1 củ</li>
+<li>Súp lơ xanh: 1 bông</li>
+<li>Trứng cút: 20 quả</li>
+<li>Nước hầm xương: 400ml</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh mọc thập cẩm ngũ sắc</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh mọc thập cẩm ngũ sắc.&nbsp;</strong></p>
+<p dir="ltr">Nấm hương rửa sạch với nước, ngâm nấm hương với nước ấm 30 phút cho nấm nở. Dùng kéo cắt bỏ chân nấm</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ngâm nấm hương vào nước cho nở" data-thumb="original" original-height="639" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-310b61e3-0f63-46a2-9aa9-ffb13bec26ec.jpg?v=1626807135962" /><em>Ngâm nấm hương vào nước cho nở</em></p>
+<p dir="ltr">Cà rốt gọt vỏ, thái miếng dày 2 phân, dùng khuôn tạo hình thẩm mỹ cho đẹp</p>
+<p dir="ltr">Su hào gọt vỏ cắt lát dày 2 phân, dùng khuôn tạo hình cho đẹp.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Dùng khuôn tạo hình hoa su hào cho đẹp" data-thumb="original" original-height="639" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-05d795a9-ec74-432d-960a-6ea11a12f1a3.jpg?v=1626807201059" /><em>Dùng khuôn tạo hình hoa su hào cho đẹp</em></p>
+<p dir="ltr">Súp lơ xanh các bạn cắt lấy phần bông, rửa sạch để ráo.&nbsp;</p>
+<p dir="ltr">Trứng cút đem luộc bóc vỏ rửa cho sạch để ráo.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Làm mọc giò sống nấm hương</strong></p>
+<p dir="ltr">Để mọc khi ăn có vị thơm, các bạn cho vào giò sống 1 chút hạt tiêu. Trộn đều lên, dùng thìa múc giò sống lên nấm hương tạo hình cho đẹp.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Làm mọc nấm hương" data-thumb="original" original-height="639" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-fc98db79-2ede-4cba-b520-249938b25709.jpg?v=1626807261887" /><em>Làm mọc nấm hương</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh mọc thập cẩm ngũ sắc</strong></p>
+<p dir="ltr">Cho nước hầm xương vào nồi, cho thêm cọng hành lá đun sôi, cho mọc nấm hương vào luộc cho chín. Mọc chín các bạn vớt ra, lần lượt cho cà rốt, su hào, súp lơ, trứng cút, mọc&nbsp; vào nồi, nêm 1 thìa cà phê hạt nêm, ½ thìa canh bột ngọt sau đó đun sôi cho chín các bạn tắt bếp là có thể múc ra thưởng thức rồi nhé.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nấu canh mọc thẩm cẩm ngũ sắc cùng với nước hầm xương" data-thumb="original" original-height="639" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-da83145c-a94d-470b-b358-8cceda119ec7.jpg?v=1626807405351" /><em>Nấu canh mọc thẩm cẩm ngũ sắc cùng với nước hầm xương</em></p>
+<div class="box-title"><label>2</label>
+<h2 id="nam-huong" style="text-align: justify;">Canh mọc nấm hương</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu làm canh mọc nấm hương</strong></h3>
+<ul class="staplesrecipe">
+<li>Giò sống: 150g</li>
+<li>Nấm hương: 100g</li>
+<li>Trứng cút: 20 quả</li>
+<li>Súp lơ xanh: 1 bông</li>
+<li>Su hào: 1 củ</li>
+<li>Cà rốt: 1 củ</li>
+<li>Ngô bao tử: 100g</li>
+<li>Gừng: 1 củ</li>
+<li>Hành tím: 50g</li>
+<li>Rau mùi, hành lá</li>
+<li>Nước hầm xương</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu canh mọc nấm hương</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh mọc nấm hương</strong></p>
+<p dir="ltr">Nấm hương ngâm nước cho mềm, rửa sạch, cắt chân nấm để ráo</p>
+<p dir="ltr">Su hào, cà rốt gọt vỏ thái mỏng tỉa hình hoa cho đẹp.</p>
+<p dir="ltr">Súp lơ xanh lấy phần ngọn cắt miếng vừa ăn.&nbsp;</p>
+<p dir="ltr">Ngô bao tử rửa sạch bổ đôi.&nbsp;</p>
+<p dir="ltr">Trứng cút đem luộc bóc vỏ đem chiên vàng.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chiên vàng đều trứng chim cút" data-thumb="original" original-height="719" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-0d01aab0-b518-44eb-9e48-884635eb8c8e.jpg?v=1626808114435" /><em>Chiên vàng đều trứng chim cút</em></p>
+<p dir="ltr">Gừng rửa sạch, thái lát.&nbsp;</p>
+<p dir="ltr">Hành tím bóc vỏ thái lát.</p>
+<p dir="ltr">Rau mùi, hành lá rửa sạch để ráo. Thái nhỏ</p>
+<p dir="ltr"><strong>Bước 2: Làm mọc nấm hương</strong></p>
+<p dir="ltr">Các bạn dùng thìa lấy giò lên nấm hương tạo hình cho đẹp. Sau đó đem luộc cho chín.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc mọc nấm hương" data-thumb="original" original-height="719" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-d6dc4e32-6fd2-4d59-b439-5b2fdf34f0c1.jpg?v=1626808210430" /><em>Luộc mọc nấm hương</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh mọc nấm hương</strong></p>
+<p dir="ltr">Để nước canh được thơm, ngọt canh các bạn dùng nước hầm xương để nấu canh nhé.&nbsp;</p>
+<p dir="ltr">Phi hành lên thơm các bạn cho nước hầm xương vào nồi đun sôi, cho su hào cà rốt vào nồi nêm 1 thìa cà canh hạt nêm và bột canh sau đó cho gừng thái lát, súp lơ và ngô bao tử vào đun sôi cho hỗn hợp chín.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh mọc nấm hương thơm ngọt, đậm đà" data-thumb="original" original-height="1034" original-width="1150" src="//bizweb.dktcdn.net/100/420/256/files/4-67d768d7-b342-45b4-8f56-365fcaaa7e78.jpg?v=1626808323829" /><em>Canh mọc nấm hương thơm ngọt, đậm đà</em></p>
+<p dir="ltr">Tiếp theo cho chim cút chiên và mọc nấm hương vào nồi đun 2 phút là có thể tắt bếp, múc canh ra bát rắc thêm 1 chút hành lá và rau mùi thái nhỏ là có thể thưởng thức ngay rồi các bạn nhé.&nbsp;</p>
+<p dir="ltr">* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=l08CNoYvrKI" rel="nofollow" target="_blank" title="cách nấu canh mọc">Feedy Món Ăn Ngon</a>&nbsp;và <a href="https://www.youtube.com/watch?v=j_7WTrt7Hmc" rel="nofollow" target="_blank" title="cách nấu canh mọc">Feedy Việt Nam</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-moc" title="Gợi ý 2 cách nấu canh mọc thập cẩm ngũ sắc và canh mọc hạt sen ngon bổ">Gợi ý 2 cách nấu canh mọc thập cẩm ngũ sắc và canh mọc hạt sen ngon bổ</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-moc</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-moc</guid>
+            <pubDate>Tue, 27 Jul 2021 06:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 cách nấu canh măng chua ngon ngọt thanh mát]]></title>
+            <description><![CDATA[<p><strong>Cá nấu măng chua là món ăn rất là ngon, vị chua nhẹ từ măng kết hợp với vị ngọt từ thịt của cá tạo nên một tô canh vô cùng hấp dẫn. Nếu các bạn yêu thích món cá nấu măng thì cùng vào bếp và thực hiện theo công thức nấu của Tinh Hoa Quê Nhà để có bát canh cá nấu măng chua ngon nhé.</strong></p>
+<p><meta charset="utf-8" /></p>
+<div class="box-title"><label>1</label>
+<h2 id="mang-chua" style="text-align: justify;">Canh cá măng chua</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu canh cá măng chua</strong></h3>
+<ul class="staplesrecipe">
+<li>Cá: 500g</li>
+<li>Măng chua: 300g</li>
+<li>Cà chua: 150g</li>
+<li>Tỏi, ớt</li>
+<li>Hành lá, mùi tàu.</li></ul>
+<p dir="ltr" style="text-align: center;"><img alt="Nguyên liệu nấu canh cá măng chua" data-thumb="original" original-height="545" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-8de49ec6-f5aa-4774-895b-ef733f4ffd8c.jpg?v=1626521711688" /><em>Nguyên liệu nấu canh cá măng chua</em></p>
+<h3 dir="ltr"><strong>Các bước nấu canh cá măng chua</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu canh cá măng chua</strong></p>
+<p dir="ltr">Để nấu canh ngon các bạn nên lựa chọn đầu cá và đuôi cánhé. Cá mua về đánh vảy, bỏ ruột, loại bỏ phần mang cá, rửa sạch với nước. Sau đó rửa quả với chanh và muối để cá không bị nhớt và không có mùi tanh.&nbsp;</p>
+<p dir="ltr">Măng chua các bạn rửa với nước cho bớt chua để ráo.&nbsp;</p>
+<p dir="ltr">Cà chua rửa sạch thái múi cau.&nbsp;</p>
+<p dir="ltr">Tỏi bóc vỏ đập dập băm nhuyễn</p>
+<p dir="ltr">Hành lá, mùi tàu rửa sạch với nước để ráo. Thái khúc dài 2 phân.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2:&nbsp; Chiên cá</strong></p>
+<p dir="ltr">Để khi nấu canh cá không bị nát và thịt cá được thơm các bạn chiên vàng cá nhé. Các bạn bắc chảo lên bếp, cho dầu ăn vào đun nóng rồi các bạn cho đầu cá và đuôi vào chiên vàng</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chiên cá cho vàng đều 2 mặt" data-thumb="original" original-height="545" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-9dce6218-d956-44f0-bf86-ead5fd7880c6.jpg?v=1626717823468" /><em>Chiên cá cho vàng đều 2 mặt</em></p>
+<div class="tipsrecipe">
+<p dir="ltr"><em><strong>Mẹo</strong>: Để khi chiên cá không bị bắn các bạn cho vào chảo dầu một chút xíu muối.&nbsp;</em></p></div>
+<p dir="ltr"><strong>Bước 3: Nấu canh</strong>&nbsp;</p>
+<p dir="ltr">Phi tỏi thơm, cho cà chua vào đảo đều cho mềm. Cho măng chua vào đảo đều cùng với cà chua, nêm vào nồi ½ thìa cà phê muối và hạt nêm, 1 chút xíu bột ngọt. Đảo đều cho măng ngấm gia vị, rồi các bạn cho nước vào đun sôi.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo măng chua cùng với cà chua" data-thumb="original" original-height="545" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/3-7046055c-7747-4a3c-827c-e24c4802b474.jpg?v=1626717922359" /><em>Đảo măng chua cùng với cà chua</em></p>
+<p dir="ltr">Nước sôi các bạn cho cá đã chiên vào đun sôi khoảng 5 phút sau đó bạn nêm thêm gia vị theo khẩu vị gia đình mình. Các bạn cho thêm 1 thìa canh nước mắm và vài lát ớt cho canh&nbsp; có vị chua cay .</p>
+<p dir="ltr">Cá đã chín các bạn tắt bếp và cho rau thơm vào vậy là bạn đã nấu xong canh cá măng chua rồi đấy.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh măng chua thơm ngon béo ngậy" data-thumb="original" original-height="610" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/5-fada5559-e8c3-4904-820c-f23a1a17e43d.jpg?v=1626718144789" /><em>Canh măng chua thơm ngon béo ngậy</em></p>
+<div class="tipsrecipe">
+<p dir="ltr"><strong>Lưu ý:&nbsp;</strong> Khẩu vị của người miền nam nấu canh các bạn hay cho đường, miền Bắc không sử dụng đường để nấu canh. Nên các bạn tuỳ chỉnh có nên cho đường cào canh không nhé</p></div>
+<div class="box-title"><label>2</label>
+<h2 id="mang-tuoi" style="text-align: justify;">Canh cá diêu hồng nấu măng tươi</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu làm canh cá diêu hồng nấu măng tươi</strong></h3>
+<ul class="staplesrecipe">
+<li>
+<h3 dir="ltr">Cá riêu hồng: 1 con 1kg</h3></li>
+<li>Măng tươi: 400g</li>
+<li>Dứa: 1 quả</li>
+<li>Cà chua: 2 quả</li>
+<li>Quất (tắc)</li>
+<li>Tỏi, ớt</li>
+<li>Rau mùi tàu( ngò gai), rau ngổ( ngò ôm)</li></ul>
+<h3 dir="ltr"><strong>Các bước làm canh cá diêu hồng nấu măng tươi</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu</strong></p>
+<p dir="ltr">Cá diêu hồng mua về các bạn đánh vảy, moi ruột, cắt bỏ phần mang cá. Sau đó rửa sạch dưới vòi nước cho hết máu đọng lại. Sau đó cắt con cá làm đôi.&nbsp;</p>
+<p dir="ltr">Măng tươi bóc bỏ phần vỏ, thái miếng mỏng sau đó đem luộc với nước sôi để loại bỏ bớt vị đắng của măng tươi. Sau đó rửa qua 2-3 lần nước sạch.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc măng để loại bỏ vị hăng của măng" data-thumb="original" original-height="590" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/4-1-0db149e8-7e11-4880-88a2-8741d4f3c5d6.jpg?v=1626719019375" /><em>Luộc măng để loại bỏ vị hăng của măng</em></p>
+<p dir="ltr">Dứa gọt vỏ, loại bỏ mắt, thái miếng khoanh tròn.&nbsp;</p>
+<p dir="ltr">Cà chua rửa sạch thái múi cau.</p>
+<p dir="ltr">Quất vắt lấy nước.</p>
+<p dir="ltr">Rau thơm rửa sạch để ráo thái khúc vừa ăn.&nbsp;</p>
+<p dir="ltr">Tỏi ớt đem giã nhuyễn</p>
+<p dir="ltr"><strong>Bước 2: Ướp cá diêu hồng</strong></p>
+<p dir="ltr">Các bạn giã tỏi ớt chung với nhau, đổ vào cá, cho thêm 1 chút muối. Sau đó trộn đều cá lên cho cá ngấm gia vị.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp cá cho ngấm gia vị và giảm độ tanh của cá" data-thumb="original" original-height="590" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/2-1.jpg?v=1626719094764" /><em>Ướp cá cho ngấm gia vị và giảm độ tanh của cá</em></p>
+<p dir="ltr"><strong>Bước 3: Nấu canh cá diêu hồng măng tươi</strong></p>
+<p dir="ltr">Cho vào nồi 2 lít nước, cho dứa vào đun. Khi thấy nồi nước lăn tăn các bạn cho cá vào nêm ½ thìa cà phê muối, ½ thìa cà phê đường, ½ thìa cà phê hạt nêm sau đó đun sôi.</p>
+<p dir="ltr">Khi nồi cá sôi các bạn vớt dứa ra, cho cà chua vào đun sôi 5 phút sau đó các bạn cho 1 thìa canh nước quất và các bạn nêm lại gia vị nhé.</p>
+<p dir="ltr">Tiếp theo các bạn cho măng tươi và rau thơm vào đun thêm 5 phút nữa là món canh cá diêu hồng nấu măng tươi đã xong rất là ngon các bạn ạ.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Canh cá diêu hồng nấu măng tươi" data-thumb="original" original-height="590" original-width="800" src="//bizweb.dktcdn.net/100/420/256/files/1-1-84c05d50-2e5f-4fb9-87bb-4c0cf46595c6.jpg?v=1626719295518" /><em>Canh cá diêu hồng nấu măng tươi</em></p>
+<p dir="ltr">Vậy là đã hoàn thành xong 2 cách nấu canh măng chua đổi món cho bữa cơm gia đình, Tinh Hoa Quê Nhà chúc các bạn thành công với 2 mon ăn này nhé !</p>
+<p dir="ltr">*Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=B_3Pvr1EwDE" rel="nofollow" target="_blank">Bếp Vợ Đậu</a>&nbsp;và <a href="https://www.youtube.com/watch?v=YkaDBaMwTkI" rel="nofollow" target="_blank">Nam Việt</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-canh-mang-chua" title="2 cách nấu canh măng chua ngon ngọt thanh mát">2 cách nấu canh măng chua ngon ngọt thanh mát</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-canh-mang-chua</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-canh-mang-chua</guid>
+            <pubDate>Tue, 27 Jul 2021 02:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
