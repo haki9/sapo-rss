@@ -4,272 +4,141 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 02:45:58 GMT</lastBuildDate>
-        <pubDate>Fri, 20 Aug 2021 02:45:58 GMT</pubDate>
+        <lastBuildDate>Sat, 21 Aug 2021 02:58:48 GMT</lastBuildDate>
+        <pubDate>Sat, 21 Aug 2021 02:58:48 GMT</pubDate>
         <item>
-            <title><![CDATA[[Mách bạn] Cách nấu cháo nhanh nhừ, thơm ngon, sánh mịn]]></title>
-            <description><![CDATA[<p dir="ltr"><strong>Có nhiều loại cháo khác nhau. Cách nấu các món cháo rất đa dạng, đi kèm với các nguyên liệu đặc trưng. Hãy cùng xắn tay vào bếp với cách nấu cháo ngon, đơn giản dưới đây nhé. Bạn sẽ có bát cháo sánh mịn, thơm phức và bổ dưỡng dành cho cả nhà!</strong></p>
-<div class="box-title"><label>1</label>
-<h2 id="noi-com" style="text-align: justify;">Cách nấu cháo trắng bằng nồi cơm điện tiện dụng</h2></div>
-<p dir="ltr">Cháo trắng (hay cháo hoa) là một trong những món ăn dân dã, rất thông dụng của người Việt Nam. Món ăn này thường được dùng cho các bé trong những ngày đầu ăn dặm hay dành cho những người bị đau ốm.&nbsp;</p>
-<p dir="ltr">Cách nấu cháo bằng nồi cơm điện rất dễ dàng, tiện lợi. Bạn sẽ có ngay các món cháo ngon dễ làm, thơm ngon cho cả gia đình.</p>
-<h3 dir="ltr"><strong>Nguyên liệu nấu cháo trắng:</strong></h3>
-<p dir="ltr">Cháo trắng được nấu từ gạo và nước. Bạn chuẩn bị gạo tẻ hay gạo nếp tuỳ ý hoặc trộn lẫn 2 loại gạo với nhau theo tỉ lệ 1:1. Gạo nếp giúp cháo có độ sánh mịn hơn và hương thơm đặc trưng. Đây chính là ​​mẹo vặt cách nấu cháo sánh đặc được các bà nội trợ hay chế biến.</p>
-<p dir="ltr">Với 3 - 4 khẩu phần ăn, bạn chuẩn bị ½ chén con gạo.</p>
-<p dir="ltr"><strong>Các gia vị sử dụng</strong>: bột nêm, muối, chút hạt tiêu. Nếu không muốn ăn vị cháo mặn, bạn có thể cho thêm một chút đường.</p>
-<p dir="ltr"><strong>Hành lá</strong>: vừa giúp cháo thêm đẹp mắt, lại thơm ngon hơn. Nhiều người cho thêm rau tía tô - có tác dụng giải cảm rất hữu hiệu.</p>
-<p dir="ltr">Bạn cũng có thể cho thêm vào 1 - 2 miếng vỏ cam nhỏ để cháo thơm hơn nhưng không nên cho quá nhiều, tránh tạo nên vị đắng.</p>
-<h3 dir="ltr"><strong>Cách nấu cháo trắng rất đơn giản:</strong></h3>
-<p dir="ltr">Thông thường, để nấu cháo trắng, thể tích lượng nước được sử dụng nhiều hơn gấp 3-4 lần thể tích của gạo. Nếu dùng cơm nguội để nấu cháo (gọi là cháo tù) thì lượng nước sử dụng sẽ ít hơn. Loại cháo trắng này thường được ăn chung với thịt và cá kho, có thể được lưu trữ trong vài ngày.</p>
-<p dir="ltr">Với cách nấu cháo trắng ngon dùng gạo nếp hoặc gạo tẻ, bạn có thể thực hiện theo các bước dưới đây:&nbsp;</p>
-<p dir="ltr">Vo gạo với nước sạch để loại bỏ bụi và hạt lép.</p>
-<p dir="ltr"><img src="https://lh5.googleusercontent.com/DvKIsgfJASa3_qsPkcrNZr4tYz4Uat6GgASVf7mDe86e4jKKT09VTJqpbXI_Puk4dS-Vzb6VFy1ZfJJQqqQ-S4E2Cv-SxFbT1IgsO188TnOGBmbKW4FVVjAYYg2LNI0nEI79XNna" /></p>
-<p dir="ltr" style="text-align: center;"><em>Rửa sạch gạo với nước.</em></p>
-<p dir="ltr">Rang qua gạo cho thơm vàng. Ngoài cách nấu cháo gạo rang này, bạn cũng có thể để ngâm gạo khoảng 1 tiếng trước khi nấu cháo cũng được.</p>
-<p dir="ltr"><img src="https://lh6.googleusercontent.com/EhKeggSRQ4JBJEd_I1OD-PMji4SUUhAAik5No65X6fuP3zQ-aiakQ3pDlN0KTenNkW61SrfgYLuDb_SvBZy0Y8f54XkRgzSmLhOtyJNh1l2X1FLZJ5rMTPBYjHE6hzf49GZIg3Pd" /></p>
-<p dir="ltr" style="text-align: center;"><em>Cách nấu cháo mau nhừ và thơm hơn: rang qua gạo hoặc ngâm gạo trong nước khoảng 1 tiếng trước khi nấu.</em></p>
-<p dir="ltr">Cho gạo đã rang vào nồi cơm điện và đổ một lượng nước nhiều gấp 3-4 lần gạo. Tuỳ bạn muốn ăn cháo loãng hay cháo đặc mà điều chỉnh lượng nước cho phù hợp.&nbsp;</p>
-<p dir="ltr">Bật nút nấu cơm để bắt đầu ninh cháo. Có một cách nấu cháo bằng nồi cơm điện không bị trào đó là bạn đặt ngang một chiếc đũa ở miệng nồi rồi mới đóng nắp lại.</p>
-<p dir="ltr">Khi lượng nước trong nồi bằng khoảng 2 lần so với gạo, bạn cất đũa đi và để cháo ninh tự nhiên. Nhưng bạn lưu ý nhé: cứ khoảng 3-5 phút thì quấy cháo một lần để nồi cháo không bị đặc và cháo không bị dính cháy ở đáy nồi. Như thế, cháo sẽ thơm ngon hơn.</p>
-<p dir="ltr">Lúc cháo gần chín, bạn cho 2 miếng vỏ cam đã rửa khô vào nồi trong khoảng 1 phút rồi vớt luôn ra.</p>
-<p dir="ltr">Nêm gia vị cho vừa miệng, cho một chút đường hoặc nước mắm tùy theo khẩu vị của mỗi người.</p>
-<p dir="ltr"><img src="https://lh5.googleusercontent.com/Aa4jPCxjyJpLgivJicjfkHf2vT7tYsmUwtWk6DPHoTyBZURUEp_iYI81SNW3YyjE2MjZA4PoROHzF7Z9t2qtaJIZ9WcNjNb5HJP9MBLg0FaTiWUn5IMoROPII-0-Oo_e7ngGfsJ1" /></p>
-<p dir="ltr" style="text-align: center;"><em>&nbsp;Cách nấu cháo nhanh bằng nồi cơm điện rất đơn giản, dễ làm.</em></p>
-<p dir="ltr">Múc cháo ra chén, rắc thêm hành lá (hoặc cho thêm rau tía tô), một chút tiêu đen và trộn đều. Vậy là bạn đã có bát cháo trắng thơm ngon để thưởng thức rồi đấy.</p>
-<h3 dir="ltr"><strong>Công dụng của cháo trắng với sức khỏe:</strong></h3>
-<p dir="ltr">Mặc dù cách nấu cháo trắng sử dụng nguyên liệu rất đơn giản nhưng món ăn này lại mang đến nhiều lợi ích cho sức khỏe.</p>
-<p dir="ltr">Cháo dễ dàng được nghiền nát trong dạ dày giúp dạ dày hoạt động tốt hơn. Nhờ đó, cơ thể có thể hấp thu được nhiều chất dinh dưỡng, dễ tiêu hóa.</p>
-<p dir="ltr">Do cháo loãng nên cơ thể hấp thu được một lượng nước lớn. Bạn sẽ không còn lo lắng với tình trạng táo bón nữa.&nbsp;</p>
-<p dir="ltr">Một bát cháo nóng hổi sẽ kích thích vị giác, giúp người ốm ăn ngon miệng và ăn được nhiều hơn.</p>
-<div class="box-title"><label>2</label>
-<h2 id="cho-be" style="text-align: justify;">Cách nấu cháo đậu xanh dinh dưỡng cho bé</h2></div>
-<h3 dir="ltr"><strong>Nguyên liệu nấu cháo đậu xanh thịt bằm</strong></h3>
-<ul class="staplesrecipe">
-<li>Gạo nếp: 100g</li>
-<li>Gạo tẻ: 30g</li>
-<li>Đậu xanh: 50g</li>
-<li>Xương ống: 200g</li>
-<li>Thịt heo xay: 100g</li>
-<li>1 củ hành tím</li>
-<li>Hành lá, giá đỗ, tía tô</li>
-<li><strong>Dụng cụ chế biến</strong>: nồi, bếp, tô, chén, muỗng…&nbsp;</li></ul>
-<h3 dir="ltr"><strong>Cách nấu cháo đậu xanh thịt bằm cho bé</strong></h3>
-<h4 dir="ltr"><strong>Sơ chế nguyên liệu</strong></h4>
-<p dir="ltr">Vo sạch gạo tẻ và gạo nếp. Ngâm gạo trong nước khoảng 30 phút cho gạo nở mềm.</p>
-<p dir="ltr">Ngâm đậu xanh trong nước khoảng từ 45 - 60 phút giúp đậu mềm hơn và nấu dễ chín hơn. Sau đó, đãi sạch đậu và để ráo nước. Hoặc bạn ngâm gạo cùng đậu xanh trong nước cũng được.</p>
-<p dir="ltr"><img src="https://lh4.googleusercontent.com/iKitVpgdObsmFsZ3LA8xHqe3T6MYdSc7vfNxPC8_RCez42t5tHTUEo__WwGdAzB4HN3inCLzyMihXJqyDn09owAHSNTWQ1KdRiXIpB4o64gMRjzHnCmpMO1UkejwVZzspTRfmson" /></p>
-<p dir="ltr" style="text-align: center;"><em>&nbsp;Cách nấu cháo đỗ xanh ngon</em></p>
-<p dir="ltr">Sau khi rửa sạch xương ống, bạn chần qua nước sôi để khử mùi và chất bẩn. Dùng 1 - 1.5 lít nước cho vào nồi và hầm xương.&nbsp;</p>
-<p dir="ltr">Cho 100gr thịt heo xay vào một chén nhỏ và thêm các gia vị. Khoảng ½ thìa hạt nêm, ⅓ thìa muối, ½ thìa nước mắm, ⅓ thìa tiêu. Trộn đều các gia vị để thịt được thấm đều.</p>
-<p dir="ltr">Hành tím lột vỏ và băm nhuyễn. Phi thơm hành tím trên chảo rồi cho thịt bằm đã ướp gia vị vào và xào cho đến khi thịt săn lại thì tắt bếp.</p>
-<p dir="ltr"><img src="https://lh3.googleusercontent.com/SnLkq3h2MfybblzAGhXOlHsmDJkJuE-G3BpqBSNNVlgdwQO19EbmmiZjM3pC61-AHtLpv34-6nUNWM5B-OBV90-6Q5lZBYktkqBMOPZYDNr6WZYRyEe5qULnOvOfsFiN0abosvBL" /></p>
-<p dir="ltr" style="text-align: center;">&nbsp;<em>Thịt bằm được ướp gia vị vừa đủ</em></p>
-<p dir="ltr">Nhặt và rửa sạch hành lá, tía tô, sau đó cắt nhỏ. Giá đỗ rửa sạch, để ráo.</p>
-<h4 dir="ltr"><strong>Cách nấu cháo đậu xanh thịt bằm:</strong></h4>
-<p dir="ltr">Sau khi nước hầm xương sôi lên, bạn cho gạo tẻ, gạo nếp và đậu xanh vào và tiếp tục đun.</p>
-<p dir="ltr"><em>Lưu ý để lửa thật nhỏ để chất ngọt từ xương được từ từ tiết ra.&nbsp;</em></p>
-<p dir="ltr">Trong khi nấu cháo, khi có bọt nổi lên thì vớt nhẹ và bỏ đi. Tiếp tục ninh cho đến khi cháo nhừ là có thể tắt bếp và dùng được.</p>
-<p dir="ltr"><img src="https://lh6.googleusercontent.com/1OdHfvJVDS8gKUsq_RjCvmS-I8pDxPajaBLQlTkv26-Ma5G6eQg8IzcD17X44H0sIJ3mB8Ls80drEj9CstTlCoWzFm4ip-03fqx8laBYcgiQCIlPlyVCXLayMoI-kGiZ3L25PEH3" /></p>
-<p dir="ltr" style="text-align: center;"><em>&nbsp;Nồi cháo đậu xanh thơm ngon</em></p>
-<p dir="ltr">Cho cháo ra tô cùng thịt băm, hành lá, tía tô; trộn đều và thưởng thức.&nbsp;</p>
-<h4 dir="ltr"><strong>Một vài lưu ý với cách nấu cháo đậu xanh:&nbsp;</strong></h4>
-<p dir="ltr">Khi nồi cháo sôi, bạn có thể cho vào nồi một thìa dầu ăn vừa tránh cháo bị trào ra ngoài vừa giúp hương vị nồi cháo thơm ngon hơn.</p>
-<p dir="ltr">Cách nấu cháo không bị dính nồi: Thỉnh thoảng bạn dùng đũa khuấy đều nồi cháo để cháo không bị dính vào phần đáy nồi, không bị cháy.&nbsp;</p>
-<p dir="ltr">Không nên vo gạo quá kĩ tránh làm mất các chất dinh dưỡng có trong gạo.&nbsp;</p>
-<p dir="ltr">Hy vọng rằng cách nấu cháo nhanh bằng nồi cơm điện và cách nấu cháo đậu xanh ngon trên đây sẽ mang đến cho gia đình bạn những bát cháo thơm ngon, thật nhiều dinh dưỡng và năng lượng. Hãy cùng chia sẻ thêm bí quyết nấu cháo ngon tuyệt cùng <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> nhé!</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chao" title="[Mách bạn] Cách nấu cháo nhanh nhừ, thơm ngon, sánh mịn">[Mách bạn] Cách nấu cháo nhanh nhừ, thơm ngon, sánh mịn</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-chao</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chao</guid>
-            <pubDate>Fri, 20 Aug 2021 02:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 cách nấu chân giò ngon đặc biệt đổi món cho cả gia đình]]></title>
-            <description><![CDATA[<p class="product-bottom"><strong>Chân giò là một món ăn nhiều dinh dưỡng, được xem là phần thịt ngon nhất của con heo, thịt thơm, giòn và ngọt. Vậy chân giò nấu gì ngon? Mời các bạn cùng vào bếp với <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> để cùng tìm hiểu 2 cách nấu chân giò ngon đổi vị cho bữa ăn gia đình nhé.</strong></p>
-<div class="box-title"><label>1</label>
-<h2 id="kho-tau" style="text-align: justify;">Chân giò heo kho tàu</h2></div>
-<h3><strong>Nguyên liệu làm món chân giò heo kho tàu&nbsp;</strong></h3>
-<ul class="staplesrecipe">
-<li>Chân giò heo: 1.5kg</li>
-<li>Nước dừa tươi: 1 lít</li>
-<li>Nước: 400ml</li>
-<li>Hành tím, tỏi , hành lá, ớt sừng.</li>
-<li>Tiêu, muối, đường thốt nốt, nước mắm, bột ngọt, nước màu đường.</li></ul>
-<p><img data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-1.jpg?v=1629091040697" /></p>
-<h3><strong>Các bước thực hiện chân giò heo kho tàu</strong></h3>
-<p><strong>Bước 1: Sơ chế chân giò heo và gia vị ướp chân giò</strong></p>
-<p>Cho 2 muỗng canh muối hoà cùng 1.5 lit nước ngâm chân giò heo trong 10 phút,&nbsp;dùng dao cạo sạch phần da heo.</p>
-<p>Sau đó cho thêm 3&nbsp;muỗng canh giấm hoà cùng nước để&nbsp;rửa sạch và khử mùi&nbsp;chân giò heo.&nbsp;Rửa lại với nước sạch thêm một lần nữa sau đó vớt chân giò ra giá để ráo nước.</p>
-<p style="text-align: center;"><img alt="Dã nhuyễn nguyên liệu để ướp thịt chân giò" data-thumb="original" original-height="300" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-2.jpg?v=1629091041083" /><em>Dã nhuyễn nguyên liệu để ướp thịt chân giò</em></p>
-<p>Cắt nhỏ 2 củ hành tím,4 tép tỏi, đầu hành lá,&nbsp;2 trái ớt sừng bỏ hạt cho bớt cay; rồi cho&nbsp;vào cối để giã nhuyễn.</p>
-<p>Giã nhuyễn để tinh dầu trong hành tỏi cũng như ớt sẽ dập ra giúp cho thịt ướp ngon hơn, màu ớt cũng đẹp mắt hơn.</p>
-<p><strong>Bước 2: Buộc chặt chân giò để định hình và trần chân giò&nbsp;</strong></p>
-<p>Dùng&nbsp;chỉ contton cuốn chân giò chặt lại để định hình chân giò cho đẹp.</p>
-<p>Tiếp đó xếp chân giò vào nồi cho thêm nước sôi, bỏ thêm vài lát hành tím, vài lát gừng cho thơm, thêm nửa muỗng canh muối, bật lửa vừa cho nước sôi khoảng 4&nbsp;phút.&nbsp;</p>
-<p style="text-align: center;"><img alt="Trần thịt qua nước sôi để làm sạch" data-thumb="original" original-height="600" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-3.jpg?v=1629091041680" /><em>Trần thịt qua nước sôi để làm sạch</em></p>
-<p>Vớt thị ra rổ, cắt bỏ phần dây cột định hình. Trần thịt qua nước sôi để thịt sạch hơn, khi kho thịt sẽ ít nổi váng bọt đồng thời thịt được thơm hơn.&nbsp;</p>
-<p><strong>Bước 3: Ướp thịt chân giò</strong></p>
-<p>Pha nước ướp chân giò&nbsp;:&nbsp;nửa muỗng canh muối, 1&nbsp;muỗng canh đường thốt nốt ( nếu không có dùng đường nào cũng được), nửa muỗng cà phê bột ngọt, nửa muỗng cà phê tiêu, 1 muỗng canh nước mắm.</p>
-<p style="text-align: center;"><img alt="Trộn đều gia vị ướp thịt chân giò từ 1h đến 2h cho chân giò ngấm đều gia vị" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-4.jpg?v=1629091042087" /><em>Trộn đều gia vị ướp thịt chân giò từ 1h đến 2h cho chân giò ngấm đều gia vị</em></p>
-<p>Trộn đều cùng hành tỏi đã giã lúc đầu rồi&nbsp;cho hỗn hợp vào thịt chân giò&nbsp;rồi chà sát khắp miếng chân giò&nbsp;để thịt ngấm gia vị đều.</p>
-<p>Để chân giò&nbsp;lên màu đều các bạn cho thêm 1 muỗng canh nước màu đường, trộn đều lên lần nữa, ướp chân giò&nbsp;từ 1h đến 2h cho thịt ngấm&nbsp;</p>
-<p><strong>Bước 4 : Áp chảo chân giò trước khi kho</strong></p>
-<p>Cho 2 muỗng canh dầu ăn vào chảo, dầu nóng thì cho chân giò vào và hạ lửa nhỏ để không&nbsp;bị văng dầu.</p>
-<p>Lật đều để chân giò&nbsp;ko bị cháy, tiếp đó cho thêm nước ướp chân giò&nbsp;vào chảo, lược bỏ đi xác hành tỏi&nbsp;để khi kho nước không bị lợn cợn.</p>
-<p>Đun nhỏ lửa và trở đều 2 mặt&nbsp;để chân giò&nbsp;ngấm đều gia vị.</p>
-<p><strong>Bước 5: Kho thịt chân giò</strong></p>
-<p>Xếp thịt chân giò&nbsp;đã áp chảo vào nồi, cho thêm 1 lít nước dừa, 400 ml nước, vài củ hành tím, 4 tép tỏi để nước thịt thơm hơn.</p>
-<p style="text-align: center;"><img alt="Kho thịt chân giò vơi nước dừa, hành tím, tỏi" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-5.jpg?v=1629091042481" /><em>Kho thịt chân giò vơi nước dừa, hành tím, tỏi</em></p>
-<p>Bật lửa lớn để nhanh sôi, vớt bọt&nbsp;hoặc vớt xác hành tỏi nếu có.</p>
-<p>Kho với lửa vừa trong khoảng 20 phút, sau đó hạ nhỏ lửa và tiếp tục ninh chân giò.&nbsp;Khi ninh được 1h các bạn cho vào 100ml nước mắm, sau đó vớt bỏ hành và tỏi ra nhé.&nbsp;</p>
-<p>Ninh thêm 40 phút nữa, khi thấy chân giò đã&nbsp;mềm, nước kho còn lại một nửa là đạt rồi nha, tắt bếp và&nbsp; trình bày thôi</p>
-<p><strong>Thành phẩm chân giò heo kho tàu</strong></p>
-<p style="text-align: center;"><img alt="Thịt chân giò sau khi kho mềm ngon" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-6.png?v=1629091043297" /><em>Thịt chân giò sau khi kho mềm ngon</em></p>
-<p>Thịt mềm, phần nạc không bị kho, khi ăn có độ giòn đặc trưng của chân giò, phần da dẻo dẻo beo béo rất ngon và không bị ngắn, độ mặn vừa, nước kho thơm và trong&nbsp; không bị váng ăn kèm cơm ngon vô cùng.</p>
-<p style="text-align: center;"><br />
-<img alt="Chân giò kho tàu thơm ngon" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-7.jpg?v=1629091043886" /><em>Chân giò kho tàu thơm ngon</em></p>
-<p>Chân giò&nbsp;heo được kho nguyên bắp đẹp mắt khi bày mâm cỗ nhưng cũng rất tiện khi ăn vì được kho rát mềm.</p>
-<p>Chân giò heo kho tàu khi thấm vị sẽ cho ra thành phẩm thịt thơm giòn, ít mỡ vẫn giữ được vị béo đặc trưng nhưng không ngấy.&nbsp;Đặc biệt nước kho có vị ngọt đậm đà tự nhiên nhờ có thêm chất ngọt từ xương ống.&nbsp;</p>
-<div class="box-title"><label>2</label>
-<h2 id="hat-sen" style="text-align: justify;">Canh chân giò hầm hạt sen</h2></div>
-<h3><strong>Nguyên liệu món canh chân giò hầm hạt sen</strong></h3>
-<ul class="staplesrecipe">
-<li>Giò heo : 0,5 kg</li>
-<li>Nấm hương: 5g</li>
-<li>Cà rốt: 100g</li>
-<li>Hạt sen: 100g</li>
-<li>Nước mắm, hạt nêm, đường muối, tiêu xay</li>
-<li>Hành lá, rau mùi&nbsp;</li></ul>
-<p style="text-align: center;"><img alt="Nguyên liệu món chân giò hầm hạt sen" data-thumb="original" original-height="360" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-8.jpg?v=1629091044499" /><em>Nguyên liệu món chân giò hầm hạt sen</em></p>
-<h3><strong>Các bước thực hiện canh chân giò hầm hạt sen</strong></h3>
-<p><strong>Bước 1: Sơ chế nguyên liệu&nbsp;</strong></p>
-<p>Thịt chân giò rửa sạch với nước muối pha loãng, dùng dao cạo sạch lớp vỏ bên ngoài. Nấm hương cho và bát ngâm với nước, hạt sen ngâm cùng nước.</p>
-<p>Sau đó vớt nấm hương rửa sạch để ráo. Cà rốt thái khoanh tròn mỏng vừa phải, hành lá cắt nhuyễn.</p>
-<p style="text-align: center;"><img alt="Sơ chế cà rốt, hành lá " data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-11.jpg?v=1629091046170" /><em>Sơ chế cà rốt, hành lá&nbsp;</em></p>
-<p>Nấu nước sôi trần chân giò trong 2 phút rồi vớt ra rửa sạch lại với nước lạnh, để ráo nước.</p>
-<p style="text-align: center;"><img alt="Sơ chế chân giò rồi để ráo nước" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-9.jpg?v=1629091045133" /><em>Sơ chế chân giò rồi để ráo nước</em></p>
-<p>Tiếp theo vớt hạt sen đã ngâm rửa sạch lại với nước và cho&nbsp;vào nồi cho thêm khoảng 1 lít nước, nấu trong 20 phút.Hạt sen luộc chín mềm vớt ra để rao nước.&nbsp;</p>
-<p style="text-align: center;"><img alt="Cho chân giò và hạt sen vào nồi ninh mềm" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-10.jpg?v=1629091045507" /><em>Cho chân giò và hạt sen vào nồi ninh mềm</em></p>
-<p><strong>Bước 2: Hầm chân giò, hạt sen&nbsp;</strong></p>
-<p>Sau đó cho vào nồi 1 lít nước, cho chân giò vào đun trong 30 phút. Các bạn cho thêm 1 muỗng cà phê muối và bột nêm. Khi hầm chân giò thì để lửa nhỏ cho nước trong.&nbsp;</p>
-<p style="text-align: center;"><img alt="Hầm chân giò cùng hạt sen, cà rốt, nấm hương" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-12.jpg?v=1629091046573" /><em>Hầm chân giò&nbsp;cùng hạt sen, cà rốt, nấm hương</em></p>
-<p>Sau 15 phút các bạn cho thêm vào nồi cà rốt, hạt sen và nấm hương và hầm cùng chân giò, nêm lại gia vị cho hợp khẩu vị ăn của gia đình.</p>
-<p>Đun lửa nhỏ vừa khi thịt chân giò chín mềm các bạn cho thêm hành lá và chút tiêu xay.&nbsp;</p>
-<p style="text-align: center;"><img alt="Canh chân giò hầm hạt sen" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chan-gio-13.jpg?v=1629091047002" /><em>Canh chân giò hầm hạt sen</em></p>
-<p>Vậy là chúng ta đã hoàn thành xong món canh chân giò hầm hạt sen, nước dùng ngọt trong không bị váng, hạt sen mềm và bùi;&nbsp;chân giò mềm nhưng lại vẫn có độ giòn đặc trưng của chân giò.</p>
-<p>&nbsp;Chúc các bạn thành công với 2 cách làm chân giò ngon mà&nbsp;Tinh Hoa Quê Nhà đã chia sẻ hôm nay</p>
-<p><em>* Hình ảnh và nôi dung bài viết sử dụng tham khảo youtube&nbsp;<a href="https://www.youtube.com/watch?v=oy6aF99eGc0" target="_blank">Cô Ba Bình Dương</a>&nbsp;và&nbsp;<a href="https://www.youtube.com/watch?v=84IBSF0uysQ" target="_blank">Món Ăn Ngon</a></em></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chan-gio" title="2 cách nấu chân giò ngon đặc biệt đổi món cho cả gia đình">2 cách nấu chân giò ngon đặc biệt đổi món cho cả gia đình</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-chan-gio</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chan-gio</guid>
-            <pubDate>Fri, 20 Aug 2021 02:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cách nấu cari bò hầm nước cốt dừa cho bữa tối đậm đà tròn vị]]></title>
-            <description><![CDATA[<p><strong>Cari bò hầm nước cốt dừa đậm đà&nbsp;cực kì hao cơm, dùng kèm với vài lát bành mỳ cũng rất tuyệt vời hết ý.&nbsp;Cuối tuần này bạn đã biết nấu món gì ngon cho bữa cơm gia đình chưa? Nếu chưa hãy cùng vào bếp làm món Cari bò hầm nước cốt dừa cùng <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> nhé.</strong></p>
+            <title><![CDATA[Cách nấu cháo cá chép thơm ngon, không tanh cho bé, bà bầu và cả nhà]]></title>
+            <description><![CDATA[<p dir="ltr"><strong>Có rất nhiều cách nấu cháo cá ngon. Trong đó, món cháo cá chép được rất nhiều người yêu thích. Đây là món ăn vừa thơm ngon lại rất bổ dưỡng, đặc biệt đối với trẻ nhỏ, người mới ốm dậy. Làm sao để nấu món cháo cá chép thơm ngon và không bị tanh? Hãy cùng chia sẻ cách nấu cháo cá chép cùng <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> trong bài viết dưới đây nhé!</strong></p>
 <div class="box-title">
     <label>1</label>
-    <h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu cari bò hầm nước cốt dừa</h2>
+    <h2 id="cach-nau" style="text-align: justify;">Cách nấu cháo cá chép đơn giản</h2>
 </div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu cháo cá chép:</strong></h3>
+<p dir="ltr"><strong>Khẩu phần</strong>: 4 người</p>
 <ul class="staplesrecipe">
-<li>Bắp bò: 400g</li>
-<li>Khoai tây: 100g</li>
-<li>Cà rốt: 100g</li>
-<li>Hành tây: 80g</li>
-<li>Nước cốt dừa ( loại đóng hộp sẵn)</li>
-<li>Gừng 30g , tỏi 30g , sả 30g</li>
-<li>Bột cari</li>
-<li>Muối, hạt nêm, tiêu, đường, bột ngọt</li>
-<li>Dầu điều&nbsp;</li></ul>
+<li>Cá chép: 1 con (khoảng 1kg)</li>
+<li>Gạo nếp: 50gr</li>
+<li>Gạo tẻ: 100gr</li>
+<li>Hành lá: 3 nhánh</li>
+<li>Ớt tươi: 2 trái</li>
+<li>Ngò rí: 5 cây</li>
+<li>Chanh: 1 quả</li>
+<li>Hành tăm băm nhuyễn: 2 muỗng canh</li>
+<li>Gừng: 1 củ (cắt lát)</li>
+<li>Rượu gừng: 100ml&nbsp;</li>
+<li>Nước mắm: 1 muỗng canh</li>
+<li>Bột canh: ½ muỗng cà phê</li>
+<li>Muối/ tiêu: 1 ít</li>
+<li>Dầu điều: 2 muỗng canh</li></ul>
+<p dir="ltr"><strong>Cách chọn cá chép tươi ngon:</strong></p>
+<p dir="ltr">Mẹ nên mua những con cá chép còn sống, đầy đặn, dày mình.</p>
+<p dir="ltr">Chọn cá có vẩy màu xám sậm vì là cá chép sông ăn sẽ ngon hơn.</p>
+<p dir="ltr">Không nên chọn cá chép trứng vì chúng sẽ gầy, thịt không còn ngon nữa.</p>
+<p dir="ltr"><strong>Dụng cụ:</strong></p>
+<p dir="ltr">Bếp, nồi cơm điện, chày, cối, rây lọc…</p>
+<h3 dir="ltr"><strong>Cách nấu cháo cá chép ngon:</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế cá chép</strong></p>
+<p dir="ltr">Cá chép làm sạch vẩy, loại bỏ hết phần nội tạng và cạo sạch lớp da đen ở bên trong bụng cá.</p>
+<p dir="ltr"><img data-thumb="original" original-height="408" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-ca-chep-khong-bi-tanh.jpg?v=1628821510590" /></p>
+<p dir="ltr" style="text-align: center;"><em>Cách nấu cháo cá chép không bị tanh.</em></p>
+<div class="tipsrecipe">
+<p dir="ltr">Lấy muối và rượu gừng chà xát lên cá trong khoảng 2 phút để loại bỏ hết phần nhớt trên thân cá. Cách làm này cũng giúp loại bỏ đi mùi tanh của cá chép. Nếu không có rượu gừng, bạn có thể thay bằng rượu trắng và gừng đập dập để làm sạch cá. Tiếp đó, rửa lại cá với nước sạch.</p>
+</div>
+<p dir="ltr">Sau khi cá được sơ chế xong, bạn chuẩn bị 1 nồi nước khoảng 1,5 -&nbsp;2 lít nước. Thả thêm vào nồi 1 củ gừng nhỏ cắt lát. Đun sôi nồi nước, rồi cho cá chép vào.&nbsp;Đậy nắp nồi lại và luộc cá&nbsp;cho đến khi nước sôi trở lại. Sau đó, bạn gắp cá chép ra khỏi nồi.</p>
+<p dir="ltr"><img data-thumb="original" original-height="406" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-chao-ca-chep-ngon-khong-tanh.jpg?v=1628821578197" /></p>
+<p dir="ltr" style="text-align: center;"><em>Luộc cá chép trong nồi</em></p>
+<p dir="ltr"><strong>Bước 2: Lọc thịt và xương cá chép</strong></p>
+<p dir="ltr">Chờ cho đến khi cá nguội bớt, bạn tách phần thịt cá ra và xé thành những miếng vừa ăn. Bạn để ý gỡ xương dăm cẩn thận.</p>
+<p dir="ltr">Sau đó, bạn cho phần đầu và xương cá vào 1 cái cối và dùng chày giã nhuyễn. Hoặc bạn cũng cho vào máy xay nhuyễn. Dùng rây lọc, đổ phần nước cốt xương cá qua rây để lọc lấy phần nước dùng.</p>
+<p dir="ltr"><strong>Bước 3: Nấu cháo</strong></p>
+<p dir="ltr">Cho 50gr gạo nếp và 100gr gạo tẻ trộn với nhau, vo sạch, để ráo nước.</p>
+<p dir="ltr">Cho hỗn hợp gạo lên chảo rang với lửa nhỏ trong khoảng 5 phút. Rang đều tay cho đến khi hạt gạo chuyển màu mờ đục.</p>
+<p dir="ltr">Sau khi rang gạo xong, bạn cho vào nồi cùng với phần nước luộc cá và&nbsp;nước cốt xương cá đã lọc. Bật nút nấu trong thời gian khoảng 30 - 40 phút.</p>
+<p dir="ltr"><strong>Bước 4: Xào thịt cá&nbsp;</strong></p>
+<p dir="ltr">Để chảo lên bếp lửa và cho vào chảo 2 muỗng canh dầu điều. Đến khi dầu nóng, bạn cho vào chảo 2 muỗng canh hành tăm vào phi cho đến khi dậy mùi thơm.</p>
+<p>Tiếp đến, cho cá vào xào. Nêm thêm ½ muống cà phê bột canh, 1 muỗng canh nước mắm và ½ muỗng cà phê tiêu.</p>
+<p><img data-thumb="original" original-height="402" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-chao-ca-chep-thom-ngon.jpg?v=1628821993628" /></p>
+<p dir="ltr" style="text-align: center;"><em>Cho gia vị vừa ăn khi xào cá</em></p>
+<p dir="ltr">Xào cá đều tay với lửa nhỏ trong vòng 5 phút để cá thấm đều gia vị và không bị quá nát.</p>
+<p dir="ltr"><strong>Bước 5: Hoàn thành và thưởng thức</strong></p>
+<p dir="ltr">Khi gạo trong nồi đã nở mềm, bạn cho ½ phần cá chép vừa chiên vào nồi rồi nấu thêm 5 - 10 phút nữa.</p>
+<p dir="ltr">Trong lúc chờ cháo sôi trở lại, bạn cắt nhỏ ngò rí, hành lá.</p>
+<p dir="ltr">Sau khi phần cháo đã xong, bạn múc ra tô và cho thêm những miếng cá chiên cùng hành ngò lên trên.</p>
+<p dir="ltr">Với những thành viên gia đình ăn được cay, bạn có thể cho thêm một vài lát ớt tươi nhỏ vào nhé. Và đừng quên vắt thêm 1 ít chanh vào, sẽ giúp tô cháo thơm ngon hơn đấy!</p>
 <div class="box-title">
     <label>2</label>
-    <h2 id="cac-buoc" style="text-align: justify;">Các bước thực hiện nấu cari bò hầm nước cốt dừa</h2>
+    <h2 id="nau-chao" style="text-align: justify;">Cách nấu cháo cá chép cho bé yêu</h2>
 </div>
-<p><strong>Bước 1:&nbsp; Sơ chế nguyên liệu nấu cari</strong></p>
-<p>Bắp bò cắt khúc miếng to vừa ăn. Khoai tây, cà rốt&nbsp;cắt bỏ&nbsp;vỏ và cắt khu to cỡ 3cm. Hành tây lột vỏ cắt khúc. Xả xắt mỏng, tỏi, gừng băm nguyễn.</p>
-<p style="text-align: center;"><img alt="Sơ chế nguyên liệu nấu cari bò hầm" data-thumb="original" original-height="581" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/bo-ham-cari-6-7b4bdba5-79ca-4b8b-be06-96e1a4d4b854.jpg?v=1628410149334" /></p>
-<p style="text-align: center;"><em>Sơ chế nguyên liệu nấu cari bò hầm</em></p>
-<p><strong>Bước 2: Ướp gia vị cho bắp bò nấu cari</strong></p>
-<p>Cho bắp bò đã cắt khúc vào tô lớn, thêm 1/3 thìa canh bột cari, 1/3 thìa canh muối, 1/3 thìa canh bột ngọt, 1/2 thìa canh đường, 1/2 thìa canh hạt nêm, 1/4 thìa canh tiêu, 30ml dầu điều. Trộn đều và ướp trong 30 phút.</p>
-<p style="text-align: center;"><img alt="Ướp gia vị cho thịt bò trong 30 phút" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/bo-ham-cari-2-a5f801c4-52b9-4922-97da-d7139282a1b8.jpg?v=1628410147129" /><em>Ướp gia vị cho thịt bò trong 30 phút</em></p>
-<p><strong>Bước 3: Nấu cari bò hầm</strong></p>
-<p>Để nồi lên bếp cho dầu ăn vào, đợi dầu ăn nóng phi thơm 30g xả, 30g tỏi tăm, 30g gừng, tiếp đó chúng ta cho phần thịt bắp bò đã ngấm gia vị vào nồi đảo đều.&nbsp;</p>
-<p style="text-align: center;"><img alt="Hầm nhừ thịt bò, thêm rau củ vào hầm thêm 15 phút" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/bo-ham-cari-3-2dc07d16-d752-4e98-85c4-0b4fec0fb0cc.jpg?v=1628410147991" /><em>Hầm nhừ thịt bò, thêm rau củ vào hầm thêm 15 phút</em></p>
-<p>Cho thêm 700g nước vào nồi đun sôi thì vặn vừa lửa ninh nhừ trong 30 phút. Sau đó&nbsp;các bạn cho thêm vào nồi 2 thìa canh nước cốt dừa tươi. Tiếp đó cho thêm&nbsp;100g cà rốt, 100g khoai tây, 80g&nbsp;hành tây vào nồi và đung thêm 15 phút</p>
-<p style="text-align: center;"><img alt="Bò hầm cari thơm ngon" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/bo-ham-cari-4-5ac69cf4-00be-4e19-99fe-fa6e1969046c.jpg?v=1628410148700" /></p>
-<p style="text-align: center;"><em>Bò hầm cari thơm ngon</em></p>
-<p>Thịt bò mềm&nbsp;không dai, nước cari thơm vị bò cộng thêm vị ngọt từ khoai tây, cà rốt, hành tây rất vừa miệng.&nbsp;Món cari bò hầm này rất phù hợp để ăn với cơm hoặc bánh mì.</p>
-<p>Chúc các bạn thành công nha!</p>
-<p><em>* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube <a href="https://www.youtube.com/watch?v=Hv-liqf92ow" rel="nofollow" target="_blank" title="cách nấu cari bò">Feedy VN</a></em></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-cari-bo" title="Cách nấu cari bò hầm nước cốt dừa cho bữa tối đậm đà tròn vị">Cách nấu cari bò hầm nước cốt dừa cho bữa tối đậm đà tròn vị</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-cari-bo</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-cari-bo</guid>
-            <pubDate>Fri, 20 Aug 2021 02:16:00 GMT</pubDate>
+<p dir="ltr">Cá chép có chứa Omega-3, selen, kẽm, giàu vitamin B12, phốt pho. Các chất dinh dưỡng này hỗ trợ rất tốt cho sự phát triển của não bộ và hệ thần kinh của bé. Không chỉ vậy, các chất này còn có tác dụng giúp mắt sáng, cải thiện các vấn đề về tiêu hoá, giúp xương chắc khỏe, cải thiện sức khỏe hệ tim mạch…</p>
+<p dir="ltr">Cách nấu cháo cá chép cho trẻ cùng với đậu xanh được rất nhiều bà mẹ bỉm sữa chế biến khi bé được 1 tuổi.</p>
+<p dir="ltr"><img data-thumb="original" original-height="397" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-chao-ca-c6735cb8-59a5-4ccd-9296-edb46bc2e4d2.jpg?v=1628822117739" /></p>
+<p dir="ltr" style="text-align: center;"><em>Cách nấu cháo cá chép đậu xanh</em></p>
+<h3 dir="ltr"><strong>Nguyên liệu nấu cháo cá chép ngon cho bé:</strong></h3>
+<ul class="staplesrecipe">
+<li>Cá chép: 1 con</li>
+<li>Gạo 100gr</li>
+<li>Đậu xanh 50gr</li>
+<li>Nấm rơm</li>
+<li>Cà rốt nửa củ</li>
+<li>Hành tươi, thì là, gưfng</li></ul>
+<h3 dir="ltr"><strong>Cách nấu món cháo cá chép cho bé 1 tuổi:</strong></h3>
+<p dir="ltr">Làm sạch cá và rửa sạch hết phần đen ở bụng, ở mang và vẩy cá. Cho lát gừng vào bụng cá giúp khử đi mùi tanh nhanh chóng.</p>
+<p dir="ltr">Luộc chín cá, lọc lấy phần thịt, giữ lại phần nước luộc cá để nước nấu cháo có vị ngọt tự nhiên.</p>
+<p dir="ltr">Vo gạo sạch rồi cho vào với nước luộc cá nấu thành cháo. Khi cháo chín thì cho phần đậu xanh đã rửa sạch vào nồi.</p>
+<p dir="ltr">Cà rốt cạo sạch vỏ, rửa qua nước rồi thái nhỏ và cho vào xay nhuyễn.</p>
+<p dir="ltr">Phi thơm hành mỡ, cho nấm rơm và phần thịt cá đã lọc vào chảo đảo đều. Cho thêm các gia vị cho vừa miệng.</p>
+<p dir="ltr">Khi thấy cháo và đậu xanh chín nhừ thì cho phần cá vừa phi thơm vào, khuấy đều và cho thêm cà rốt. Tiếp tục đun nồi cháo thêm 5 phút nữa thì tắt bếp.</p>
+<p dir="ltr">Múc cháo ra tô, chờ cháo nguội là bạn có thể cho&nbsp;bé thưởng thức rồi.</p>
+<p dir="ltr">Với cách nấu cháo cá chép rất đơn giản ở trên, hy vọng bạn sẽ mang đến cho cả nhà những tô cháo bổ dưỡng. Hãy cùng thưởng thức món cháo cá chép ngon tuyệt bên gia đình bạn nhé!</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chao-ca-chep" title="Cách nấu cháo cá chép thơm ngon, không tanh cho bé, bà bầu và cả nhà">Cách nấu cháo cá chép thơm ngon, không tanh cho bé, bà bầu và cả nhà</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-chao-ca-chep</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chao-ca-chep</guid>
+            <pubDate>Sat, 21 Aug 2021 02:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cách nấu chè khúc bạch thơm ngon, thanh mát đơn giản tại nhà]]></title>
-            <description><![CDATA[<p><strong>Chè khúc bạch là một món&nbsp;giải nhiệt cho ngày hè cực hiệu quả. Các bạn cùng vào bếp với <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> nấu món chè khúc bạch thơm ngon cho những người thân yêu của mình nhé!</strong></p>
+            <title><![CDATA[Cách nấu cháo bằng nước dashi đúng chuẩn, mẹ xem ngay!]]></title>
+            <description><![CDATA[<p dir="ltr"><strong>Nước dashi được xem là một trong những thành phần không thể thiếu khi nhắc đến món cháo cho bé ăn dặm kiểu Nhật. Cách nấu cháo bằng nước dashi như thế nào để có thể mang đến cho bé nhiều dưỡng chất nhất? Mẹ hãy cùng <a href="https://tinhhoaquenha.vn/" title="Tinh Hoa Quê Nhà">Tinh Hoa Quê Nhà</a> chia sẻ công thức nấu cháo bằng nước dashi dưới đây nhé!</strong></p>
+<p dir="ltr">Nước dashi là loại nước dùng có xuất xứ từ Nhật Bản. Có nhiều loại nước dùng dashi, mẹ có thể dùng nguyên liệu từ rong biển, các loại rau củ, cá ngừ, cá cơm… Trong đó, cách nấu nước dashi cho bé từ rau củ được rất nhiều mẹ lựa chọn bởi có vị ngọt tự nhiên, nguyên chất từ rau củ.</p>
+<p dir="ltr">Đối với các món ăn dặm cho trẻ dưới một tuổi, mẹ không nên dùng muối hay các gia vị khác để nêm đồ ăn cho bé. Sử dụng nước dashi có độ mặn ngọt tự nhiên là một sự lựa chọn an toàn, vừa mang đến cho bé nhiều chất dinh dưỡng, vừa giúp bé ăn ngon miệng hơn.</p>
 <div class="box-title"><label>1</label>
-<h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu chè khúc bạch</h2></div>
-<ul class="staplesrecipe">
-<li>Bột rau câu: 10g</li>
-<li>Đường trắng: 400g</li>
-<li>Đường phèn: 200g</li>
-<li>Sữa tươi không đường: 2 lít</li>
-<li>Gelatin: 40g</li>
-<li>Whipping cream: 250g</li>
-<li>Nước cốt dừa: 230g</li>
-<li>Hạnh nhân: 100g</li>
-<li>Bột trà xanh: 2 thìa cà phê</li>
-<li>Thanh long đỏ: 1/4 quả&nbsp;</li>
-<li>Lá dứa: 2 lá</li>
-<li>Nước lọc: 1,5 lít</li></ul>
+<h2 id="nau-nuoc" style="text-align: justify;">Cách nấu nước dashi</h2></div>
+<p dir="ltr">Cách nấu nước dùng dashi cho bé ăn dặm không hề khó.&nbsp; Các mẹ hoàn toàn có thể tự làm nước dùng dashi cho bé ăn dặm ngay tại nhà.</p>
+<h3 dir="ltr"><strong>Nguyên liệu:</strong></h3>
+<p dir="ltr">Nguyên liệu để làm nước dùng dashi thường là các loại rau củ quả.</p>
+<div class="tipsrecipe">
+<p dir="ltr">Mẹ lưu ý nhé: nên chọn loại rau củ theo mùa để tránh thuốc trừ sâu và thuốc bảo quản. Mẹ có thể chọn các loại rau củ như: ngô nếp, cà rốt, khoai tây, su su, mía, mướp, măng tây, bí ngô, đỗ tương...</p>
+</div>
+<h3 dir="ltr"><strong>Cách nấu nước dùng dashi:&nbsp;</strong></h3>
+<p dir="ltr"><strong>Bước 1:</strong></p>
+<p dir="ltr">Mẹ gọt vỏ củ quả, rửa sạch, cắt khúc.</p>
+<p dir="ltr"><strong>Bước 2:</strong></p>
+<p dir="ltr">Với khoảng 250gr rau củ quả thì mẹ sử dụng khoảng 800 - 1.000 ml nước nhé.&nbsp;</p>
+<p dir="ltr"><img data-thumb="original" original-height="400" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-nuoc-dashi.jpg?v=1628667402158" /></p>
+<p dir="ltr" style="text-align: center;"><em>Cách nấu nước dashi ngon</em></p>
+<p dir="ltr">Nấu cho rau củ chín mềm. Nếu mẹ nấu nước dashi từ một vài loại rau củ quả tổng hợp thì cần lưu ý về nhiệt độ chín của mỗi loại. Các loại rau củ quả nào phù hợp ăn kèm với nhau. Loại nào cần cho vào trước, loại nào cho vào sau…&nbsp;</p>
+<p dir="ltr">Tổng thời gian nấu khoảng 30 - 40 phút.</p>
+<p dir="ltr"><strong>Bước 3:</strong></p>
+<p dir="ltr">Sau khi các nguyên liệu đã chín, mẹ vớt phần rau củ quả ra nghiền hoặc ray. Ray ngay khi rau củ còn nóng sẽ mịn hơn và không bị lợn cợn.</p>
+<p dir="ltr">Phần nước còn lại trong nồi chính là nước dùng dashi.</p>
+<p dir="ltr">Thông thường, sau khi để nước dashi nguội, các mẹ hay chia thành những viên nhỏ hoặc khay trữ đông 15 - 30 ml để dùng dần mỗi lần.</p>
+<p dir="ltr"><img data-thumb="original" original-height="400" original-width="605" src="//bizweb.dktcdn.net/100/420/256/files/cach-nau-nuoc-dashi-cho-be-an-dam.jpg?v=1628667439834" /></p>
+<p dir="ltr" style="text-align: center;"><em>Thời gian lưu trữ và sử dụng tốt nhất là trong khoảng 1 tuần.</em></p>
+<p dir="ltr">Cách làm này vừa đảm bảo nước dùng dashi vẫn giữ được các chất dinh dưỡng, vừa giúp mẹ tiết kiệm thời gian nấu nướng rất nhiều.</p>
+<p dir="ltr">Ngoài nguyên liệu rau củ, mẹ cũng có thể dùng tảo bẹ, rong biển hay nấm đông cô để chế biến nước dùng dashi. Cách làm cũng tương tự như làm dashi từ rau củ.</p>
+<p dir="ltr">Nếu bé chưa được 12 tháng tuổi, mẹ không nên dùng loại nước dashi quá đậm đặc nhé, để không gây hại cho bộ máy tiêu hoá của bé.</p>
+<p dir="ltr">Nước dashi có thể dùng cho bé ăn kèm với các món chính thay cho súp, canh hàng ngày hoặc làm nước dùng nấu cháo.</p>
 <div class="box-title"><label>2</label>
-<h2 id="cac-buoc" style="text-align: justify;">Các bước nấu chè khúc bạch</h2></div>
-<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu chè khúc bạch</strong></p>
-<p dir="ltr">Hạnh nhân cho vào chảo rang với lửa nhỏ cho vàng thơm là được các bạn nhé.&nbsp;</p>
-<p dir="ltr">Bột trà xanh cho vào bát, cho thêm 1 thìa canh nước và khuấy đều cho tan.</p>
-<p dir="ltr">Thanh long đỏ bỏ vỏ, đem dằm nhuyễn lọc qua rây lấy nước màu.&nbsp;Lá dứa rửa sạch với nước, bó lại thành bó.</p>
-<p dir="ltr"><img alt="Sơ chế nguyên liệu món chè khúc bạch" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-7.jpg?v=1629190534080" /></p>
-<p dir="ltr" style="text-align: center;"><em>Sơ chế nguyên liệu món chè khúc bạch</em></p>
-<p dir="ltr"><strong>Bước 2: Làm chè khúc bạch với&nbsp;bột rau câu</strong></p>
-<p dir="ltr">Cho bột rau câu dẻo vào nồi, đổ đường trắng vào cùng bột rau câu trộn đều.</p>
-<p dir="ltr">Cho vào 0,5 lít nước lọc đun sôi lên khoảng 4-5 phút.</p>
-<p dir="ltr">Tiếp&nbsp;đó đổ 1 lít sữa tươi vào cùng khuấy đều lên cho sữa ấm các bạn tắt bếp.&nbsp;</p>
-<p dir="ltr">Cho vào nồi 250ml whipping cream&nbsp;và 3 ống vani khuấy đều lên.</p>
-<p dir="ltr" style="text-align: center;"><img data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-4.jpg?v=1629188983840" /><em>Làm thạch với bột rau câu cho món chè khúc bạch&nbsp;</em></p>
-<p dir="ltr">Đổ ra khuôn để rau câu nguội rồi cho vào ngăn mát tủ lạnh 3 tiếng đồng hồ.</p>
-<p dir="ltr">Sau đó các bạn cho thạch rau câu ra thái miếng vuông vừa ăn.&nbsp;</p>
-<p dir="ltr"><strong>Bước 3: Làm chè khúc bạch với&nbsp;gelatin</strong></p>
-<p dir="ltr">Ngâm 40g gelatin trong nước đá 5 phút sau đó cho gelatin vào nồi cùng với sữa tươi không đường.&nbsp;</p>
-<p dir="ltr">Cho 200g đường trắng khuấy đều đun lửa nhỏ và sữa nóng lên là&nbsp;tắt bếp.&nbsp;</p>
-<p dir="ltr">Cho tiếp 250g&nbsp; whipping cream vào khuấy đều lên.</p>
-<p dir="ltr"><img alt="Nấu thạch với gelatin cho món chè khúc bạch" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-8.jpg?v=1629190637497" /></p>
-<p dir="ltr" style="text-align: center;"><em>Nấu thạch với gelatin cho món chè khúc bạch</em></p>
-<p dir="ltr">Để giữ được thạch câu trong chè khúc bạch không bị chảy nước nên kết hợp thêm bột rau câu dẻo.&nbsp;</p>
-<p dir="ltr">Cho khoảng 1 thìa cà phê bột rau câu dẻo vào nồi, hoà tan với 1 thìa đường.</p>
-<p dir="ltr">Thêm 250ml nước khuấy đều và đun cho sánh sau đó cho vào cùng nồi thạch gelatin khuấy đều lên.&nbsp;</p>
-<p dir="ltr"><img alt="Làm thach bằng gelatin cho món chè khúc bạch" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-1.jpg?v=1629188982013" /></p>
-<p dir="ltr" style="text-align: center;"><em>Làm thach bằng gelatin cho món chè khúc bạch</em></p>
-<p dir="ltr">Nồi thạch vừa nấu xong đổ vào 2 bát to, đổ hỗn hợp màu đã chuẩn bị vào 2 bát.&nbsp;</p>
-<p dir="ltr">Cho thêm vani vào khuấy đều lên cho hỗn hợp hoà quyện cùng với nhau.</p>
-<p dir="ltr">Lọc lại các hỗn hợp thạch bằng rây hoặc khăn mỏng để thạch mịn.</p>
-<p dir="ltr">Đổ vào khuôn và cho vào ngăn mát tủ lạnh 3 tiếng cho thạch đông.</p>
-<p dir="ltr">Sau đó cắt miếng vuông vừa ăn.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Thạch cắt khúc vuông vừa ăn, nhìn chè khúc bạch sẽ rất đẹp mắt" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-5.jpg?v=1629188984463" /><em>Thạch cắt&nbsp;khúc vuông vừa ăn, nhìn chè khúc bạch sẽ rất đẹp mắt</em></p>
-<p dir="ltr"><strong>Bước 4: Nấu nước đường</strong></p>
-<p dir="ltr">Cho vào nồi 1 lít nước lọc, cho thêm lá dứa vào đun sôi lên sau đó cho đường phèn vào.</p>
-<p dir="ltr"><strong><em>Chú ý:</em></strong> không khuấy tầm 8-10 phút, nước đường đã nấu xong bắc xuống để nguội, cho vào ngăn mát tủ lạnh để cho mát.&nbsp;</p>
-<p dir="ltr" style="text-align: center;"><img alt="Nấu nước đường cùng lá dứa cho món chè khúc bạch" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-6.jpg?v=1629190533273" /><em>Nấu nước đường cùng lá dứa cho món chè khúc bạch</em></p>
-<div class="box-title"><label>3</label>
-<h2 id="thuong-thuc" style="text-align: justify;">Thưởng thức chè khúc bạch</h2></div>
-<p dir="ltr">Các bạn cho vào bát 2-3 miếng thạch đủ các vị,&nbsp;cho sau đó đổ phần nước đường lá dứa vào;&nbsp;rắc thêm chút hạnh nhân, kết hợp cùng với nước vải&nbsp;và 1,2 trái vải&nbsp;rất là thơm.</p>
-<p dir="ltr"><em>Bạn nào ăn lạnh hơn có thể cho thêm đá nhé!</em></p>
-<p dir="ltr" style="text-align: center;"><img alt="Cách nấu chè khúc bạch" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/che-khuc-bach-2.jpg?v=1629188982640" /><em>Cách nấu chè khúc bạch</em></p>
-<p dir="ltr">Vị ngọt thanh mát, thơm thơm của lá dứa, nước đường ngọt vừa, miếng thạch mềm mịn tan trong miệng, màu sắc tươi sáng và đẹp mắt.</p>
-<p dir="ltr">Như vậy là các bạn có thể thưởng thức ngay món chè khúc bạch tại nhà mà không cần phải ra quán phải không nào?</p>
-<p dir="ltr">Còn chần chừ gì mà không chiêu đãi&nbsp;cả nhà món chè khúc bạch với công thức mà Tinh Hoa Quê Nhà đã chia sẻ.&nbsp;</p>
-<p dir="ltr">Chúc các bạn thành công nha!</p>
-<p dir="ltr"><em>* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube&nbsp;<a href="https://www.youtube.com/watch?v=3wTFqVMiBx4" rel="nofollow" target="_blank" title="cách nấu chè khúc bạch">Sức Khoẻ Tâm Sinh</a></em></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-che-khuc-bach" title="Cách nấu chè khúc bạch thơm ngon, thanh mát đơn giản tại nhà">Cách nấu chè khúc bạch thơm ngon, thanh mát đơn giản tại nhà</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-che-khuc-bach</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-che-khuc-bach</guid>
-            <pubDate>Tue, 17 Aug 2021 09:52:00 GMT</pubDate>
+<h2 id="nau-chao" style="text-align: justify;">Cách nấu cháo bằng nước dashi</h2></div>
+<p dir="ltr"><strong>Bước 1:</strong></p>
+<p dir="ltr">Gạo vo sạch để loại bỏ bụi bẩn.</p>
+<p dir="ltr"><strong>Bước 2:</strong></p>
+<p dir="ltr">Cho gạo và nước dùng dashi vào nồi với tỉ lệ 1 gạo 5 nước. Mẹ có thể điều chỉnh lượng nước để làm cháo loãng hay cháo đặc tùy lựa chọn.</p>
+<p dir="ltr"><strong>Bước 3:</strong></p>
+<p dir="ltr">Hầm cháo đến khi cháo chín nhừ. Mẹ cũng có thể cho thêm vào cháo phần rau củ đã được nghiền nhuyễn. Vậy là mẹ đã có món cháo nước dùng dashi cho bé rồi!</p>
+<p dir="ltr">Nhưng mẹ lưu ý nhé, nước dashi chỉ được xem là thêm gia vị vào món ăn của bé cho đậm đà. Vì thế, mẹ không nên cho quá nhiều nước dashi nhé!</p>
+<p dir="ltr">Cách nấu cháo bằng nước dashi rất dễ thực hiện phải không các mẹ? Chỉ cần bỏ ra một chút thời gian là mẹ có thể chế biến ngay món cháo nước dashi ngon miệng cho bé rồi. Chúc mẹ thành công với món cháo ăn dặm cho con yêu với nhiều chất dinh dưỡng này nhé!</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chao-bang-nuoc-dashi" title="Cách nấu cháo bằng nước dashi đúng chuẩn, mẹ xem ngay!">Cách nấu cháo bằng nước dashi đúng chuẩn, mẹ xem ngay!</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-chao-bang-nuoc-dashi</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chao-bang-nuoc-dashi</guid>
+            <pubDate>Sat, 21 Aug 2021 02:46:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
