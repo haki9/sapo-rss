@@ -4,86 +4,259 @@
         <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 08:29:40 GMT</lastBuildDate>
-        <pubDate>Tue, 07 Sep 2021 08:29:40 GMT</pubDate>
+        <lastBuildDate>Thu, 09 Sep 2021 08:32:36 GMT</lastBuildDate>
+        <pubDate>Thu, 09 Sep 2021 08:32:36 GMT</pubDate>
         <item>
-            <title><![CDATA[Cách nấu cháo lòng thơm ngon, sánh mịn, đơn giản tại nhà]]></title>
-            <description><![CDATA[<p><strong>Cháo lòng là một món ăn dân dã, thơm ngon bổ dưỡng. Hôm nay Tinh Hoa Quê Nhà sẽ hướng dẫn các bạn cách làm món ăn bổ dưỡng này tại gia đình đảm bảo cả gia đình sẽ thích mê.&nbsp;</strong></p>
+            <title><![CDATA[Cách nấu lagu gà mềm thấm vị thơm ngon đãi cả gia đình]]></title>
+            <description><![CDATA[<p><strong>Lagu gà với mùi thơm cực hấp dẫn cùng thịt gà mềm&nbsp;và rau củ chín vừa tới. Tất cả tạo nên món ăn lạ miệng, ăn với bánh mì hay cơm trắng đều ngon miệng.&nbsp;Cùng vào bếp với&nbsp;Tinh Hoa Quê Nhà&nbsp;tìm hiểu công thức nấu món lagu gà&nbsp;để chiêu đãi cả nhà dịp cuối tuần nhé!</strong></p>
+<p><meta charset="utf-8" /></p>
 <div class="box-title">
     <label>1</label>
-    <h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu món cháo lòng</h2>
+    <h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu lagu gà</h2>
 </div>
 <ul class="staplesrecipe">
-<li>Gạo tẻ 1 bát, gạo nếp 1/2&nbsp;bát (tỉ lệ 2 gạo tẻ - 1 gạo nếp)</li>
-<li>Xương&nbsp;heo</li>
-<li>Hành, rau mùi, gừng</li>
-<li>Lòng non heo</li>
-<li>Dạ dày heo (bao tử heo)</li>
-<li>Tim heo</li>
-<li>Gan heo</li></ul>
-<p><img data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-long-1.jpg?v=1630002695127" /></p>
-<p style="text-align: center;"><em>Nguyên liệu nấu cháo lòng sánh mịn</em></p>
+<li>1 con gà trống: &nbsp;2kg</li>
+<li>Đậu hà lan tươi: 100g</li>
+<li>Nấm rơm: 200g</li>
+<li>Khoai tây: 500g</li>
+<li>Cà rốt: 400g</li>
+<li>Hành tây: 200g</li>
+<li>Hành tím: 50g</li>
+<li>Hành lá, ngò rí</li>
+<li>Nước dừa: 2 lít.</li>
+<li>Bột năng, bột gạo.</li>
+<li><strong>Gia vị</strong>: Đường, muối, hạt nêm, rượu, tương ớt, tương cà, hạt tiêu.&nbsp;</li></ul>
 <div class="box-title">
     <label>2</label>
-    <h2 id="cach-nau" style="text-align: justify;">Cách nấu cháo lòng</h2>
+    <h2 id="cac-buoc" style="text-align: justify;">Các bước nấu lagu gà</h2>
 </div>
-<p><strong>Bước 1: Nấu cháo, sơ chế nguyên liệu&nbsp;</strong></p>
-<p>Vo sạch gạo nếp và gạo tẻ, cho vào nồi trộn thêm 1 muỗng canh dầu ăn, trộn đều cho gạo ngấm dầu, để cháo chín nở rất đẹp.</p>
-<p style="text-align: center;"><img alt="Nấu cháo cùng xương, trong 30 phút cho sánh mịn" data-thumb="original" original-height="600" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-long-3.jpg?v=1630002696148" /><em>Nấu cháo cùng xương, trong 30 phút cho sánh mịn</em></p>
-<p>Ngâm gạo với dầu khoảng 10 phút. Sau đó cho thêm nước, thêm phần xương&nbsp;vào ninh nhừ cháo trong khoảng 30 phút.</p>
-<p>Sơ chế dạ dày (bao tử) heo : Cho vào dạ dày 2 muỗng canh muối, 1 phần gừng dã nhuyễn, 4 muỗng canh giấm ăn (hoặc rượu)</p>
-<p style="text-align: center;"><img alt="Sơ chế dạ dày, lòng heo thật kĩ" data-thumb="original" original-height="600" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-long-2.jpg?v=1630002695757" /><em>Sơ chế dạ dày, lòng heo thật kĩ</em></p>
-<p>Chà bóp sạch dạ dày, lột phần bên trong dùng dao cạo sạch phần nhớt bên trong dạ dày, rửa lại với nước sạch. Sau đó&nbsp;rửa lại tương tự&nbsp;dạ dày thêm 1 lần nữa cùng với lòng non.</p>
-<p><strong>Bước 2: Luộc lòng heo, dạ dày, tim gan</strong></p>
-<p>Cho nồi nước lên bếp, thêm vào 1/2 muỗng cà phê muối, bột ngọt. Nước sôi, chúng ta cho lòng heo và dạ dày vào luộc.&nbsp;</p>
-<p>Để cho lòng và dạ dày giòn và trắng, Sau khi đun sôi lòng và dạ dày&nbsp;5 phút tính từ lúc sôi trở lại, các bạn vớt ra cho vào thau nước lạnh ngâm khoảng 5 phút rồi vớt lên để ráo</p>
-<p>Tiếp tục cho nồi nước lên bếp thêm 1/2 muỗng cà phê muối và bột ngọt, cho tim và gan vào luộc chín.&nbsp;Vớt tim và gan ngâm vào thau nước lạnh 5 phút, rồi vớt&nbsp;lên để ráo.</p>
-<p style="text-align: center;"><img alt="Luộc dạ dày, tim, gan và long heo" data-thumb="original" original-height="600" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-long-4.jpg?v=1630002696981" /><em>Luộc dạ dày, tim, gan và long heo</em></p>
-<p>Phần nước luộc tim và gan các bạn cho vào nồi cháo ninh cùng, cho ngọt nước. Các bạn nêm nếm lại gia vị cho cháo vừa ăn với khẩu vị gia đình.</p>
-<p>Khi phần lòng heo dạ dày, tim, gan dã nguội các bạn cắt miếng vừa ăn.</p>
-<p><strong>Bước 3: Thành phẩm món cháo lòng&nbsp;</strong></p>
-<p>Lúc này cháo đã chín, nồi cháo có màu ngà vàng, sánh mịn, cho vào tô, thêm chút gừng cắt sợi, một chút rau mùi băm nhuyễn, một chút lòng, tim, gan, dạ dày, hành khô và không quên một chút tiêu.&nbsp;</p>
-<p style="text-align: center;"><img alt="Cách nấu cháo lòng thơm ngon sánh mịn tại nhà " data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-long-5.jpg?v=1630002697584" /><em>Cách nấu cháo lòng thơm ngon sánh mịn tại&nbsp;nhà&nbsp;</em></p>
-<p>Vậy là các bạn đã có ngay một bát cháo lòng ngon như ngoài hàng ngay tại nhà, còn chần chừ gì nữa cùng thực hiện và chiêu đã cả gia đình thôi. Chúc các bạn thành công!</p>
-<p>* Hình ảnh và nội dung bài viết sử dụng tham khảo youtube&nbsp;<a href="https://www.youtube.com/watch?v=Zb9_YtNAcRk" rel="nofollow" target="_blank" title="cách nấu cháo lòng">Bếp Của Vợ</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chao-long" title="Cách nấu cháo lòng thơm ngon, sánh mịn, đơn giản tại nhà">Cách nấu cháo lòng thơm ngon, sánh mịn, đơn giản tại nhà</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-chao-long</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chao-long</guid>
-            <pubDate>Tue, 07 Sep 2021 08:23:00 GMT</pubDate>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu lagu gà</strong></p>
+<p dir="ltr">Gà làm sạch lông, chà muối và giấm lên bề mặt da gà cho sạch, sau đó rửa lại với nước, để ráo. Dùng dao chặt thịt gà thành miếng vừa ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chặt thịt gà thành miếng vừa ăn" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/1-e425c93a-d4b3-463f-b8b0-08d4c6384d7e.jpg?v=1630607444987" /><em>Chặt thịt gà thành miếng vừa ăn</em></p>
+<p dir="ltr">Đậu hà lan rửa sạch với nước, để ráo.&nbsp;</p>
+<p dir="ltr">Nấm rơm cắt bỏ chân nấm, rửa sạch với nước, ngâm 5 phút trong nước muối, sau đó vớt lên để ráo.&nbsp;</p>
+<p dir="ltr">Cà rốt gọt vỏ, rửa sạch, tỉa hoa sau đó cắt khoanh 1cm</p>
+<p dir="ltr">Khoai tây gọt vỏ, ngâm nước 2 phút, sau đó vớt lên thái miếng to (thái mỏng khoai tây chín sẽ nát)</p>
+<p dir="ltr">Hành tây bóc vỏ, rửa sạch thái múi cau.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hành tây thái múi cau" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/10-1-82232a3a-5ded-40d4-b541-d0cd709b9dab.jpg?v=1630607687527" /><em>Hành tây thái múi cau</em></p>
+<p dir="ltr">Hành tím bóc vỏ, đập dập băm nhuyễn.</p>
+<p dir="ltr">Rau ngò rí, hành lá rửa sạch&nbsp;</p>
+<p dir="ltr">Cho ½ thìa canh bột năng, ½ thìa cà phê bột gạo, 2 thìa canh nước khuấy đều lên cho tan.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Ướp thịt gà</strong></p>
+<p dir="ltr">Cho thịt gà đã chặt vào bát, cho thêm 1 thìa canh đường, 2 thìa hạt nêm, ½ thìa canh muối, 1 thìa canh rượu nếp, 1 chút tiêu xay.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt gà cùng với gia vị" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/2-878d8b38-1a1f-4f0a-981c-9f773b2f95c8.jpg?v=1630607902740" /><em>Ướp thịt gà cùng với gia vị</em></p>
+<p dir="ltr">Sau đó trộn đều lên cho gà ngấm gia vị, ướp 30 phút các bạn nhé</p>
+<p dir="ltr"><strong>Bước 3: Xào khoai tây, cà rốt.&nbsp;</strong></p>
+<p dir="ltr">Các bạn cho dầu ăn vào chảo, cho khoai tây vào đảo 3 phút trước, cho khoai tây săn lại các bạn cho cà rốt vào đảo đều thêm 1 phút nữa là các bạn tắt bếp nhé.&nbsp;</p>
+<p dir="ltr"><strong>Bước 4: Đảo thịt gà</strong></p>
+<p dir="ltr">Cho thêm dầu vào chảo các bạn vừa xào khoai tây, cà rốt. Đun dầu nóng cho thêm 20g bơ lạt, đảo đều sau đó cho gà vào đảo cho thịt gà săn lại.&nbsp;</p>
+<p dir="ltr"><strong>Bước 5: Nấu lagu gà</strong></p>
+<p dir="ltr">Cho nồi lên bếp, cho 1 thìa cà phê dầu ăn, 2 thìa màu dầu điều đun cho nóng, cho hành tím băm vào phi thơm.</p>
+<p dir="ltr">Hành tím đã vàng thơm các bạn cho 100g tương cà và 20g tương ớt vào đảo đều cùng với hành phi.</p>
+<p dir="ltr">Sau đó cho gà đã xào vào đảo đều cùng với tương ớt và tương cà, đảo thịt gà thêm 2 phút cho thịt gà thấm và lên màu đẹp.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt gà cùng với tương cà và tương ớt cho lên màu đẹp" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/4-40f90e4c-bd62-459f-b3ef-d294173a04cb.jpg?v=1630607974308" /><em>Đảo thịt gà cùng với tương cà và tương ớt cho lên màu đẹp</em></p>
+<p dir="ltr">Sau đó các bạn cho vào nồi 2 lít nước dừa, 1,5 lít nước lọc, khuấy đều lên đun cho nồi lagu gà sôi.</p>
+<p dir="ltr">Nồi sôi hạ nhỏ lửa đun 30 phút cho gà chín, tiếp theo cho nấm rơm và đậu hà lan vào đun sôi 2 phút sau đó cho khoai tây và cà rốt vào đun thêm 10 phút.&nbsp;</p>
+<p dir="ltr">Tiếp theo cho hành tây vào đun thêm 2 phút, nêm lại gia vị theo khẩu vị của gia đình bạn nhé.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hầm thịt gà cùng với nấm rơm, đậu hà lan và hành tây" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/5-7a7c26ef-2f26-4d6a-a67a-12379b971f08.jpg?v=1630608227784" /><em>Hầm thịt gà cùng với nấm rơm, đậu hà lan và hành tây</em></p>
+<p dir="ltr">Trước khi tắt bếp các bạn cho hỗn hợp bột năng vào từ từ và khuấy đều đun cho bột năng chín là các bạn tắt bếp và cho vào 1 chút xíu tiêu xay cho thơm nhé.&nbsp;</p>
+<div class="box-title">
+    <label>3</label>
+    <h2 id="thuong-thuc" style="text-align: justify;">Thưởng thức món gà nấu lagu</h2>
+</div>
+<p dir="ltr">Với 1 khoảng thời gian ngắn là các bạn có ngay bát lagu gà thơm ngon, đẹp mắt. Với món này rất phù hợp với gia đình nào đãi khách các bạn nhé, món ăn thì hấp dẫn, màu sắc thì bắt mắt. Còn chần chừ gì mà không chế biến món bò lagu gà cho cả nhà!</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hoàn thành món gà nấu lagu" data-thumb="original" original-height="484" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/6-7cff526b-2bf9-4e8b-8705-17f3b5b192ac.jpg?v=1630608370068" /><em>Hoàn thành món gà nấu lagu</em></p>
+<p dir="ltr"><strong>Lưu ý khi nấu lagu gà</strong></p>
+<p dir="ltr">Tuỳ thuộc vào từng loại gà và độ dai của gà để lựa chọn thời gian nấu gà các bạn nhé. Gà công nghiệp nhanh chín thời gian nấu sẽ nhanh hơn.&nbsp;</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-lagu-ga" title="Cách nấu lagu gà mềm thấm vị thơm ngon đãi cả gia đình">Cách nấu lagu gà mềm thấm vị thơm ngon đãi cả gia đình</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-lagu-ga</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-lagu-ga</guid>
+            <pubDate>Thu, 09 Sep 2021 08:31:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cách nấu cháo gà ác đậu xanh thơm ngon bổ dưỡng cho bé và cả gia đình]]></title>
-            <description><![CDATA[<p><strong>Cháo gà ác là một món ăn đơn giản, dễ làm tại nhà, nhưng lại cực kì bổ dưỡng. Rất phù hợp cho gia đình có em bé, người lớn tuổi, và tất cả thành viên trong gia đình. Hãy&nbsp;cùng vào bếp với Tinh Hoa Quê Nhà để chiêu đãi cả gia đình món cháo gà ác đậu xanh thơm ngon bổ dưỡng này nhé!</strong></p>
+            <title><![CDATA[Cách nấu hủ tiếu nam vang, nước lèo trong thơm ngon đậm đà]]></title>
+            <description><![CDATA[<p><meta charset="utf-8" /><strong>Hủ tiếu là món ăn&nbsp;bình dân phổ biến ở hầu hết các tỉnh Nam Bộ.&nbsp;Có nhiều loại hủ tiếu khác nhau nhưng&nbsp;hủ tiếu Nam Vang là sự kết hợp của sợi hủ tiếu dai, gan béo bùi, cật, trứng cút, tôm, thịt heo và không thể thiếu nước lèo đậm đà.&nbsp;Cùng vào bếp học&nbsp;cách nấu hủ tiếu Nam Vang&nbsp;để&nbsp;chiêu đãi cả nhà một món ăn ngon miệng và giàu dinh dưỡng này nhé!</strong></p>
 <div class="box-title"><label>1</label>
-<h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu cháo gà ác đậu xanh</h2></div>
+<h2 id="nguyen-lieu" style="text-align: justify;">Nguyên liệu nấu hủ tiếu nam vang</h2></div>
+<p dir="ltr"><strong>Nguyên liệu nấu nước dùng</strong></p>
 <ul class="staplesrecipe">
-<li>Đậu xanh, gạo tẻ, gạo nếp (tỉ lệ 1 đậu xanh : 2 gạo tẻ : 1 gạo nếp)</li>
-<li>Gừng, hành lá, hành tím</li>
-<li>Gà ác</li></ul>
+<li>Xương heo: 1,2kg</li>
+<li>Tôm khô: 60g</li>
+<li>Mực khô: 40g</li>
+<li>Củ cải trắng: 500g</li>
+<li>Hành tím: 100g</li>
+<li>Gừng: 50g</li>
+<li>Hành, tỏi khô</li>
+<li><strong>Gia vị</strong>: Hạt nêm, muối, đường, bột ngọt,&nbsp;</li></ul>
+<p dir="ltr"><strong>Nguyên liệu ăn kèm</strong></p>
+<ul class="staplesrecipe">
+<li>Hủ tiếu khô: 600g</li>
+<li>Thịt nạc vai: 500g</li>
+<li>Thịt heo xay: 500g</li>
+<li>Mỡ heo: 250g</li>
+<li>Gan heo: 400g</li>
+<li>Cật heo: 300g</li>
+<li>Tôm: 500g</li>
+<li>Trứng cút: 30 quả</li>
+<li><strong>Rau ăn kèm</strong>: Cần tàu, cải cúc, xà lách, giá đỗ, hành lá, hẹ, chanh, ớt</li></ul>
 <div class="box-title"><label>2</label>
-<h2 id="cach-nau" style="text-align: justify;">Cách nấu cháo gà ác đậu xanh</h2></div>
-<p><strong>Bước 1: Sơ chế nguyên liệu&nbsp;</strong></p>
-<p>Gạo nếp, gạo tẻ vo sạch, cho vào nầu trộn với 2 thìa dầu ăn. Để ngấm dầu.</p>
-<p>Đậu xanh cho thêm nước vào ngâm ( dùng nước nóng ấm, sẽ nhanh hơn).</p>
-<p>Gừng cắt sợi, đầu hành lá cắt khúc, hành lá cắt nhỏ, hành tím cắt lát.</p>
-<p><img alt="Sơ chế nguyên liệu  cháo gà ác đậu xanh" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-ga-ac-5.jpg?v=1629999730087" /></p>
-<p style="text-align: center;"><em>Sơ chế nguyên liệu&nbsp;&nbsp;cháo gà ác đậu xanh</em></p>
-<p>Gà ác rửa sạch lại với dấm và muối, cắt khúc vừa ăn. Sau đó cho vào tô ướp thêm 1/4 muỗng canh muối, 1/3 muỗng canh hạt nêm, 1/2&nbsp;muỗng cà phê đường, thêm 1 chút gừng sắt sợi. Đảo đều cho gà ác thấm gia vị</p>
-<p>Đậu xanh đã mềm ngấm nước, đãi sạch bẩn và vỏ, trộn cùng với gạo cho thêm nước vào ninh cháo chín nhừ khoảng 30 phút.</p>
-<p><strong>Bước 2: Xào gà ác</strong>&nbsp;</p>
-<p>Cho dầu vào chảo, phi thơm phần hành tím, sau đó cho gà ác vào xào&nbsp;chín sơ. Giúp gà không bị tanh, món cháo thơm và ngon hơn.&nbsp;</p>
-<p style="text-align: center;"><img alt="Xào sơ gà ác ngấm gia vị thơm ngon" data-thumb="original" original-height="350" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-ga-ac-4.jpg?v=1629999402672" /><em>Xào sơ gà ác ngấm gia vị thơm ngon</em></p>
-<p><strong>Bước 3: Nấu cháo với gà ác&nbsp;</strong></p>
-<p>Nồi cháo đậu xanh đã chín nhừ, các bạn cho thêm gà ác đã xào vào nồi, nêm thêm muối và bột ngọt cho vừa ăn với khẩu vị gia đình, đun nhỏ lửa sôi nhẹ thêm khoảng 15 phút cho nồi cháo thấm gia vị&nbsp;</p>
-<p style="text-align: center;"><img alt="Nấu cháo đậu xanh, gà ác thêm 15 phút cho thấm gia vị" data-thumb="original" original-height="600" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-ga-ac-3.jpg?v=1629999402006" /><em>Nấu cháo đậu xanh, gà ác thêm 15 phút cho thấm gia vị</em></p>
+<h2 id="cac-buoc" style="text-align: justify;">Các bước nấu hủ tiếu nam vang</h2></div>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu hủ tiếu nam vang</strong></p>
+<p dir="ltr">Xương ngâm với nước muối pha loãng và giấm trong 1,5 tiếng. Sau đó rửa sạch cho đến khi nước trong là được nhé.</p>
+<p dir="ltr">Cho vào nồi 1,5 lít nước, 1 chút muối và vài lát gừng tươi, cho xương vào nồi đun sôi khoảng 3 phút sau đó vớt xương ra đem rửa sạch hết phần máu tanh trên xương.&nbsp;</p>
+<p dir="ltr">Thịt nạc vai rửa sạch, cho vào nồi chần qua cùng với nước pha muối và gừng thái lát.&nbsp;</p>
+<p dir="ltr">Cật bổ đôi loại bỏ phần trắng bên trong, gan cắt thành miếng vừa. Cho vào trong chậu, cho thêm chút muối và nước cốt chanh bóp nhiều lần loại bỏ phần máu tụ bên trong, sau đó rửa lại nhiều lần với nước cho sạch.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Sơ chế gan và cật" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/2-888f8074-50fa-46f8-a347-e9d353b7cd85.jpg?v=1630601738510" /><em>Sơ chế gan và cật</em></p>
+<p dir="ltr">Ngâm cật với nước đá, gan ngâm với sữa khoảng 15 phút, sau đó đem rửa sạch với nước.</p>
+<p dir="ltr">Dùng giấy bạc gói 1 củ gừng và 5 củ hành tím khô nướng lên cho thơm. Sau đó gừng cạo vỏ, thái lát mỏng. Hành tím khô bóc vỏ, bổ đôi.&nbsp;</p>
+<p dir="ltr">Mực khô đem nướng cho thơm.&nbsp;</p>
+<p dir="ltr">Tôm khô ngâm nước cho mềm, sau đó đem rang cho thơm.&nbsp;</p>
+<p dir="ltr">Củ cải gọt bỏ vỏ, cắt khoanh tròn dày khoảng 4cm</p>
+<p dir="ltr">Hành tím, tỏi bóc vỏ, đập dập băm nhỏ. Đem tỏi phi thơm cùng với dầu ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hành tím băm nhỏ" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/10-1.jpg?v=1630602155329" /><em>Hành tím băm nhỏ</em></p>
+<p dir="ltr">Hành lá rửa sạch, cắt riêng đầu hành đập dập băm nhỏ, phần lá thái nhỏ.&nbsp;</p>
+<p dir="ltr">Hẹ và cần rửa sạch, sau đó cắt khúc dài 3cm.&nbsp;</p>
+<p dir="ltr">Cắt chanh và ớt thành từng miếng.&nbsp;</p>
+<p dir="ltr">Hủ tiếu khô ngâm nước 10 phút, chần với nước sôi 5 phút cho hủ tiếu mềm. Sau đó vớt ra trộn với dầu hành tỏi phi cho hủ tiếu không dính vào nhau.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Nấu nước dùng hủ tiếu Nam vang</strong></p>
+<p dir="ltr">Cho xương vào nồi cùng với 4 lít nước, cho thêm 10g đường phèn, bật lửa to cho nồi sôi, các bạn nhớ vớt bọt cho nồi nước dùng được trong nhé.</p>
+<p dir="ltr">Vớt bọt xong các bạn hạ nhỏ lửa, hầm nước dùng trong 40 phút, Sau đó các bạn cho tôm và mực khô vào hầm tiếp thêm 1 tiếng nữa.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Cho tôm khô và mực khô vào hầm cùng với xương" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/9-d61f762a-54df-4b0e-b384-db2de413959f.jpg?v=1630602368976" /><em>Cho tôm khô và mực khô vào hầm cùng với xương</em></p>
+<p dir="ltr">Sau 1 tiếng các bạn cho hành tím gừng nướng và củ cải vào hầm thêm 1,5 tiếng nữa nhé. Khi nước dùng của nồi hủ tiếu đã thơm ngon từ các gia vị, các bạn múc hết các nguyên liệu bên trong nồi ra nhé.&nbsp;</p>
+<p dir="ltr">Sau đó cho thêm nước luộc thịt vào nhé, nêm thêm 20g đường phèn, 24g hạt nêm, 15g muối, 25g đường cát, 15g bột ngọt sau đó khuấy đều cho gia vị tan.&nbsp;</p>
+<p dir="ltr"><strong>Bước 3: Thắng mỡ heo</strong></p>
+<p dir="ltr">Bắc chảo lên bếp, cho mỡ heo vào, cho thêm chút nước đảo đều cho săn, để mỡ heo ra mỡ từ từ.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Thắng mỡ heo" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/5-2a0a03d9-d867-48fe-ba8d-f95b13bd5b7e.jpg?v=1630602530863" /><em>Thắng mỡ heo</em></p>
+<p dir="ltr">Khi tóp mỡ vàng các bạn vớt tóp mỡ ra bát để riêng,&nbsp;</p>
+<p dir="ltr"><strong>Bước 4: Xào thịt xay</strong></p>
+<p dir="ltr">Để thịt xay được đậm đà các bạn sẽ ướp thịt xay trước khi xào nhé.</p>
+<p dir="ltr">Cho thịt vào bát, cho thêm 1 chút hành băm nhỏ, 1 chút đầu hành băm nhuyễn, 1 thìa cà phê hạt nêm, 1 thìa cà phê đường, ½ thìa cà phê tiêu xay, 1 thìa cà phê nước mắm.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Ướp thịt xay cùng với gia vị" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/4-ba258beb-2196-4282-9c1d-f7b52e303897.jpg?v=1630602632490" /><em>Ướp thịt xay cùng với gia vị</em></p>
+<p dir="ltr">Sau đó trộn đều lên, ướp thịt 15 phút cho thịt ngấm.&nbsp;Cho 1 chút mỡ heo vào chảo, cho 1 chút hành băm vào phi thơm, sau đó cho thịt vào đảo đều.&nbsp;</p>
+<p dir="ltr">Các bạn cho thêm 1 chút nước dùng vào đảo cùng cho thịt ngọt hơn nhé.</p>
+<p dir="ltr"><strong>Bước 5: Luộc thịt heo, gan, cật, tôm</strong></p>
+<p dir="ltr">Cho vào nồi 1 lít nước, cho thêm ½ thìa cà phê muối, vài lát hành tím và gừng, cho thịt vào luộc.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc thịt cùng với hành tím và gừng" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/13.jpg?v=1630603512958" /><em>Luộc thịt cùng với hành tím và gừng</em></p>
+<p dir="ltr">Luộc 50 phút cho thịt chín, sau đó vớt ra ngâm vào tô nước đá lạnh. Sau đó dùng dao thái miếng mỏng vừa ăn.&nbsp;</p>
+<p dir="ltr">Cho nước vào nồi, cho vào vài lát hành tím, vài lát gừng, ½&nbsp; thìa cà phê tiêu xay đun sôi nước, nước sôi các bạn mới cho gan vào nhé.</p>
+<p dir="ltr">Cho gan vào đun sôi 5 phút là gan chín, gan đã chín các bạn vớt ra ngâm vào tô nước lạnh cho đỡ thâm. Sau đó thái miếng gan mỏng vừa ăn.&nbsp;</p>
+<p dir="ltr">Cho nước vào nồi, cho thêm hành tím thái lát, gừng và vài củ sả, cho thêm ½ thìa cà phê muối đun sôi sau đó cho cật vào luộc 6 phút cho cật chín, vớt ra ngâm vào nước đá. Sau đó thái miếng vừa ăn.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Luộc gan xong các bạn thái miếng vừa ăn" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/15.jpg?v=1630603608020" /><em>Luộc gan xong các bạn thái miếng vừa ăn</em></p>
+<p dir="ltr">Cho tôm và nước vào nồi, đun sôi 3 phút cho tôm chín sau đó vớt ra cho nguội bóc phần vỏ.&nbsp;</p>
+<p dir="ltr">Trứng cút cho vào cùng nước luộc chín. Sau đó vớt ra ngâm nước lạnh, lột bỏ vỏ.&nbsp;</p>
+<div class="box-title">
+    <label>3</label>
+    <h2 id="thuong-thuc" style="text-align: justify;">Thưởng thức hủ tiếu nam vang</h2>
+</div>
+<p dir="ltr">Sau khi đã chuẩn bị đầy đủ xong các nguyên liệu cho món hủ tiếu Nam vang thì bây giờ các bạn chuẩn bị&nbsp; thưởng thức nhé.&nbsp;</p>
+<p dir="ltr">Cho hủ tiếu vào tô, lần lượt xếp tôm, thịt, gan, cật, trứng cút, tóp mỡ, thịt băm, hẹ, cần tàu, chan nước lèo khi còn nóng vào bát, rắc thêm chút tỏi phi vàng.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hủ tiếu Nam Vang thơm ngon nức mũi" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/1-d229f3db-f440-4933-ab37-cc1a1695b7b3.jpg?v=1630603837800" /><em>Hủ tiếu Nam Vang thơm ngon nức mũi</em></p>
+<p dir="ltr">Chưa cần được ăn, chỉ nhìn thôi đã thấy hấp dẫn phải không các bạn. Thảo nào mà hủ tiếu Nam vang lại nổi tiếng khắp miền nam đến vậy, tô hủ tiếu nhìn đẹp mắt, khi ăn hủ tiếu nước dùng ngọt thanh rất hấp dẫn các bạn ạ.</p>
+<p dir="ltr">Cùng thay đổi bữa sáng của gia đình bằng tô hủ tiếu Nam vang với công thức trên.&nbsp;</p>
+<p dir="ltr"><em>Chúc các bạn thành công!</em></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-hu-tieu-nam-vang" title="Cách nấu hủ tiếu nam vang, nước lèo trong thơm ngon đậm đà">Cách nấu hủ tiếu nam vang, nước lèo trong thơm ngon đậm đà</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-hu-tieu-nam-vang</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-hu-tieu-nam-vang</guid>
+            <pubDate>Thu, 09 Sep 2021 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bí quyết 2 cách nấu chè trôi nước cực ngon mềm dẻo và không bị cứng]]></title>
+            <description><![CDATA[<p><strong>Chè trôi nước là món ăn vặt quen thuộc của người Việt;&nbsp;với những viên chè trôi nước tròn tròn, mềm dẻo từ bột nếp kết hợp với&nbsp;nhân đậu xanh, nhân mặn hoặc không cần nhân.&nbsp;Khi ăn chè có độ dẻo và quánh, và đặc biệt có vị thơm của nước gừng. Hôm nay Tinh Hoa Quê Nhà&nbsp;sẽ hướng dẫn các bạn nấu chè trôi nước ngon mềm dẻo, đơn giản dễ làm tại nhà!</strong></p>
+<p><meta charset="utf-8" /></p>
+<div class="box-title"><label>1</label>
+<h2 id="dau-xanh" style="text-align: justify;">Chè trôi nước nhân đậu xanh</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu chè trôi nước nhân đậu xanh</strong></h3>
+<ul class="staplesrecipe">
+<li>Bột nếp: 400g</li>
+<li>Đậu xanh: 400g</li>
+<li>Đường thốt nốt: 400g</li>
+<li>Đường cát: 100g</li>
+<li>Nước cốt dừa: 400g</li>
+<li>Lá dứa: 2 lá</li>
+<li>Khoai tây: 100g</li>
+<li>Gừng: 1 củ</li>
+<li>Mè (vừng): 20g</li>
+<li>Muối</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu chè trôi nước nhân đậu xanh</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu chè trôi nước nhân đậu xanh</strong></p>
+<p dir="ltr">Đậu xanh rửa sạch với nước, sau đó ngâm đậu xanh với nước 30 phút cho mềm.&nbsp;</p>
+<p dir="ltr">Khoai tây gọt vỏ, rửa sạch thái miếng dày khoảng 5 cm sau đó ngâm 5 phút với nước. Vớt lên đem hấp chín, tán nhuyễn.</p>
+<p dir="ltr">Lá dứa rửa sạch, bó lại thành bó.&nbsp;</p>
+<p dir="ltr">Gừng cạo vỏ, rửa sạch, 1 phần thái sợi, 1 phần thái lát mỏng.</p>
+<p dir="ltr">Mè rang vàng cho thơm.&nbsp;</p>
+<p dir="ltr"><strong>Bước 2: Làm nhân đậu đậu xanh</strong></p>
+<p dir="ltr">Cho đậu xanh vào nồi hấp 20 phút cho đậu chín,&nbsp;cho đậu chín vào chảo tán nhuyễn, cho vào 100ml nước cốt dừa, 3 thìa canh đường, ⅓ thìa cà phê muối.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Hấp đậu xanh 20 phút cho chín" data-thumb="original" original-height="456" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/2-fd5ef784-c630-4dfe-93ff-0c8092a93875.jpg?v=1630078429691" /><em>Hấp đậu xanh 20 phút cho&nbsp;chín</em></p>
+<p dir="ltr">Trộn đều lên bật bếp nhỏ sên đậu xanh cho đến khi đậu xanh tạo thành khối quyện lại với nhau. Các bạn chia đều nhân và xoay tròn nhân sau đó dùng màng bọc thực phẩm đậy lại để nhân không bị khô nhé.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chia nhân đậu xanh, sau đó lăn tròn lại" data-thumb="original" original-height="456" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/3-86629d82-6652-4af3-919f-9cad427f4d2c.jpg?v=1630078508332" /><em>Chia nhân đậu xanh, sau đó lăn tròn lại</em></p>
+<p dir="ltr"><strong>Bước 3: Nhào bột nếp</strong></p>
+<p dir="ltr">Cho 400g bột nếp, khoai tây và 370ml nước ấm vào bát. Dùng tay trộn đều và nhào cho các nguyên liệu hoà quyện vào với nhau tạo thành khối dẻo.&nbsp;Sau đó các bạn dùng màng bọc thực phẩm bọc lại ủ bột 20 phút.&nbsp;</p>
 <div class="tipsrecipe">
-<p><em>Các bạn lưu ý đảo đều tay để nồi cháo không bị cháy bên dưới nồi.</em></p></div>
-<p>Cháo đã chín nhừ, các bạn cho thêm 1 chút&nbsp;gừng sắt sợi, đầu hành cắt khúc, hành lá cắt nhỏ, đảo đều, và múc ra tô thưởng thức thôi.&nbsp;</p>
-<p style="text-align: center;"><img alt="Cách nấu cháo gà ác đậu xanh thơm ngon bổ dưỡng" data-thumb="original" original-height="400" original-width="640" src="//bizweb.dktcdn.net/100/420/256/files/chao-ga-ac-2.jpg?v=1629999401421" /><em>Cách nấu cháo gà ác đậu xanh thơm ngon bổ dưỡng</em></p>
-<p>Thêm một chút tiêu và hành phi nữa thì là chuẩn vị thơm ngon cho món cháo gà ác đậu xanh. Món cháo gà ác đậu xanh đặc biệt phù hợp với trẻ con, người lớn tuổi, và tất cả các thành viên trong gia đình&nbsp;Chúc các bạn thành công nha&nbsp;</p>
-<p>*Hình ảnh và nội dung bài viết tham khảo youtube&nbsp;<a href="https://www.youtube.com/watch?v=mI_jAI9tdh4" rel="nofollow" target="_blank" title="Cách nấu cháo gà ác">Bếp Của Vợ</a></p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-chao-ga-ac" title="Cách nấu cháo gà ác đậu xanh thơm ngon bổ dưỡng cho bé và cả gia đình">Cách nấu cháo gà ác đậu xanh thơm ngon bổ dưỡng cho bé và cả gia đình</a>]]></description>
-            <link>https://tinhhoaquenha.vn/cach-nau-chao-ga-ac</link>
-            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-chao-ga-ac</guid>
-            <pubDate>Tue, 07 Sep 2021 05:10:00 GMT</pubDate>
+<p dir="ltr"><strong>Lưu ý: </strong>Tuỳ vào bột để lâu hoặc bột mới nên các bạn có thể thay đổi lượng nước để phù hợp nhé. Khi nào bột các bạn cho nước vào từ từ để tránh bột bị nhão nhé.</p></div>
+<p dir="ltr"><strong>Bước 4: Nấu nước cốt dừa</strong></p>
+<p dir="ltr">Cho 300ml nước cốt dừa vào nồi, thêm 100ml nước lọc, ⅓ thìa cà phê muối, thêm 2 thìa cà phê bột năng hoà tan với nước, 1 bó lá dứa.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nấu nước cốt dừa sánh, mịn" data-thumb="original" original-height="456" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/5-91ed3262-8353-4f0a-9451-c9b70ae9a2fd.jpg?v=1630078617584" /><em>Nấu nước cốt dừa sánh, mịn</em></p>
+<p dir="ltr">Các bạn khuấy đều, bật bếp lên đun lửa nhỏ khuấy cho đến khi nước cốt dừa sánh lại các bạn tắt bếp để nguội.&nbsp;</p>
+<p dir="ltr"><strong>Bước 5: Bọc nhân chè trôi nước</strong></p>
+<p dir="ltr">Bột đã ủ được 20 phút, các bạn lấy ra chia 1 lượng bột vừa đủ tẩm 30g, lăn tròn ấn dẹt sau đó cho nhân vào giữa, dùng tay miết kín nhân đậu xanh lại để khí không lọt vào bên trong.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Bọc nhân cho hạt chè trôi nước" data-thumb="original" original-height="456" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/6-ac2709d1-912c-4cc0-afd7-d1fca4fc0a3d.jpg?v=1630078687753" /><em>Bọc nhân cho hạt chè trôi nước</em></p>
+<p dir="ltr">Số bột còn lại các bạn nặn bánh nhỏ không cần nhân nhé.&nbsp;</p>
+<p dir="ltr"><strong>Bước 6: Nấu chè trôi nước nhân đậu xanh</strong></p>
+<p dir="ltr">Cho 1,2 lít nước vào nồi, cho thêm 400g đường thốt nốt khuấy đều cho tan, cho thêm gừng vào đun sôi.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nấu bánh trôi nước cùng với gừng" data-thumb="original" original-height="393" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/11-1-a4ab01b2-9802-4f4e-8d6e-9bc9d0fa3631.jpg?v=1630078895275" /><em>Nấu bánh trôi nước cùng với gừng</em></p>
+<p dir="ltr">Sau đó các bạn cho bánh trôi nước vào đun sôi cho đến khi bánh nổi lên trên, các bạn hạ nhỏ lửa và đun thêm 10 phút nữa là các bạn tắt bếp.</p>
+<p dir="ltr">Nồi chè trôi nước nhân đậu xanh đã hoàn thành các bạn nhé, các bạn múc chè ra bát, cho thêm chút nước cốt dừa, rắc thêm mè rang là có thể thưởng thức rồi.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Chè trôi nước thơm ngon béo ngậy" data-thumb="original" original-height="456" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/1-0639ea7a-08b5-4c65-89a2-2c0377dfe1df.jpg?v=1630078969815" /><em>Chè trôi nước thơm ngon béo ngậy</em></p>
+<p dir="ltr">Vị đặc trưng của món chè trôi nước nhân đậu xanh là vị thơm của gừng, vị béo ngậy của nước cốt dừa, vỏ bánh mềm, nhân đậu xanh dẻo quyện vào nhau tạo nên đặc trưng của món chè trôi nước nhân đậu xanh.</p>
+<div class="box-title"><label>2</label>
+<h2 id="nhan-man" style="text-align: justify;">Chè trôi nước nhân mặn</h2></div>
+<h3 dir="ltr"><strong>Nguyên liệu nấu chè trôi nước nhân mặn</strong></h3>
+<p><strong>Nguyên liệu làm nhân bánh</strong></p>
+<ul class="staplesrecipe">
+<li>Thịt lợn xay: 200g</li>
+<li>Nấm hương: 100g</li>
+<li>Mộc nhĩ (Nấm mèo): 100g</li>
+<li>Lạc rang: 10g</li>
+<li>Gia vị: hạt nêm, tiêu, bột ngọt</li></ul>
+<p dir="ltr"><strong>Nguyên liệu làm vỏ bánh</strong></p>
+<ul class="staplesrecipe">
+<li>Bột nếp: 150g</li>
+<li>Bột năng: 15g</li></ul>
+<p dir="ltr"><strong>Nguyên liệu nấu nước đường</strong></p>
+<ul class="staplesrecipe">
+<li>Đường thốt nốt</li>
+<li>Lá dứa: 3 lá</li>
+<li>Gừng: 1 củ</li>
+<li>Bột năng: 30g</li>
+<li>Muối, nước, dừa bào sợi, lạc rang</li></ul>
+<h3 dir="ltr"><strong>Các bước nấu chè trôi nước nhân mặn</strong></h3>
+<p dir="ltr"><strong>Bước 1: Sơ chế nguyên liệu nấu chè trôi nước nhân mặn</strong></p>
+<p dir="ltr">Nấm hương rửa sạch, ngâm nước nước nóng 10 phút, rửa lại với nước sạch. Sau đó băm nhuyễn.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Băm nhuyễn nấm hương và mộc nhĩ" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/2-db83b8c1-2809-45e9-a99f-9d2770174700.jpg?v=1630605078013" /><em>Băm nhuyễn nấm hương và mộc nhĩ</em></p>
+<p dir="ltr">Mộc nhĩ ngâm nước nóng 15 phút, rửa sạch với nước, cắt bỏ phần chân mộc nhĩ. Dùng dao thái sợi sau đó băm nhuyễn.</p>
+<p dir="ltr">Gừng cạo vỏ rửa sạch, đập dập</p>
+<p dir="ltr">Lá dứa rửa sạch, cắt khúc.&nbsp;</p>
+<p dir="ltr">Cho 15g bột năng vào bát cùng với 20ml nước khuấy đều.</p>
+<p dir="ltr"><strong>Bước 2: Đảo nhân mặn bánh trôi nước</strong></p>
+<p dir="ltr">Cho dầu ăn vào chảo, đun nóng. Cho nấm hương và mộc nhĩ vào đảo, sau đó cho thêm thịt vào đảo cùng.&nbsp;</p>
+<p dir="ltr">Cho thêm ⅓ thìa cà phê hạt nêm, ½ thìa cà phê bột ngọt và một chút tiêu. Đảo đều lên cho thịt ngấm gia vị.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Đảo thịt cùng nấm hương và mộc nhĩ ngấm gia vị" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/3-aac7b220-70e0-4ca9-87fd-ca259120bc0c.jpg?v=1630605158928" /><em>Đảo thịt cùng nấm hương và mộc nhĩ ngấm gia vị</em></p>
+<p dir="ltr"><strong>Bước 3: Làm bánh trôi nhân mặn</strong></p>
+<p dir="ltr">Cho vào bát to 150g bột nếp, 15g bột năng trộn đều sau đó cho vào 120ml nước, dùng tay nhào bột thành khối dẻo không dính tay là được các bạn nhé.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nhào bột tạo thành khối" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/4-495460f5-b7e1-46b1-8372-7163bd086f4b.jpg?v=1630605272001" /><em>Nhào bột tạo thành khối</em></p>
+<p dir="ltr">Sau đó các bạn lấy 1 lượng bột vừa đủ, xoay tròn, tán dẹt ra sau đó cho nhân vào giữa và gói tròn viên bột lại.&nbsp;</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nhồi nhân mặn vào bánh" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/5-57326c76-b0d4-402c-b1df-034893fc8686.jpg?v=1630605348028" /><em>Nhồi nhân mặn vào bánh</em></p>
+<p dir="ltr">Sau đó đem bánh trôi luộc với nước sôi cho chín, vớt ra cho vào bát nước lạnh.</p>
+<p dir="ltr"><strong>Bước 4: Nấu chè trôi nước nhân mặn</strong></p>
+<p dir="ltr">Bắc nồi lên bếp, cho lá dứa, đường thốt nốt, gừng và 800ml nước lọc sau đó đun sôi. Khi nồi đường sôi các bạn cho bánh trôi vào nồi, đun sôi cho nước đường ngấm vào bánh.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Nấu chè trôi nước nhân mặn" data-thumb="original" original-height="827" original-width="973" src="//bizweb.dktcdn.net/100/420/256/files/12-1.jpg?v=1630605899511" /><em>Nấu chè trôi nước nhân mặn</em></p>
+<p dir="ltr">Đun được khoảng 3 phút các bạn vớt lá dứa ra, từ từ cho bột năng đã hoà tan vào nồi đun thêm 2 phút nữa, bột năng chín các bạn có thể tắt bếp.&nbsp;</p>
+<p dir="ltr">Như vậy là nồi chè trôi nước nhân mặt đã hoàn thành, các bạn múc ra bát, cho thêm chút dừa sợi và 1 ít lạc rang nữa là có thể thưởng thức các bạn nhé.</p>
+<p dir="ltr" style="text-align: center;"><img alt="Thưởng thức chè trôi nước nhân mặn" data-thumb="original" original-height="510" original-width="600" src="//bizweb.dktcdn.net/100/420/256/files/1-8f68f46c-7540-42fd-9249-c66ea9d3cef7.jpg?v=1630605972321" /><em>Thưởng thức chè trôi nước nhân mặn</em></p>
+<p dir="ltr">Chè trôi nước là món chè rất dễ làm và cách làm thì vô cùng đơn giản, tuỳ thuộc vào khẩu vị của từng gia đình mà các bạn sẽ nấu chè theo cách nào.</p>
+<p dir="ltr">Tinh Hoa Quê Nhà vừa giới thiệu tới các bạn 2 cách nấu chè trôi nước rất dễ làm, vỏ bánh mềm, nhân bánh đậu xanh dẻo mịn, nhân mặn thì lạ miệng.</p>
+<p dir="ltr">Trong những ngày se lạnh rất thích hợp nấu cho mọi thành viên trong gia đình thưởng thức các bạn nhé. Chúc các bạn thành công với 2 cách nấu chè trôi nước trên.</p><br>Xem chi tiết tại: <a href="https://tinhhoaquenha.vn/cach-nau-che-troi-nuoc" title="Bí quyết 2 cách nấu chè trôi nước cực ngon mềm dẻo và không bị cứng">Bí quyết 2 cách nấu chè trôi nước cực ngon mềm dẻo và không bị cứng</a>]]></description>
+            <link>https://tinhhoaquenha.vn/cach-nau-che-troi-nuoc</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/cach-nau-che-troi-nuoc</guid>
+            <pubDate>Wed, 08 Sep 2021 09:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
