@@ -40,10 +40,17 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     updateAndSaveLastPost(lastPost);
     console.log(`NewLastPost: ${lastPost}`);
 
-  
     createTwitterRss(data)
     createBloggerRss(data)
     createTumblrRss(data)
+
+    var dataGN = res.data.articles.filter((article) => {
+        return article.published_on != null
+    }).sort(function (a, b) {
+        return new Date(b.published_on) - new Date(a.published_on);
+    })
+    createGoogleNewsRss(dataGN)
+
 }).catch((error) => {
     console.error(error)
 })
@@ -63,6 +70,30 @@ function saveXMLFile(path, xml) {
 }
 
 // -------------------- twitter ----------------------------
+function createGoogleNewsRss(data) {
+    var feed = new RSS({
+        title: 'Công thức nấu ăn - Tinh hoa quê nhà',
+        description: 'Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà',
+        pubDate: new Date()
+    });
+    for (let i = 0; i < data.length; i++) {
+        var article = data[i];
+        var url = 'https://tinhhoaquenha.vn/' + article.alias;
+        var img = `<a href="${url}"><img src="${article.image.src}"></a></br>`
+        const itemOptions = {
+            title: article.meta_title + " "+ url,
+            description: img + article.meta_description,
+            url: url,
+            guid: url,
+            date: article.published_on
+        };
+        feed.item(itemOptions);
+    }
+    var xml = feed.xml({ indent: true });
+    saveXMLFile("googlenews.xml", xml);
+}
+
+
 function createTumblrRss(data){
     var feed = new RSS({
         title: 'Công thức nấu ăn - Tinh hoa quê nhà',
