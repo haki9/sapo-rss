@@ -18,58 +18,23 @@ function getLastPost() {
     return post ? post.published_on : 0;
 }
 
-var page = 1;
+var page = 22;
 var limit = 250;
 var data;
 
-axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250&page=1', {
+axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=30&page=' + page, {
     headers: {
         'X-Sapo-Access-Token': sapo.token
     }
 }).then((res) => {
-
-    data = res.data.articles.filter((article) => {
+    
+    var dataGN = res.data.articles.filter((article) => {
         return article.published_on != null
     }).sort(function (a, b) {
         return new Date(b.published_on) - new Date(a.published_on);
-    });
-
-    axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250&page=2', {
-        headers: {
-            'X-Sapo-Access-Token': sapo.token
-        }
-    }).then((res) => {
-        data = data.concat(res.data.articles.filter((article) => {
-            return article.published_on != null
-        }).sort(function (a, b) {
-            return new Date(b.published_on) - new Date(a.published_on);
-        }))
-
-        axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250&page=3', {
-            headers: {
-                'X-Sapo-Access-Token': sapo.token
-            }
-        }).then((res) => {
-            data = data.concat(res.data.articles.filter((article) => {
-                return article.published_on != null
-            }).sort(function (a, b) {
-                return new Date(b.published_on) - new Date(a.published_on);
-            }))
-            createGoogleNewsRss(data)
-        }).catch((error) => {
-            console.error(error)
-        });
-    }).catch((error) => {
-        console.error(error)
-    });
-
-    // var dataGN = res.data.articles.filter((article) => {
-    //     return article.published_on != null
-    // }).sort(function (a, b) {
-    //     return new Date(b.published_on) - new Date(a.published_on);
-    // })
-    // console.log(dataGN.length)
-    // createGoogleNewsRss(dataGN)
+    })
+    console.log(dataGN.length)
+    createGoogleNewsRss(dataGN)
 
     // var lastPost = getLastPost();
     // // console.log(res.data);
@@ -132,7 +97,7 @@ function createGoogleNewsRss(data) {
     var xml = feed.xml({
         indent: true
     });
-    saveXMLFile("full.xml", xml);
+    saveXMLFile("page" + page + ".xml", xml);
 }
 
 

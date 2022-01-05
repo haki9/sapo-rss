@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Công thức nấu ăn - Tinh hoa quê nhà]]></title>
+        <description><![CDATA[Tổng hợp các công thức nấu ăn ngon cùng tinh hoa quê nhà]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 05 Jan 2022 07:29:55 GMT</lastBuildDate>
+        <pubDate>Wed, 05 Jan 2022 07:29:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Quà Tặng Gửi Trao Văn Hóa Ẩm Thực Việt]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/qua-tang-gui-trao-van-hoa-am-thuc-viet"><img src="https://bizweb.dktcdn.net/100/420/256/articles/nhie-u-ma-u-sa-c-thu-co-ng-hi-nh-minh-ho-a-hu-o-ng-da-n-ta-ng-qua-gia-ng-sinh-cho-nhu-ng-chu-doanh-nghie-p-nho-su-kie-n-va-so-thi-ch-da-c-bie-t-ba-i-thuye-t-tri-nh.png?v=1640164797863"></a></br>Sống khỏe và hạnh phúc luôn là ước mong của mỗi chúng ta. Khi cuộc sống hiện đại ngày càng bận rộn thì sức khỏe thể chất và sức khỏe tinh thần lại càng được quan tâm, chăm sóc nhiều hơn. Quà tặng sức khỏe, quà tặng ẩm thực gửi đến gia đình, cha mẹ, người thân, doanh nghiệp, đối tác… trong mỗi dịp lễ Tết hay đời sống]]></description>
+            <link>https://tinhhoaquenha.vn/qua-tang-gui-trao-van-hoa-am-thuc-viet</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/qua-tang-gui-trao-van-hoa-am-thuc-viet</guid>
+            <pubDate>Wed, 22 Dec 2021 08:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lời mẹ dặn: “Con có đi gần xa…”]]></title>
+            <description><![CDATA[<a href="https://tinhhoaquenha.vn/loi-me-dan-con-co-di-gan-xa"><img src="https://bizweb.dktcdn.net/100/420/256/articles/screen-shot-2021-12-29-at-10-41-21-am-min.png?v=1640749940130"></a></br>Có cơm nào ngon bằng cơm mẹ nấu Có vị nào thương nhớ bằng vị bếp nhà yêu Dẻo thơm chan chứa sớm chiều  Sum vầy mẹ nấu tinh hoa quê nhà.   Gác lại ngoài kia bao mệt nhoài, trở về ấm áp bên mâm cơm gia đình là điều tuyệt vời nhất. Chỉ một vài miếng khô cá thơm phức, chả giò chiên giòn hay thịt kho tộ, khổ qua nhồi thịt,]]></description>
+            <link>https://tinhhoaquenha.vn/loi-me-dan-con-co-di-gan-xa</link>
+            <guid isPermaLink="false">https://tinhhoaquenha.vn/loi-me-dan-con-co-di-gan-xa</guid>
+            <pubDate>Tue, 21 Dec 2021 02:26:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
