@@ -22,39 +22,39 @@ var page = 22;
 var limit = 250;
 var data;
 
-axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=30&page=' + page, {
+axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250', {
     headers: {
         'X-Sapo-Access-Token': sapo.token
     }
 }).then((res) => {
     
-    var dataGN = res.data.articles.filter((article) => {
-        return article.published_on != null
-    }).sort(function (a, b) {
-        return new Date(b.published_on) - new Date(a.published_on);
-    })
-    console.log(dataGN.length)
-    createGoogleNewsRss(dataGN)
-
-    // var lastPost = getLastPost();
-    // // console.log(res.data);
-    // var data = res.data.articles.filter((article) => {
-    //     return article.published_on != null && new Date(article.published_on) > new Date(lastPost);
+    // var dataGN = res.data.articles.filter((article) => {
+    //     return article.published_on != null
     // }).sort(function (a, b) {
     //     return new Date(b.published_on) - new Date(a.published_on);
-    // });
+    // })
+    // console.log(dataGN.length)
+    // createGoogleNewsRss(dataGN)
 
-    // console.log("New Posts: " + data.length);
-    // // console.log(JSON.stringify(data));
+    var lastPost = getLastPost();
+    console.log(res.data.articles.length);
+    var data = res.data.articles.filter((article) => {
+        return article.published_on != null && new Date(article.published_on) > new Date(lastPost);
+    }).sort(function (a, b) {
+        return new Date(b.published_on) - new Date(a.published_on);
+    });
 
-    // if (!data || data.length <= 0) return;
-    // lastPost = data[0].published_on;
-    // updateAndSaveLastPost(lastPost);
-    // console.log(`NewLastPost: ${lastPost}`);
+    console.log("New Posts: " + data.length);
+    // console.log(JSON.stringify(data));
 
-    // createTwitterRss(data)
-    // createBloggerRss(data)
-    // createTumblrRss(data)
+    if (!data || data.length <= 0) return;
+    lastPost = data[0].published_on;
+    updateAndSaveLastPost(lastPost);
+    console.log(`NewLastPost: ${lastPost}`);
+
+    createTwitterRss(data)
+    createBloggerRss(data)
+    createTumblrRss(data)
 
 }).catch((error) => {
     console.error(error)
@@ -97,7 +97,7 @@ function createGoogleNewsRss(data) {
     var xml = feed.xml({
         indent: true
     });
-    saveXMLFile("page" + page + ".xml", xml);
+    saveXMLFile("googlenews.xml", xml);
 }
 
 
