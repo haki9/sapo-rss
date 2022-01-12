@@ -34,7 +34,7 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?lim
         return new Date(b.published_on) - new Date(a.published_on);
     })
 
-    dataGN = dataGN.slice(0, 50)
+    dataGN = dataGN.slice(0, 20)
     console.log(dataGN.length)
     createGoogleNewsRss(dataGN)
 
