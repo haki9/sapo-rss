@@ -22,7 +22,7 @@ var page = 22;
 var limit = 250;
 var data;
 
-axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
+axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250', {
     headers: {
         'X-Sapo-Access-Token': sapo.token
     }
@@ -33,6 +33,8 @@ axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     }).sort(function (a, b) {
         return new Date(b.published_on) - new Date(a.published_on);
     })
+
+    dataGN = dataGN.slice(0, 50)
     console.log(dataGN.length)
     createGoogleNewsRss(dataGN)
 
