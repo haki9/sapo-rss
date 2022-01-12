@@ -22,19 +22,19 @@ var page = 22;
 var limit = 250;
 var data;
 
-axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json?limit=250', {
+axios.get('https://tinhhoaquenha.mysapo.net/admin/blogs/519464/articles.json', {
     headers: {
         'X-Sapo-Access-Token': sapo.token
     }
 }).then((res) => {
     
-    // var dataGN = res.data.articles.filter((article) => {
-    //     return article.published_on != null
-    // }).sort(function (a, b) {
-    //     return new Date(b.published_on) - new Date(a.published_on);
-    // })
-    // console.log(dataGN.length)
-    // createGoogleNewsRss(dataGN)
+    var dataGN = res.data.articles.filter((article) => {
+        return article.published_on != null
+    }).sort(function (a, b) {
+        return new Date(b.published_on) - new Date(a.published_on);
+    })
+    console.log(dataGN.length)
+    createGoogleNewsRss(dataGN)
 
     var lastPost = getLastPost();
     console.log(res.data.articles.length);
